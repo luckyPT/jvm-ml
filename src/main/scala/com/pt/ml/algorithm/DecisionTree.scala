@@ -67,7 +67,7 @@ object DecisionTree {
         val weightRecall = MultiClassEvaluation.weightedRecall(predictions, "indexedLabel", "prediction")
         val f1 = MultiClassEvaluation.f1(predictions, "indexedLabel", "prediction")
         println(s"test result:accuracy = $accuracy; weightPrecision = $weightPrecision; weightRecall = $weightRecall; f1 = $f1")
-        MultiClassEvaluation.showPrecisionRecallF1Tpr(predictions, "indexedLabel", "prediction")
+        MultiClassEvaluation.showPrecisionRecallF1(predictions, "indexedLabel", "prediction")
         val treeModel = model.stages(2).asInstanceOf[DecisionTreeClassificationModel]
         println(s"Learned classification tree model:\n ${treeModel.toDebugString}")
     }

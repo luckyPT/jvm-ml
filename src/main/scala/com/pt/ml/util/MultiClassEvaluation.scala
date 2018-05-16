@@ -52,7 +52,7 @@ object MultiClassEvaluation {
     }
 
     //查看每一类的precision 和 recall
-    def showPrecisionRecallF1Tpr(preLabel: RDD[(Double, Double)]): Unit = {
+    def showPrecisionRecallF1(preLabel: RDD[(Double, Double)]): Unit = {
         val metrics = new MulticlassMetrics(preLabel)
         val labels = metrics.labels
         val pValues = new Array[Double](labels.length)
@@ -70,8 +70,8 @@ object MultiClassEvaluation {
         histogram.showPlot()
     }
 
-    def showPrecisionRecallF1Tpr(dataSet: Dataset[_], pre: String, label: String): Unit = {
+    def showPrecisionRecallF1(dataSet: Dataset[_], pre: String, label: String): Unit = {
         val preLabel = dataSet.select(pre, label).toDF("pre", "label").rdd.map(r => (r.getDouble(0), r.getDouble(1)))
-        showPrecisionRecallF1Tpr(preLabel)
+        showPrecisionRecallF1(preLabel)
     }
 }

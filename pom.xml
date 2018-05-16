@@ -24,5 +24,10 @@
             <artifactId>jcommon</artifactId>
             <version>1.0.16</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.hirofumi</groupId>
+            <artifactId>xgboost4j-spark_2.11</artifactId>
+            <version>0.7.0-p3</version>
+        </dependency>
     </dependencies>
 </project>

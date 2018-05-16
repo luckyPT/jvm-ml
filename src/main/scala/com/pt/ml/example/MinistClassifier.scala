@@ -129,7 +129,7 @@ object MinistClassifier {
       * @param testMinistStandard  测试集
       * @return
       */
-    def gbdtClassfier(spark: SparkSession, trainMinistStandard: DataFrame, testMinistStandard: DataFrame): GBTRegressionModel = {
+    def gbdtRegression(spark: SparkSession, trainMinistStandard: DataFrame, testMinistStandard: DataFrame): GBTRegressionModel = {
 
         val gbt = new GBTRegressor()
                 .setLabelCol("label")
@@ -156,5 +156,45 @@ object MinistClassifier {
         println(s" preTest accuracy:" + MultiClassEvaluation.accuracy(spark, preTest))
         gbdtModel
 
+    }
+
+    /**
+      * 使用gbdt二分类器结合OneVsRest进行多分类
+      * OneVsRest 存在的问题：二分类时的数据不均衡；每一类别的置信度大小比较并不十分严谨；训练非常耗时;
+      * 效果还可以，accuracy：0.94
+      *
+      * @param spark               spark上下文
+      * @param trainMinistStandard 训练集
+      * @param testMinistStandard  测试集
+      * @return
+      */
+    def gbdtClassfier(spark: SparkSession, trainMinistStandard: DataFrame, testMinistStandard: DataFrame): OneVsRestModel = {
+        // Train a GBT model.
+        val gbt = new GBTClassifier()
+                .setLabelCol("indexedLabel")
+                .setFeaturesCol("indexedFeatures")
+                .setMaxDepth(26)
+                .setMaxIter(10)
+                .setFeatureSubsetStrategy("0.2")
+
+        val ovr = new OneVsRest().setClassifier(gbt)
+        val ovrModel = ovr.fit(trainMinistStandard)
+
+        val preTrain = ovrModel.transform(trainMinistStandard).select("label", "prediction")
+                .rdd
+                .map {
+                    row =>
+                        (row.getDouble(0), Math.rint(row.getDouble(1)))
+                }
+
+        val preTest = ovrModel.transform(testMinistStandard).select("label", "prediction")
+                .rdd
+                .map {
+                    row =>
+                        (row.getDouble(0), Math.rint(row.getDouble(1)))
+                }
+        println(s" preTrain accuracy:" + MultiClassEvaluation.accuracy(spark, preTrain))
+        println(s" preTest accuracy:" + MultiClassEvaluation.accuracy(spark, preTest))
+        ovrModel
     }
 }

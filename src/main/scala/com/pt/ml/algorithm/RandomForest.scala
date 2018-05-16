@@ -70,7 +70,7 @@ object RandomForest {
         val weightRecall = MultiClassEvaluation.weightedRecall(predictions, "indexedLabel", "prediction")
         val f1 = MultiClassEvaluation.f1(predictions, "indexedLabel", "prediction")
         println(s"test result:accuracy = $accuracy; weightPrecision = $weightPrecision; weightRecall = $weightRecall; f1 = $f1")
-        MultiClassEvaluation.showPrecisionRecallF1Tpr(predictions, "indexedLabel", "prediction")
+        MultiClassEvaluation.showPrecisionRecallF1(predictions, "indexedLabel", "prediction")
         val rfModel = model.stages(2).asInstanceOf[RandomForestClassificationModel]
         println(s"Learned classification forest model:\n ${rfModel.toDebugString}")
     }
