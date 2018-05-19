@@ -25,7 +25,7 @@ import scala.collection.mutable
   * -- silent：0、1 是否输出日志
   * -- nthread：线程数目，默认是最大可用值
   * - Boost：
-  * -- eta(learning_rate)：默认0.3,降低新特征的权重，防止过拟合
+  * -- eta(learning_rate)：默认0.3,降低新树叶子输出值权重，防止过拟合
   * -- gamma：[0,∞],节点分裂的惩罚系数，值越大，模型则越保守
   * -- max_depth：
   * -- min_child_weight：计算节点中每个样本的某个值（暂时不清楚是什么值），然后求和；如果这个值小于min_child_weight则这个节点不再继续分裂；
