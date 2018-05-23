@@ -8,6 +8,9 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 
 import scala.collection.mutable.ListBuffer
 
+/**
+  * https://www.kaggle.com/c/digit-recognizer
+  */
 object MinistClassifier {
     def main(args: Array[String]): Unit = {
         val spark = SparkSession.builder()

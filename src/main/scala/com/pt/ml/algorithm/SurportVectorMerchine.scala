@@ -10,7 +10,8 @@ import scala.collection.mutable.ListBuffer
 /**
   * spark 只提供了线性 SVM，即只有线性核函数；不支持其他核函数
   * SVM调优：
-  * 变换核函数
+  * 调整惩罚系数C（分错之后的惩罚，与L2惩罚并不是同一个概念）
+  * 变换核函数,调整核函数的相关参数和
   */
 object SurportVectorMerchine {
     def main(args: Array[String]): Unit = {

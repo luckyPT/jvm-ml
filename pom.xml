@@ -29,5 +29,15 @@
             <artifactId>xgboost4j-spark_2.11</artifactId>
             <version>0.7.0-p3</version>
         </dependency>
+        <dependency>
+            <groupId>com.huaban</groupId>
+            <artifactId>jieba-analysis</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.ansj</groupId>
+            <artifactId>ansj_seg</artifactId>
+            <version>5.0.3</version>
+        </dependency>
     </dependencies>
 </project>
