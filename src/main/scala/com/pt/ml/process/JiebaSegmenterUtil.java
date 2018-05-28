@@ -31,7 +31,7 @@ public class JiebaSegmenterUtil {
         List<String> words = new ArrayList<>();
         for (SegToken term : terms) {
             String word = term.word;
-            if (StringUtils.isNotBlank(word) && !StopWords.isStopWords(word)) {
+            if (StringUtils.isNotBlank(word) && !StopWords.isZhStopWords(word)) {
                 words.add(word);
             }
         }

@@ -33,7 +33,7 @@ public class AnsjSegmenterUtil {
         List<String> words = new ArrayList<>();
         for (Term term : terms) {
             String word = term.getName();
-            if (StringUtils.isNotBlank(word) && !StopWords.isStopWords(word)) {
+            if (StringUtils.isNotBlank(word) && !StopWords.isZhStopWords(word)) {
                 words.add(word);
             }
         }

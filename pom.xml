@@ -39,5 +39,10 @@
             <artifactId>ansj_seg</artifactId>
             <version>5.0.3</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.vinhkhuc</groupId>
+            <artifactId>jfasttext</artifactId>
+            <version>0.3</version>
+        </dependency>
     </dependencies>
 </project>

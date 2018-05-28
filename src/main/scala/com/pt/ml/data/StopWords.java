@@ -8,17 +8,23 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class StopWords {
-    private static final Set<String> stopWords = new HashSet<String>();
+    private static final Set<String> stopWordsEn = new HashSet<String>();
+    private static final Set<String> stopWordsZh = new HashSet<String>();
 
     static {
         try {
-            stopWords.addAll(Files.readLines(new File("src/main/resources/stopWords.txt"), Charset.forName("utf-8")));
+            stopWordsEn.addAll(Files.readLines(new File("src/main/resources/stopWordsEn.txt"), Charset.forName("utf-8")));
+            stopWordsZh.addAll(Files.readLines(new File("src/main/resources/stopWordsZh.txt"), Charset.forName("utf-8")));
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    public static boolean isStopWords(String word) {
-        return stopWords.contains(word);
+    public static boolean isEnStopWords(String word) {
+        return stopWordsEn.contains(word);
+    }
+
+    public static boolean isZhStopWords(String word) {
+        return stopWordsZh.contains(word);
     }
 }
