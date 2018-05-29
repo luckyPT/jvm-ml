@@ -10,7 +10,6 @@ import scala.collection.mutable.ListBuffer
 
 /**
   * xgboost对于spark版本有要求，使用dataFrame存在兼容性问题，因此使用Rdd
-  * 暂时还没调好，十几分钟内执行不完
   */
 object Xgboost4jSpark {
     def main(args: Array[String]): Unit = {
