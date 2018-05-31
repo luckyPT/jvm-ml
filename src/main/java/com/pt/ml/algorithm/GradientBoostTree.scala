@@ -67,7 +67,7 @@ object GradientBoostTree {
 
                 }.cache()
         BinaryClassEvaluation.showRocCurve(preAndLabel)
-        BinaryClassEvaluation.showPrecisionRecallCurve(preAndLabel)
+        BinaryClassEvaluation.showThresholdPrecisionRecallCurve(preAndLabel)
         BinaryClassEvaluation.showF1Curve(preAndLabel)
 
     }

@@ -24,7 +24,7 @@ object BinaryClassEvaluation {
         rocCurve.showPlot()
     }
 
-    def showPrecisionRecallCurve(preLabel: RDD[(Double, Double)]): Unit = {
+    def showThresholdPrecisionRecallCurve(preLabel: RDD[(Double, Double)]): Unit = {
         val metrics = new BinaryClassificationMetrics(preLabel)
         val precision = metrics.precisionByThreshold.collect()
         val recall = metrics.recallByThreshold.collect()
@@ -44,10 +44,26 @@ object BinaryClassEvaluation {
                 r_y(index) = point._2
         }
 
-        val prCurve = new Line("PR-曲线", "PR-曲线")
+        val prCurve = new Line("threshold PR-曲线", "threshold PR-曲线")
         prCurve.linePlot("precision", p_x, p_y)
         prCurve.linePlot("recall", r_x, r_y, Color.BLACK, 2)
         prCurve.showPlot()
+    }
+
+    def showPRCurve(preLabel: RDD[(Double, Double)]): Unit = {
+        val metrics = new BinaryClassificationMetrics(preLabel)
+        val precision = metrics.precisionByThreshold.collect()
+        val recall = metrics.recallByThreshold.collect()
+        val r_x = new Array[Double](precision.length)
+        val p_y = new Array[Double](precision.length)
+        for (i <- precision.indices) {
+            r_x(i) = recall(i)._2
+            p_y(i) = precision(i)._2
+        }
+        val prCurve = new Line("PR-曲线", "PR-曲线","recall","precision")
+        prCurve.linePlot("P-R", r_x, p_y)
+        prCurve.showPlot()
+
     }
 
     def showF1Curve(preLabel: RDD[(Double, Double)]): Unit = {

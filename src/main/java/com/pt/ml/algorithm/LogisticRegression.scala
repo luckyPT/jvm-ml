@@ -18,7 +18,7 @@ object LogisticRegression {
                 .getOrCreate()
         import spark.implicits._
         //构建训练数据
-        val iris = spark.read.format("libsvm").load("/home/panteng/文档/dataset/iris.libsvm")
+        val iris = spark.read.format("libsvm").load("dataset/iris.libsvm")
                 .filter(r => r.getDouble(0) > 0.5) //只取label = 1和2的两种花
                 .select($"label" - 1.0, $"features") //标签从0开始
                 .toDF("label", "features")
@@ -60,7 +60,8 @@ object LogisticRegression {
         println(preAndLabel.take(20).mkString("\n"))
 
         BinaryClassEvaluation.showRocCurve(preAndLabel)
-        BinaryClassEvaluation.showPrecisionRecallCurve(preAndLabel)
+        BinaryClassEvaluation.showThresholdPrecisionRecallCurve(preAndLabel)
+        BinaryClassEvaluation.showPRCurve(preAndLabel)
         BinaryClassEvaluation.showF1Curve(preAndLabel)
     }
 

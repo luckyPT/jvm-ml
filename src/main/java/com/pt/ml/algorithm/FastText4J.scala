@@ -40,8 +40,8 @@ object FastText4J {
     def trainWord2Vec(): Unit = {
         val jft = new JFastText
         jft.runCmd(Array[String]("skipgram",
-            "-input", "/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/unlabelTrainData",
-            "-output", "/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastText/skip-gram.model",
+            "-input", "dataset/word2vec-nlp-tutorial/unlabelTrainData",
+            "-output", "dataset/word2vec-nlp-tutorial/fastText/skip-gram.model",
             "-bucket", "20",
             "-dim", "10",
             "-minn", "3",
@@ -53,8 +53,8 @@ object FastText4J {
     def fastTextTrain(): Unit = {
         val jft = new JFastText
         jft.runCmd(Array[String]("supervised",
-            "-input", "/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastTextTrain.txt",
-            "-output", "/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastText/fastText.model",
+            "-input", "dataset/word2vec-nlp-tutorial/fastTextTrain.txt",
+            "-output", "dataset/word2vec-nlp-tutorial/fastText/fastText.model",
             "-lr", "0.5",
             "-lrUpdateRate", "100",
             "-dim", "300",
@@ -69,8 +69,8 @@ object FastText4J {
 
     def test(): Unit = {
         val jft = new JFastText
-        jft.loadModel("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastText/fastText.model.bin")
-        val preAndLabel = Source.fromFile("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastTextTest.txt")
+        jft.loadModel("dataset/word2vec-nlp-tutorial/fastText/fastText.model.bin")
+        val preAndLabel = Source.fromFile("dataset/word2vec-nlp-tutorial/fastTextTest.txt")
                 .getLines()
                 .map {
                     str =>
@@ -103,11 +103,11 @@ object FastText4J {
 
     def submission(): Unit = {
         val jft = new JFastText
-        jft.loadModel("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastText/fastText.model.bin")
+        jft.loadModel("dataset/word2vec-nlp-tutorial/fastText/fastText.model.bin")
         val subFileWriter =
-            new FileWriter(new File("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastText/submision2.txt"))
+            new FileWriter(new File("dataset/word2vec-nlp-tutorial/fastText/submision2.txt"))
 
-        Source.fromFile("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/testData.tsv")
+        Source.fromFile("dataset/word2vec-nlp-tutorial/testData.tsv")
                 .getLines()
                 .foreach {
                     str =>
@@ -128,9 +128,9 @@ object FastText4J {
     }
 
     def fastTextFormat(): Unit = {
-        val trainWriter = new PrintWriter(new FileWriter(new File("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastTextTrain.txt")))
-        val testWriter = new PrintWriter(new FileWriter(new File("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastTextTest.txt")))
-        Source.fromFile("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/labeledTrainData.tsv")
+        val trainWriter = new PrintWriter(new FileWriter(new File("dataset/word2vec-nlp-tutorial/fastTextTrain.txt")))
+        val testWriter = new PrintWriter(new FileWriter(new File("dataset/word2vec-nlp-tutorial/fastTextTest.txt")))
+        Source.fromFile("dataset/word2vec-nlp-tutorial/labeledTrainData.tsv")
                 .getLines()
                 .map {
                     str =>
@@ -156,8 +156,8 @@ object FastText4J {
     }
 
     def getUnlabeledTrainData(): Unit = {
-        val fileWriter = new FileWriter(new File("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/unlabelTrainData"))
-        Source.fromFile("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastTextTrain.txt")
+        val fileWriter = new FileWriter(new File("dataset/word2vec-nlp-tutorial/unlabelTrainData"))
+        Source.fromFile("dataset/word2vec-nlp-tutorial/fastTextTrain.txt")
                 .getLines()
                 .map {
                     str =>

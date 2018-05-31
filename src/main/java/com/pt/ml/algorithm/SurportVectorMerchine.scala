@@ -52,6 +52,6 @@ object SurportVectorMerchine {
         pre.show(1000)
         val preRdd = pre.rdd.map(row => (1.0 / (1 + math.pow(Math.E, row.getAs[DenseVector](2).apply(0))), row.getDouble(0)))
         println(preRdd.take(1000).mkString("\n"))
-        BinaryClassEvaluation.showPrecisionRecallCurve(preRdd)
+        BinaryClassEvaluation.showThresholdPrecisionRecallCurve(preRdd)
     }
 }

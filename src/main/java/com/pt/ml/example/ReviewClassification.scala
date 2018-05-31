@@ -80,7 +80,7 @@ object ReviewClassification {
         val preRdd = pre.select("label", "rawPrediction")
                 .rdd
                 .map(row => (1.0 / (1 + math.pow(Math.E, row.getAs[DenseVector](1).apply(0))), row.getDouble(0)))
-        BinaryClassEvaluation.showPrecisionRecallCurve(preRdd)
+        BinaryClassEvaluation.showThresholdPrecisionRecallCurve(preRdd)
         //subMission
         /*val subPre = model.transform(submissionData)
         subPre.select("id", "prediction")
