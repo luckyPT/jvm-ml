@@ -31,7 +31,7 @@ public class TSNEStandard {
     /**
      * 2维可视化
      *
-     * @param inputFile 输入文件（CSV 第一行是字段描述）
+     * @param inputFile 输入文件（CSV 第一行是字段描述,第一列是标签）
      * @param featureNum 特征数量
      * @param parallel 是否并发
      * @param maxIter 最大迭代次数

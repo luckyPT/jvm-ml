@@ -1,0 +1,3600 @@
+__label__1	Congress chants 'reforms with human face' plank
+__label__0	Gang held for cops' murders
+__label__0	Thief who stole from a hospital was caught
+__label__0	Flyers shouldn't pay for carbon footprint
+__label__1	State denies airport plans for Rewas
+__label__0	Six Maoists surrender in Bihar
+__label__1	Stars predict HDK will be new CM
+__label__0	Drunk youths kill shopkeeper in Chennai
+__label__1	Nitish opposes use of GM mustard seeds on the sly
+__label__0	Model out of 'safe custody'
+__label__1	Mehbooba continues guessing game on govt formation in J-K
+__label__1	'Mining leading to respiratory issues' Social activist to CM
+__label__1	'VP Singh tried to get statement from us'
+__label__0	Probe into Ghaziabad day-care centres after child's rape
+__label__1	Fadnavis prepares to score big in Make in India home match
+__label__0	Salem may be brought to city on Feb 6
+__label__0	Grad sets up fake portal
+__label__1	Where is CM K Chandrasekhar Rao? ask angry students
+__label__1	Imphal temporary market construction stopped by BJP leader
+__label__1	Ticket-seekers jam road to AIADMK office on day two
+__label__1	Akhilesh orders meet to enact draft for lift law
+__label__1	'Hyderabad top priority for Saudis'
+__label__0	PASA slapped on land shark
+__label__1	Clear stand on subsidies: Chugh to Congress
+__label__0	Clashes erupt after missing youth' body found in Srinagar
+__label__0	Narrow escape for MLA's wife
+__label__1	Congress fields Indira killer's cousin
+__label__0	Cop who killed woman in Delhi's Dwarka
+__label__1	Cong blames NCP for BMC poll debacle
+__label__0	Gzd cops in dock over man's daeth in custody
+__label__0	41 arrested for violent clash in Dhar district
+__label__0	CBI lists evidence in Sister Abhaya murder case
+__label__1	CBI probe high-risk for Mulayam
+__label__1	Vid leaders slam Pawar
+__label__0	Man gets 10 yrs in jail for raping minor
+__label__0	Railway top copâ€™s wife robbed of Rs 1.5 lakh on train
+__label__0	Kuwait Olympic head deplores 'serious escalation' of dispute
+__label__0	Harried parents find hope in police helpline
+__label__1	Muftis leave CM residence
+__label__0	ITBP inspector general's beacon-fitted SUV stolen from Noida home
+__label__0	Vadodara court orders probe into Mallika case
+__label__0	Murder case of national shooter Sippy Sidhu transferred to CBI
+__label__1	Logistics Park to come up in Kakinada
+__label__0	Administration turns a blind eye to 'killer' manjha sale edited
+__label__0	Pedestrian killed in hit and run
+__label__1	All major parties hit by BMC poll turmoil
+__label__1	'Powerless' Deshmukh finds himself lonely in Pune
+__label__0	Colonel held for molesting Army doctor
+__label__1	â€˜BJP regime using Bose to further Hindutvaâ€™
+__label__1	UP probes activities of Hindu outfit
+__label__1	â€˜Ryots doing disservice by returning awardsâ€™
+__label__1	Rahul may still face 10-year jail term
+__label__1	RJD buys jeeps for Lalu's guards
+__label__0	Guest house owner booked for violating Foreigner's Act
+__label__0	Auditor booked for cheating govt of 28k
+__label__0	Live-in partner booked for rape
+__label__0	Student abducted
+__label__0	Second KGMU conspirator arrested
+__label__0	Adivasi rebel leader killed in Kokrajhar
+__label__0	Stalkers on cop radar after photos go viral
+__label__1	Among CMâ€™s resolves: Reaching out to masses Sets Five-Point Resolution For Himself
+__label__1	We want justice to Rohit Vemula's family: ABVP
+__label__0	Train gang rape jawans from BSF
+__label__1	Kejriwal ink attack: Aam Aadmi Party alleges political conspiracy
+__label__0	Relatives accuse doc of negligence after patient dies
+__label__1	No threat to coalition ministry: JD-S
+__label__0	Cab driver commits suicide
+__label__1	HP CM to hold budget meet with MLAs on Feb 4
+__label__0	City cops arrest another LeT man 
+__label__0	DM orders drive against fake drugs
+__label__1	Cong to confront Left in assembly polls
+__label__0	Man attempts suicide in custody
+__label__0	Four commit suicide
+__label__1	Cat-and-mouse games as polls begin
+__label__1	Two Congress leaders join TDP
+__label__1	Candidate pics on EVM this election
+__label__0	Schoolgirl raped in Punjab village
+__label__1	Davos: How the rich have only got richer since 2000
+__label__0	Boy sodomized for 3 months in Jaipur
+__label__1	Woman leader prevented from immolating herself
+__label__1	BJP wings submit memo to guv
+__label__1	PDP wants pledge from Prime Minister Narendra Modi before swearing-in
+__label__0	Dalit minor girl gang-raped in a moving truck in Mainpuri
+__label__0	Daya Nayak suspended by Mumbai Police
+__label__1	BJP seeks narco test of Antulay
+__label__0	SVS College trustee seeks advance bail
+__label__1	PM to attend meet on sustainable farming in Gangtok today
+__label__1	Dalit scholar was failed by the system
+__label__1	SC's 'two views' theory spells hope for Sidhu
+__label__1	Parties urged to include pesticide pledges in poll manifestos
+__label__1	Former ultra joins issue with DGP
+__label__1	Bikaner Congmen celebrate Gehlot victory
+__label__1	Govt mulls levying trade tax on online shopping in state
+__label__1	Odd-even scheme: First offender tells police he had 'no option'
+__label__1	Kumaraswamy issues whip to his legislators
+__label__1	CPM's overnight move to counter Maoists
+__label__1	Eye on polls
+__label__1	NGT asks govt to consider setting up effluent treatment plants
+__label__1	Net worth of JD(S) candidate in crores
+__label__0	Daya Nayak suspended from service
+__label__0	Thieves steal CCTV recorder to avoid being caught
+__label__0	Youth nabbed
+__label__0	Rapist leaves survivor after 'marriage'
+__label__1	Four boys from Pune make it to NDA
+__label__0	325 licences suspended for drunk driving
+__label__0	Women face sexual abuse on migrant trail
+__label__0	Gagan not just a shooter
+__label__0	Crime branch to seek custody of Afridi
+__label__1	Citizen groups to observe Netajiâ€™s 119th birth aniv
+__label__0	Arrest warrant against Mohd Sohrab for complicity
+__label__0	Man held for posing rtd Major
+__label__1	Reserved seats set to decline in UP
+__label__0	One held for threatening Agassaim parish priest
+__label__0	Smack worth Rs 2 cr seized
+__label__1	AAP pens conspiracy theory after ink attack
+__label__0	Man gets death sentence twice
+__label__0	Thieves strike under fog cover
+__label__0	A woman's body sells
+__label__1	Mamata Banerjee released from hospital
+__label__1	BJP attacks Govt on Quattrocchi issue
+__label__1	Mayors meet President on fund crisis
+__label__1	Among CMâ€™s resolves: Reaching out to masses Sets Five-Point Resolution For Himself
+__label__1	Jammu and Kashmir high court stays its two-flag order
+__label__0	Heritage furniture stolen days ahead of French President's visit
+__label__0	One nabbed from Saputara in bank scam
+__label__0	Murder of genial Kalpataru official shocks kin
+__label__0	Rs 20 lakh looted from sugar mill staff
+__label__1	Ambedkar remembered on Bamu's 22nd renaming anniversary
+__label__0	2 get life term for murdering woman
+__label__1	Citizens' for Change' rally at Empress Garden today
+__label__1	Ministry out of RIL-NTPC row
+__label__0	Four held for selling stolen mobiles
+__label__1	Jayant Sinhaâ€™s wife on Infosys board
+__label__1	Keen contest for bypoll in the new year
+__label__0	Police trace 142 missing minors in Operation Smile-II
+__label__1	50% cap too tight a fit for politicos
+__label__1	LBA election: HC stays counting of votes
+__label__0	Cops made merry on Pandher's cash
+__label__1	Rahul Gandhi's speech had 'too much politics'
+__label__0	2 held for rehabilitation unit murder
+__label__0	Father-son duo arrested for 'threat e-mail' to Modi
+__label__0	Another Rosy dies in Bibiâ€™s village
+__label__0	Man found dead within cantonment
+__label__0	Jessica murder: A divided opinion
+__label__1	Biju Menon to play an Arab
+__label__0	PIO shrink branded Dr Death
+__label__0	Five killed
+__label__1	India replies to Musharraf's charges
+__label__1	2nd Indo-Pak rail link re-opening gets delayed
+__label__1	Chidambaram has no promises for AP
+__label__0	TOI readers: Re-open Jessica case
+__label__1	Lalu praises TTE for charging money
+__label__0	Ten booked for kidnap
+__label__0	4 junkies held for Wadala boyâ€™s sexual assault
+__label__1	Kishwer Merchantt gives her haters back on Twitter
+__label__0	Virar woman loses Rs 20K after â€˜helpfulâ€™ man steals ATM card
+__label__1	Bachi Karkaria: Ink stink â€” Should Bhavnaâ€™s Kejriwallop be called penwomanship?
+__label__1	Ghaziabad mayor bypoll now on February 9
+__label__0	'Nithari killings have left deep scars'
+__label__1	Raja Bhaiya back as minister
+__label__0	Two zilla parishad clerks arrested for taking 2
+__label__1	Mehbooba
+__label__1	3 factions fight for post of Himachal BJP chief
+__label__0	Three idols stolen from Bhilwara temples
+__label__1	Paswan taunts Cong over Rahul's 'frequent trips' to University of Hyderabad
+__label__1	BJP's VK Malhotra resigns from Lok Sabha
+__label__1	HC dismisses petition against Sonia Gandhi
+__label__1	Govt & BJP oppose ban on opinion
+__label__0	CBI to probe abuse at Trichy home
+__label__0	Cops seek ATS help in sweet shop heist case
+__label__0	Two arrested on suspicion at Holy Cross church 
+__label__0	IAF guard foils bid to steal sandalwood amid high drama
+__label__0	Gang rape: 'Allegation
+__label__1	Woman with Harvard degree wins rural polls
+__label__0	`Thieves ran back 20 ft to stab fallen SI nine times'
+__label__1	India could have made some money: Goh
+__label__1	Poll: Rahul key for Cong revival in Bihar and UP
+__label__1	Smriti Irani misled public: V Hanumantha Rao
+__label__0	Dalit youth stabbed for objecting to 'Beep' song being played in temple
+__label__1	Wish to double farmers' income: PM
+__label__0	Kamothe gym trainer booked after woman alleges â€˜rapeâ€™
+__label__0	Violence erupts in Bangalore
+__label__1	Cong website caught in time warp
+__label__1	BJP MP Tarun Vijay says caste discrimination's 'a sin against the Gods'
+__label__1	RSS rips into ban on Dalits entering temples
+__label__1	Spiralling price and waning glitter
+__label__1	Smriti Irani is `lying'
+__label__0	TMC leaderâ€™s son Sambia was driving Audi that killed IAF soldier: Cops
+__label__0	Burglar swipes gifts at wedding in Chennai
+__label__0	Criminal held for stick attack on student in train
+__label__1	Worried children meet Nitish
+__label__0	Foresters win over teak smugglers
+__label__1	'Will speak to students once politicians leave the campus'
+__label__1	There's no non-Surti in Surat!
+__label__0	Copâ€™s second wife attempts suicide
+__label__0	Delhi Breath Analyzer: Anand Vihar chokes once again
+__label__1	Karunanidhi re-elected DMK president
+__label__0	SC to hear in open court curative plea on homosexuality
+__label__1	HP Cabinet gives nod to filling of 1900 posts in state
+__label__0	2 'Red levy collectors' arrested in Gomia
+__label__1	Pachauri meets CM
+__label__1	Ambiguity continues over J-K Govt formation
+__label__0	Robin Mayne gets 7-year jail term
+__label__1	CPM for new law on land acquisition
+__label__0	Girls outshine boys in CSMMU
+__label__0	New law provides 7 years' jail term for selling tobacco to children
+__label__1	High politicisation of caste doesnâ€™t serve the interests of either students or job seekers
+__label__0	Guard found dead at Sec 78 building site
+__label__1	The strange silence of TRS leadership
+__label__0	Raped teen molested again in hospital
+__label__0	Fatehwadi boy's body fished out of canal
+__label__1	Law minister Arun Kumar Sahoo faces egg attack in Cuttack
+__label__1	PAU body pays tribute to Dalit student
+__label__1	Survey belies TRS' claim of 100 seats
+__label__1	Badal assures doctors of regularizing hospital buildings
+__label__0	Kabul blast: Suicide bombers kill 7 TV staff
+__label__1	Cong developed Hyderabad: Jaipal
+__label__1	Sule's tirade against CM upsets Cong
+__label__1	Cong to Mamata: Quit NDA
+__label__1	CM vows development in Surajkund
+__label__1	V Trivedi is new CMD of IA (Indian)
+__label__0	Jallikattu protests refuse to die
+__label__0	Dreaded criminal ties the knot in Bhondsi jail
+__label__1	Telangana govt to regularise contract employees
+__label__1	Unnao MP Sakshi Maharaj says AAP workers are turning against Delhi CM Arvind Kejriwal
+__label__0	RJD student leader kidnapped
+__label__1	Karnataka coalition govt plunges into crisis
+__label__0	Danish gang rape: Cops file new evidence
+__label__1	CM promises to look into gold tax grievances
+__label__1	MP in PMâ€™s â€˜Man Ki Baatâ€™ makes 2015 eventful
+__label__0	14-day remand for ink attacker
+__label__1	Never vetted PILs for NGO as Prashant Bhushan claimed: Fali S Nariman
+__label__1	Sheila Dikshit elected Congress Legislature Party leader in Delhi
+__label__0	CBI sleuths swoop on SCB office yet again
+__label__0	Fish prasadam organiser jailed for a week for violating court conditions
+__label__0	Youth axes father to death
+__label__1	Sheila set for third term as Delhi CM
+__label__0	Man held for stealing 22L diamonds
+__label__0	Pupil thrown out of school for saying ISIS
+__label__0	Parzania: Case against Bajrang Dal leader
+__label__0	Chargesheet against 2 gangrape accused
+__label__0	Boy death: School principal suspended
+__label__0	Narco test of Noida killers in process
+__label__0	Armed miscreants attack executive engineer in Basti
+__label__1	Barnalas may follow Manpreet into Cong
+__label__0	Hit-and-run case: Salman's lawyer to grill witness on Mar 2
+__label__1	ECR GM opens quarters for rly officials in city
+__label__1	GHMC botched up voter distribution?
+__label__1	Once Ajit Pawar's close aide
+__label__1	Caste politics not new to UoH?
+__label__1	Deputy CM favours strengthening of ITIs
+__label__1	North Tripura strike evokes mixed response
+__label__0	SI shot dead in Rajajipuram
+__label__1	Congmen want Sonia to take dip at Sangam
+__label__1	Asking auto drivers for class VIII papers for licence illogical: Kejri
+__label__0	Church comes out in support of Sister Ahaya case accused
+__label__0	Minor goes to cops after parents try to marry her off
+__label__0	Kiku Sharda: "I had no idea about my â€˜crimeâ€™ before the arrest"
+__label__1	Partymen forced me to approach court: Joshi
+__label__0	College girl's body found in drain
+__label__0	Three held for robbery
+__label__1	Randeep Hoodaâ€™s outing with Gurgaon strays
+__label__1	CM Devendra Fadnavis confident about local bodies' rights
+__label__0	German held for overstaying
+__label__0	Rs 6 lakh looted from 'locked' motorbike showroom
+__label__0	School girl commits suicide
+__label__1	Thackeray to turn 80 on Monday
+__label__0	BJP councillor loses seat over asset declaration
+__label__1	SuMo: Sushasan gets new definition in state
+__label__1	Anti-party activities cost Congress 4 seats: Karnataka CM
+__label__0	48-year-old woman bludgeoned to death
+__label__1	Preity Zinta: Moving on and around!
+__label__1	'BSP to go alone in next assembly polls'
+__label__0	Told off for drinking in park
+__label__1	Gowda may snap ties with Cong
+__label__1	BJP asks Sena for 10 more seats
+__label__0	Friday riot rocks city
+__label__0	Visitors sneak into 6th Jaipur Jewellery Show
+__label__1	Missing 1984 SIT file leaves me shocked and disgusted: Sambit Patra
+__label__1	J&K Guv delegates power to chief secretary
+__label__1	Notice to LS Speaker on MP's expulsion
+__label__0	10-year-old tribal girl brutally raped
+__label__0	Hit-and-run claims life of journalist
+__label__1	Vaccine drive on to remove JE from state
+__label__1	Andhra CM greets Telugu people on New Year
+__label__1	Yechury keeps alliance hope alive
+__label__1	Mahadalit labelled as witchcraft practitioner
+__label__0	School death: PIL seeks action over 'criminal neglect'
+__label__1	BJD MP Hikaka in false affidavit row
+__label__0	Court frames charges in Safdarjung rape case
+__label__1	Rajasthan BJP MLA attacked us
+__label__1	Rahul Gandhi's visit to Hyderabad University: ABVP calls for shut down of colleges in Telangana
+__label__0	Asian-origin youth killed in UK
+__label__0	Accused recount kidnap drama
+__label__0	Thugs attack women in B'lore-bound train
+__label__0	Rise in rapes in poll-bound UP district
+__label__1	Cong demands homes for victims of demolition drive
+__label__0	Cyber crimes to be probed at police station level: Kanpur IG
+__label__0	Devansh went missing before lunch break: Mom
+__label__0	Merchant robbed of Rs 8.5L in cash
+__label__0	Congress neta Kripaâ€™s bodyguard booked for Rs 26 lakh theft
+__label__0	Lawyer stabbed by six people over property dispute
+__label__0	Petition seeking FIR against PWD officer dismissed
+__label__0	24-yr-old woman jumps off 10-storeyed building
+__label__0	Robbery at Indian Bank branch in Mumbai
+__label__1	B.K.PATNAIK
+__label__0	Rs 2.6 cr goes missing from BJP central office
+__label__0	Man jailed for raping disabled woman in Manipur
+__label__1	Tough battle in Adampur between Congress
+__label__1	Crowd keep trailing Gehlot
+__label__1	BJP continues with demand for sacking Antulay
+__label__1	Maha babus frustrate CMâ€™s efforts to revive PG radiotherapy course
+__label__0	Iraq abuse video: UK govt launches probe 
+__label__0	Airline fined for racist remarks to Surat family
+__label__1	Nitish to pay back Kejriwal in Punjab
+__label__0	Probe into fake encounters in J&K
+__label__0	Golden Temple 'Sewadar' hit by stray bullet
+__label__1	RJD lowers membership age to 15
+__label__1	Political parties in Punjab all for Tamasha: Swaraj Abhiyan
+__label__1	Kodaikanal gives BJP MLAs cold comfort
+__label__0	Zahira kin arrested for bootlegging
+__label__1	CPM on the defensive over land acquisition spree
+__label__0	Fire station theft: MC set to take action
+__label__0	Crackdown on mafia starts after HC rap
+__label__0	PCR for 4 in Khamla murder
+__label__1	Railways buckles under pressure by union
+__label__1	Cleft rectification camps in govt set up not encouraged
+__label__1	Barala re-elected Haryana BJP chief
+__label__0	TDP leader killed in mishap
+__label__0	Couple gets 3-year jail term in illegal assets case
+__label__1	Karnataka CM caught in slap row
+__label__1	Our Maghi rally will be biggest: Sukhbir
+__label__1	Pak peacenik writes letter to 'padosi' Indians on NY eve
+__label__1	Prime Minister Narendra Modi starts up new business era with tax breaks and mega fund
+__label__0	Army probing Afghan woman's charge against doctor
+__label__0	Pataudi rape accused sent to jail
+__label__1	Gehlot celebrates with supporters
+__label__1	Mocktale: Top trio of Indian politics share their New Year resolutions
+__label__0	Kin of Haryana agri dept employee disagree with his suicide note
+__label__1	CM Devendra Fadnavis urges varsities to open centres for startups
+__label__0	Three siblings found dead in suicide pact
+__label__1	BJP's campaign lacks ammo
+__label__1	BJP meets guvernor over NFSA scandal
+__label__0	Krishnaiah murder: Former MP's death row commuted to lifer
+__label__1	Pawar aide in obscene MMS soup
+__label__0	ATS picks up Indore hotel manager
+__label__0	Panchkula youth was killed by colleagues for Rs 12000: Cops
+__label__1	'No I-T notice to Bachchan in hospital'
+__label__1	BJP hopes to cash in on 3-way fight in Punjab
+__label__0	Two held for vehicle theft
+__label__1	'Debate on intolerance missing the real issue'
+__label__0	Country-made pistol found in residential soc
+__label__0	Medicos found murdered
+__label__1	Orissa JD(S) perturbed by Karnataka crisis
+__label__0	Masked men steal gold bars
+__label__0	DDA rapped for defying judicial review
+__label__1	Congress-sponsored Tripura strike evokes mixed response
+__label__0	Man attacks estranged lover on school campus amid students
+__label__0	Woman entrepreneur alleges harassment by financiers
+__label__0	Elderly couple's murder: Assailants removed light bulbs
+__label__1	Probe into education papers by panchayat poll winners
+__label__1	Govtâ€™s New Year gift: Stipend hike to doctors
+__label__0	Rape accused acquitted
+__label__1	Ajit Pawar to inaugurate garden
+__label__0	No headway in kidnap case
+__label__1	Congress wants MDMK to continue in DPA
+__label__0	Ahmedabad doctor caught determining sex of foetus
+__label__0	35-year-old killed
+__label__0	Domestic help caught a year after heist
+__label__0	A citizens' charter for change
+__label__1	No holiday for Gowda
+__label__0	Father-son duo arrested for 'threat e-mail' to Modi
+__label__1	HRD ministry to set up NAT to assess abilities of IIT aspirants
+__label__1	Natwar takes swipe at Sonia's origin
+__label__0	Daya Nayak's residences raided by ACB
+__label__1	PDP leader opposes including RPC under NIA Act
+__label__0	Man held for â€˜raping
+__label__1	Delays hold up many party plans
+__label__1	Flood of nominations reflects unrest in BJPâ€™s state cadre Selection Of Dist Chiefs
+__label__0	Youth found dead in Aluva
+__label__1	Telangana Congmen mum on state issue
+__label__1	Is Netaji a forgotten hero? Ask our MPs
+__label__1	Congress workers help clean up IMH premises
+__label__1	Is govt looking at Cyriac Joseph
+__label__1	Farooq does a U-turn
+__label__1	Kabir Bedi's birthday cum wedding celebrations
+__label__0	Crime graph eclipses Surat's sparkle
+__label__1	PM speaks
+__label__0	Rural police nab highway robbers for looting farmer
+__label__0	Police investigate mystery behind two dead fetuses
+__label__0	Six Maoists surrender in Bihar
+__label__1	DMDK begins poll talk with BJP
+__label__0	Charges framed against Kanchi seers in murder case
+__label__0	Minor girls kidnapped
+__label__0	Man beaten up for visiting ex-girlfriend
+__label__1	Polls: AAP leaders touring state for people connect
+__label__1	Govt blind to rampant graft: Gehlot
+__label__0	One arrested for smuggling beef
+__label__1	Rajnath shows faith in Sinha
+__label__1	Ready for any role given by party: Kalyan Singh
+__label__1	AP CM to participate in World Economic Forum meet in Davos
+__label__0	Ban pesticides in suicide-hit districts
+__label__1	Enrolment by self-help groups boosts women voter numbers
+__label__0	Bakers plan robberies
+__label__1	Ousted state NCP chief convenes meeting
+__label__0	Never-before security at city airport
+__label__0	Hardik asks Mangukiya not to represent him in court
+__label__1	Rajghat committee denies financial irregularities
+__label__1	Rahul may still face 10-year jail term
+__label__0	PCR for five in murder case till January 19
+__label__1	Unprecedented security for Modi in Varanasi
+__label__0	Shot in the arm for Nagpur University
+__label__1	Amar Singh makes huge donation to Clinton Foundation
+__label__1	Auto driver files RTI query
+__label__0	RTO to probe into fake badges of auto drivers
+__label__1	Akhilesh govt to move SC against Shiksha Mitras order
+__label__0	55-year-old man found murdered on mill premises
+__label__0	Poll candidate arrested for murder of village head
+__label__1	â€˜We didnâ€™t elect Modi PM to gift saris and shawls to Nawazâ€™
+__label__1	Govt to work for development of Northeast: PM
+__label__1	Is Cong using Left to put Mamata under pressure?
+__label__0	Seven held with fake visas in Th'puram
+__label__1	NaMo kites to rule Cuttack sky
+__label__1	Sharad Yadav nominated acting NDA convener
+__label__0	Jeweller robbed of Rs 1.5 lakh near GK
+__label__1	Water board asks Telangana govt to include power bill in budget
+__label__0	Patiala judge murder case transferred to UT
+__label__1	Would've skipped '14 polls if I knew of dismal outcome: MSY
+__label__0	US tourists attacked on charges of conversion
+__label__0	Cops bust sex racket in Madiaon
+__label__1	NDA revival task cut out for BJP
+__label__0	College student in spot as FB love affair turns sour
+__label__0	Judge accused in cash-for-bail case found dead
+__label__0	Prestige Group chairman obtains bail
+__label__0	Justice for married girls of govt staff dying in service
+__label__1	NDA girls excel in rangoli competition
+__label__0	IM man getsfive yrs in jail for fleeing court
+__label__1	Gowda appeals to MLAs' conscience
+__label__0	Restaurateur shoots self after brother insults mentor
+__label__1	Govt looks at Roma people to expand diaspora footprint
+__label__0	General Body meeting adjourned over Hyderabad scholar's suicide
+__label__1	Youth sammelan: Mantle on Akhilesh
+__label__1	Sheila stands by her BRT plans
+__label__1	GAIL
+__label__1	Budget wishlist: Parrikar to visit Jaipur rural
+__label__1	Congress youths hurl eggs at food minister's car
+__label__0	Vijit Singh's consel accepts court notice in hit-and-run case
+__label__0	Watch: Senior Punjab cop abducted
+__label__1	'Cong govt has come to a standstill'
+__label__0	75 Jain pilgrims from Mumbai looted in Jharkhand
+__label__1	Patel or OBC? No consensus yet on next state BJP president
+__label__0	Airline fined for racist remarks to Surat family
+__label__0	Conman dupes schoolkids to pocket Rs 1.3 lakh
+__label__1	Government asked to reply on 'fake' teachers
+__label__0	Police detain Toyota workers
+__label__0	Iggy Azalea files complaint over explicit Twitter pictures
+__label__1	Threat SMSes to MP: Man held again
+__label__1	WTC Amaravati's first?
+__label__1	Renaming jetty after Swami: Chief secy orders probe
+__label__1	RPI to join hands with BJP in BMC polls
+__label__0	Bodies of 21 police recruits found in Iraq
+__label__1	Vilasraoâ€™s absence raises eyebrows
+__label__1	Decision likely on future of Indo-Pak talks today
+__label__0	Woman booked for duping banks of Rs19.86 lakh
+__label__1	Cabinet to discuss budget
+__label__0	29/10: Chargesheet against Dar
+__label__1	Cong holds Swabhiman dharna for OBC rights
+__label__0	Experts helping make watertight case against dons: Cops
+__label__0	Stolen idol recovered
+__label__0	Servant found dead in Juhu flat
+__label__0	Dolly Bindra's biggest scandals on the web!
+__label__1	Studentâ€™s suicide: Smriti Irani misleading the nation with lies
+__label__0	Criminal nabbed after 6 years
+__label__0	Mystery shrouds bar girl's suicide
+__label__0	Ghaziabad sees rise in car thefts
+__label__0	Two get 7-yrs' RI for circulating fake currency
+__label__1	Modi must clear stand on creation of Bodoland: Ex-MP
+__label__1	MCD notices to 'big fish': CM on list
+__label__1	Spare city this dig-it-all revolution
+__label__0	Rs 400 cr VAT evasion by city's pan masala traders detected
+__label__1	Vid statehood activists float new party
+__label__0	Ordnance factory gun seized from criminal
+__label__0	Sunanda Pushkar case: Delhi Police receive AIIMS report on viscera samples
+__label__0	Dubai cop jailed for posting Messi's passport on social media
+__label__1	Tripura bandh evokes mixed response
+__label__1	Resignation pressure mounts on 'dalit' teachers
+__label__0	Funds crunch hits Red policy in Bokaro
+__label__0	Three acid attackers shot in AP encounter
+__label__0	4 held for stealing cop's wireless set
+__label__0	Watchman bludgeoned to death
+__label__0	Viral video exposes child labour in city
+__label__0	Youth held for involvement in crime 
+__label__0	Firm owned by Gujarati faces patent lawsuit
+__label__1	Doc abducted to fund elections
+__label__1	Change of tourism slogan will affect numbers: Gehlot
+__label__0	Youth killed in front of college at Kamptee
+__label__1	Politics over clean-up mission
+__label__1	Few difficulties in SP-Cong seat sharing in UP: Amar Singh
+__label__1	Bush looking forward to India trip
+__label__1	BJP is undergoing 'ideological crisis': Uma
+__label__0	Patna trader released by abductors
+__label__1	Bengaluru has higher vehicular population than Delhi: Govt
+__label__0	ACB traps gram sevak taking bribe
+__label__0	Three thrash cop trying to thwart robbery bid in Sultanpuri 
+__label__1	Rattled Maya reads out riot act to partymen
+__label__0	Liquor consignment worth Rs1.4L seized
+__label__0	Girl raped by 3 youths in Haryana
+__label__0	'Shocked parents want to know cause of suicide'
+__label__1	Naidu supports Yadav's stand against UPA
+__label__1	Pawar's game
+__label__0	Employee among 4 held in bizman robbery case
+__label__0	Man loots 96k from restaurant
+__label__0	Rising crimes worry residents
+__label__1	BJP for central probe agency
+__label__0	Aerobridge comes in handy for smugglers
+__label__0	J-K govt orders probe into missing youth case
+__label__1	5 Congress leaders from Kandi join TMC
+__label__0	Guns' video lands six in police custody
+__label__0	Two Kendrapada contractors held for tender fixing
+__label__1	Modi
+__label__0	Barot killed a priest in Nadiad
+__label__0	Maoists kill 5 cops
+__label__0	Cop-turned-smuggler Ranjit Singh sent to police custody in Amritsar
+__label__1	Rajnath wins RSS support over his new team
+__label__0	Victims allege move to scuttle probe
+__label__0	Noida killings: Accused well
+__label__1	HC seeks explanation from Wakf Board
+__label__0	Trio held for killing man 3 years ago
+__label__1	Supreme Court stays proceedings against Kerala IAS officer for praising Narendra Modi
+__label__0	Imported car dealer arrested
+__label__0	Activists condemn murder
+__label__0	Two cops among nine held for robbing courier firm employees
+__label__1	Tharoor bows out of UN
+__label__0	Mystery shrouds womanâ€™s death
+__label__1	Gehlot may review state excise policy
+__label__1	Rajnath on the rampage
+__label__1	Karnataka Assembly Speaker meets Gowda
+__label__1	Focus of JBMV programme to facilitate smart Andhra: Naidu
+__label__1	Want exclusive reservation
+__label__1	Ministries sitting on funds
+__label__1	DoNER secy to raise smuggling issue with Centre
+__label__1	Studentâ€™s suicide: Congress indulging in politics of hate
+__label__1	MPs' expulsion: Speaker right
+__label__0	Cow slaughterhouse raided in Danilimda
+__label__0	Timely call saves girl from train
+__label__0	Boy's skeleton found by pals
+__label__1	CPM agrees in principle to Left unity in Bihar
+__label__0	AIB Roast case: Bombay High Court asks cops not to file charge sheet
+__label__1	10 ways to do better than odd-even
+__label__1	Suryanamaskar row: RSS defends Dravid
+__label__1	'PM doesn't know much about NE'
+__label__0	Man pays with his life brokering peace between younger siblings
+__label__0	Man caught with smuggled gold worth 14.5 lakh
+__label__1	Poll results to impact Bihar politics
+__label__0	Six arrested for online fraud
+__label__1	Jalandhar to get central fund for irrigation projects
+__label__1	Sushil had political plans
+__label__0	Offenders make excuses to put off cyber cell visit
+__label__1	BJP MP Hema to pay 70
+__label__0	Police arrest six within hours of politico murder
+__label__1	TMC's Kausa BSUP project gets underway
+__label__0	Chargesheet against two ex-Navy officers
+__label__0	Burail custodial death: NHRC rejects report
+__label__1	AQ Khan link prompted Iran vote: PM
+__label__1	Dalit IAS officer converts to Islam as protest against discrimination
+__label__1	Cong
+__label__0	Police for stricter charge against NCC instructor
+__label__1	CM stays purchase of solar pumps
+__label__1	Hema Maliniâ€™s land allotment irks social orgs
+__label__1	Farooqui apologised to scholar
+__label__1	Modi has delivered results despite oppnâ€™s negativity: BJP
+__label__1	'AP crafts rakes in Rs 2-cr profit'
+__label__1	NMC to benefit from new TDR regulations
+__label__0	Bangalore cops nab another LeT man
+__label__1	'Run' fails to impress Lalu
+__label__0	Rs 1 lakh snatched from shopkeeper 
+__label__1	UP CM dedicates MiG 21 to the youth of Lucknow
+__label__1	Main kal manch par aoonga: Rahul Gandhi
+__label__1	Congress blames parliamentary logjam on â€˜arroganceâ€™ of govt
+__label__1	'MFs should be more transparent'
+__label__0	Cop sent to police lines for misbehaving with principal
+__label__0	Manipur CM should quit for 'fake encounter'
+__label__0	56 cellphones worth over Rs8 lakh stolen from Sitabuldi shop
+__label__0	Tipplers in the city are on a high
+__label__0	Drinkers resort to petty crimes to arrange for wine
+__label__1	Lalu-Rabri won't vacate 1
+__label__1	J-K govt. formation: PDP
+__label__0	Gold smuggling case: Customs officials questioned
+__label__1	Oppn Cong puts up a tame show
+__label__0	Cops may give a slip to lookout notice
+__label__0	Ex-armyman caught with IMFL in Sardarnagar
+__label__0	Dacoits attack gangman
+__label__1	Antulay: From ineffectual leader to poster
+__label__0	9 villagers held for power theft
+__label__1	Bhatia seeks youngsters' role in governance
+__label__1	Illegal migration mafia: AAP blames Punjab govt for failing to check illegal migration mafia
+__label__1	'I was within my rights to rebut CM's allegations'
+__label__0	Model found abandoned on Bandraâ€™s streets
+__label__0	Telugu actress found murdered in flat
+__label__0	Margao constable placed under suspension
+__label__0	Tainted IT official gets bail
+__label__1	Nomination filing for state BJP president elections on Monday
+__label__0	When a vacant bus seat spelt death
+__label__1	Probe ordered into irri well allotment
+__label__0	Wanted gangster arrested
+__label__1	Orissa Cong legislators want to carry 'lathis' to Assembly
+__label__1	Bengal Congress divided over alliance with Left
+__label__0	Starbus drivers strike work after assault on 2 drivers; 5 held
+__label__0	2 held for stealing luxury buses from travel agency
+__label__0	Gang of 3 burgles 6 shops in Kâ€™khairane tower
+__label__0	Cop under probe for slapping law-breaker
+__label__0	Foreign militant killed in J&K
+__label__1	'Sure of Delhi-like win in Punjab'
+__label__0	Rural police bust gang of vehicle thieves
+__label__0	Four women of family dupe hotelier of Rs. 43.50 lakh
+__label__1	Salman Khan: I sleep during my own films
+__label__1	'Can't play havoc with economy over pollution'
+__label__1	Rebellion in parties over ticket denial
+__label__1	Sonia accuses BJP of 'divisive' politics
+__label__1	Mocktale: Kejriwal ink episode inspires startup
+__label__1	Musical chairs in Vidhana Soudha
+__label__0	Thieves pick 40 gold watches from MG Road shop in coordinated move
+__label__0	Man gets life sentence for 5-yr-old's rape
+__label__0	Boy death: School principal suspended
+__label__1	Govt to provide 30k for Indira house renovation
+__label__0	Retired cop killed by son
+__label__0	Illegal immigrants home in on Thane
+__label__0	Gunmen kill prominent ally of Venezuelan president
+__label__0	Arwal trader robbed of cash
+__label__1	NaMo to inaugurate gas cracker project in Dibrugarh on February 5
+__label__0	'Cops knew of Payal's murder'
+__label__0	Six arrested for Gajapati triple murder
+__label__1	Poll fallout: Blame game begins in BJP
+__label__0	Bank secretary murdered
+__label__1	BJP bays for Mulayamâ€™s blood over Nithari killings
+__label__1	Mehbooba hails Indo-Pak reconciliation process
+__label__0	Kidnapped in Ghaziabad techie looted
+__label__0	Pak terror school denies Mumbai role
+__label__1	Govt won't interfere in Sabarimala: CM
+__label__0	Junagadh education inspector held taking Rs 13
+__label__0	History-sheeter Marathi fired at
+__label__0	Second KGMU conspirator arrested
+__label__0	IBM employee's visitor holds key to cracking murder case: Police
+__label__0	Crime rate down by 4.23% in 2015
+__label__0	Youths detained for kidnap bid 
+__label__0	70-year-old arrested for raping five-year-old
+__label__1	Odd-even rule: Metro offers additional 70 trips
+__label__1	Cong against politicising Auraiyya murder
+__label__1	JD(U) exploring umbrella alliance with RLD
+__label__0	9mm shell found at murder attempt site
+__label__0	Fresh land grab cases against Joyce George
+__label__1	VACB: Prelim report after lokayukta returns files
+__label__0	Woman consumes poison
+__label__1	Below par performance leaves little time for BJP
+__label__0	Youth ends life in Oshiwara
+__label__0	Burglars escape with 33 tola gold from SR Nagar
+__label__1	MG demolitions: BJP joins protest
+__label__0	Rape victim undergoing treatment at government hospital raped again
+__label__1	Centre
+__label__1	PM to visit Kokrajhar on Jan 19
+__label__1	BJP romps home on success strategy
+__label__1	RSS
+__label__0	Patna trader released by abductors
+__label__1	RJD will stoutly oppose saffronisation of education
+__label__0	Wine bottle in suspicious package puts city on red alert on festival
+__label__1	Triangular fight at Baliguda Notified Area Council
+__label__0	Tribal woman's death: Axe falls on inspector
+__label__1	Haryana to bring law for yoga and naturopathy
+__label__0	12 illegal immigrants arrested
+__label__1	NU in a fix over MKCL contract as state cuts link
+__label__1	Mangaluru distt administration gear up for panchayat polls
+__label__0	Sudanese student booked in Bengaluru for culpable homicide
+__label__0	Down-and-out trader steals wheels of cars for a living
+__label__1	'Rohith never told us he was in pain'
+__label__0	MLA booked for abusing woman on train
+__label__1	Jewellers protest government's mandatory PAN card decision
+__label__0	Face criminal charges for illegal hoardings
+__label__0	Pyramid Saimira chief gets fake Sebi letter
+__label__0	Canteen stores dept staffer booked in disproportionate assets case
+__label__0	Decomposed body of sweeper found
+__label__0	Sonowal condoles death of champion shooter in Pathankot attack
+__label__0	Cops bust plot to kidnap Blair's son
+__label__1	'Will speak to students once politicians leave the campus'
+__label__1	Shinde wants to pull plug on free power
+__label__0	Police brutality in Orissa
+__label__0	Gotri cops in dock over betting racket
+__label__0	Large turnout for Brig Sukhi Mann's bhog
+__label__0	Army-police tug of war over molest probe
+__label__1	Sena-BJP set for another term in BMC
+__label__1	Gowda fails to move son
+__label__0	Cops suspended on rape charges
+__label__1	BJP stages protest
+__label__1	Lesson from Bihar rout: BJP won't 'overuse' PM in Bengal
+__label__0	Minor criminals held while fleeing with Alto
+__label__1	Decision to change land use sparks protest on Vasundhara plot
+__label__1	Congress has 'adapted well' to coalition politics
+__label__1	A matter of degree? Not quite
+__label__1	Malda violence: BJP delegation meets President
+__label__0	Stabbing victim's family block traffic
+__label__1	Government is favouring RIL: Amar Singh
+__label__1	JD(S) BJP plan power embrace
+__label__1	CM sets deadlines for BMP
+__label__1	Kokrajhar turnout leaves Modi awed
+__label__0	Alert resident foils robbery bid by gang of seven
+__label__1	Hindu Sena activists attack PIA office in Delhi
+__label__0	Lakhimpur: Kidnapped sisters recovered
+__label__1	Shoots of hope for Saksham
+__label__1	No official communication from PDP over govt. formation: Nirmal Singh
+__label__0	Four held for kidnapping student
+__label__0	BPO staffers beaten up by landlord
+__label__1	Women's 'Lokshahi' din on January 18
+__label__1	Despite SC ban
+__label__0	Govt doctors stole baby from my wifeâ€™s womb
+__label__1	'Missing' file on riots SIT found
+__label__0	3rd accused in arms racket held at Shirdi
+__label__1	Rajnath tweets op over
+__label__0	Rape in Ola vehicle
+__label__1	Blow to out-of-school count as NGOs pull out
+__label__0	Briton's murder: Cops prepare for narco tests
+__label__1	Strike by civil society group disrupts life in Imphal
+__label__0	Two more held in organ trade racket
+__label__0	Police have solved medicos' murder case
+__label__0	Burglars strike again
+__label__0	An ex-army captain turned businessman looted and murdered in Agra
+__label__1	Deve Gowda steps down as JD(S) chief
+__label__1	New guv should be neutral: Nitish
+__label__0	Boy hit with beer bottles in Gurgaon
+__label__1	UP government misled us on lokayukta
+__label__1	Mayawati kicks off party campaign for 2017 on her birthday
+__label__1	UPA encouraging infiltration for votes: BJP
+__label__0	Rihanna's `Anti` tracklist leaked online
+__label__1	PM Modiâ€™s likely foreign trips in 2016
+__label__0	Youth-Adult deaths high in Melghat
+__label__0	Woman gives 'supari' for mom-in-law
+__label__0	Piracy no prob
+__label__1	Raja Bhaiya back as minister
+__label__1	CM defends MLC Suresh seeking ticket
+__label__1	Toon row: UP minister can be arrested
+__label__1	Jaju replaces Naqvi as BJP Headquarters incharge
+__label__1	Below par performance leaves little time for BJP
+__label__1	Drought impact: Only 50% of vacant govt posts to be filled
+__label__1	Hajo temple chief on hunger strike
+__label__1	President condoles TOI managing editorâ€™s death
+__label__0	Two held for Parikalp Nagar murder
+__label__1	Anti-CM MLA in expert demolition committee
+__label__0	Two arrested for framing two others in a fake case
+__label__1	Outrage over dalit scholar Rohith Vemula suicide
+__label__0	SBI staffer withdrew money from late Bansi Lalâ€™s account
+__label__0	Engineer killed for not 'funding' Maya's birthday party
+__label__0	Sacked office boy in cop net for burglary
+__label__1	'No threat to government from Left over Iran issue'
+__label__1	Bid to disturb peace: Chugh
+__label__0	University of Hyderabad student suicide: Atrocities case against university administration
+__label__0	Man arrested for lewd SMSes
+__label__1	Plan to cut Huda cases
+__label__1	Nuke weapons 'strategic' for India: Sonia
+__label__1	'We'll prove majority on floor'
+__label__1	5 Congress leaders from Kandi join TMC
+__label__0	Minister hints at sugar crisis in '09 
+__label__0	CRPF havaldar held for cheating
+__label__1	PM Modi greets people on Guru Gobind Singh birthday
+__label__0	CBI arrests businessman for helping Nayak
+__label__0	Gang busted
+__label__1	Unprecedented security for PM Modi in Varanasi
+__label__1	Congmen to work as team
+__label__1	Pradesh Congress Committee executive meet today
+__label__0	Teacher thrashes Dalit boy for using 'reserved' plate
+__label__0	Grandson kills 65-year-old for money
+__label__1	Delhiâ€™s odd-even traffic rule in force from today
+__label__0	'Biti's father used mobile in Jaipur'
+__label__0	Another schoolboy kidnapped in Patna
+__label__0	HC asks CBI to probe teenager's murder
+__label__1	Jayant Patil may be Maharashtra home minister
+__label__0	Forensic reports awaited in embassy shootout
+__label__1	Cong wants Maharashtra model in Karnataka
+__label__0	Another businessman kidnapped in Bihar
+__label__1	Congress chants 'reforms with human face' plank
+__label__1	Manipur bills: Tribals intensify protest as confrontation looms ahead
+__label__0	24-year-old alleges rape by landlord
+__label__0	Two guerrillas gunned down in Kashmir
+__label__0	Mumbai driver held for Pimpri burglary
+__label__0	One killed in JJ flyover bike crash
+__label__0	Coin melting unit unearthed in Gurgaon
+__label__1	'Modi can become Daliton ke Ram'
+__label__0	Contract killer held in Delhi
+__label__1	HRD opposed minority tag for Jamia
+__label__1	'Thank you for choosing Rajnath'
+__label__1	Civic head's foreign trip to delay budget
+__label__0	HC extends Sanjay Gupta's bail
+__label__0	Bank's recovery agents forcibly seize vehicle
+__label__1	Reversal of fortune: Cong performs better here
+__label__0	2 constables arrested for running extortion racket
+__label__0	Hasan Ali surrenders in fake passport case
+__label__0	Woman burnt to death by husband
+__label__0	Minor help 'tortured
+__label__1	Student's suicide: Adivasi Hakkula Vedika demands stern action
+__label__0	Orissa DGP denies visiting Jaipur for son's parole
+__label__0	Woman raped by father-in-law
+__label__0	Naroda teacher held for molesting kid
+__label__1	Speaker stands firm
+__label__0	Road block over murder of 30-yr-old
+__label__0	Two dead
+__label__1	Sonia seeks full attendance
+__label__0	Man hired contract killers to eliminate cousin
+__label__1	Rajnath
+__label__0	Chargesheet filed in Madiwala gang rape case
+__label__0	Hubby held for wife's murderin Dungarpur
+__label__1	DTP turns down Sec 21 community centre plan
+__label__0	Cab driver found murdered in Surendranagar
+__label__1	Aamir destroyed country's brand identity
+__label__1	Use app to download voter slips: GHMC commissioner
+__label__0	IED recovered from train toilet
+__label__0	Man poisons wife
+__label__1	Sonia can't save Karnataka coalition: BJP
+__label__1	Political leaders head for Hyderabad as anger over dalit studentâ€™s suicide spreads
+__label__1	VHP's "Dharam Sansad" concludes
+__label__0	Man shoots himself dead in Sec-18 house
+__label__1	Rahul refuses Cong post
+__label__1	Mayor resigns to remain MLA
+__label__0	More manual scavenging deaths despite ban
+__label__1	Why New Delhi chose Union finance secretary RP Wattal to handle political crisis in Jammu & Kashmir
+__label__0	Police Prove Love Triangle
+__label__1	JK Govt starts free tutorial for medical
+__label__0	Gang held with Rs 25L after shootout
+__label__1	Rajnath drops a bombshell on Modi
+__label__1	'Quality of debates in Houses needs to improve'
+__label__0	Man kills mother-in-law
+__label__1	JD(S) troubles burst out
+__label__1	MNS morcha seeking ITI fee cut
+__label__1	Be 'brand ambassadors' of Bihar: CM
+__label__1	Omar wishes Sayeed speedy recovery
+__label__0	Married man held for molesting neighbour's minor daughters
+__label__1	Relentless Modi critic
+__label__0	Two elephants found dead
+__label__1	Asad hits out at PM over his `silence'
+__label__1	Mumbai ties may be shifted
+__label__1	Bardhan blasts BJP-JD(S) marriage
+__label__0	4-yr-old raped
+__label__0	Nothing but despair for dead boy's dad
+__label__0	Aundh resident held for girlfriend's murder
+__label__0	Tutor arrested
+__label__1	CPM's Kerala secy under CBI scanner
+__label__0	RTO official held for taking bribe
+__label__0	School head breaks skull of inspecting official
+__label__1	Move to shift Jaitley intriguing
+__label__0	Cop suspended for abusing three boys
+__label__0	Cop beaten up by a trader-son duo
+__label__0	Body of ex-Ivory Coast defender Gohouri found in Rhine
+__label__0	Shukkoor murder case : High court allows trial to continue
+__label__1	BS-VI emission to be enforced by April 2020: Govt
+__label__1	Ideal youth MLA award for Zeliang's adviser
+__label__0	Man held for trafficking minor to Goa in 2012
+__label__0	Police nab two robbers
+__label__0	Police brutality in Orissa
+__label__1	UPA allies may stir up trouble
+__label__0	Forest dept opposes bail to two tiger poachers
+__label__1	Govt gives in
+__label__0	Liquor contractors' men accused of assault
+__label__1	Uma to launch party by Feb: Patel
+__label__1	Akhilesh Yadav taunts BSP chief Mayawati with selfie remark
+__label__1	Rohith Vemula suicide: Netas welcome
+__label__1	Gehlot orders probe into BJP regime deals
+__label__1	3 Ind MLAs to float party
+__label__0	14-year-old in govt-certified home found 5 mths pregnant
+__label__0	Student attacked with knife for mobile phone
+__label__0	Misbehaviour among reasons for suspension of SI
+__label__0	Mumbai ATS gets remand of CRPF shootout accused
+__label__0	Ex-employee held for petrol pump loot
+__label__1	Rs 5.25 cr for maintaining Mohali parks go to waste
+__label__0	Three people arrested for embezzling Rs 1.3 crore
+__label__1	Bikas Ranjan Mishra: Ecosystem for filmmaking prohibitive in India
+__label__0	Cops give one-hr chase to auto-borne robbers
+__label__0	Court allows CBI to grill Rajan in J Dey murder case
+__label__0	Ex-envoy attack: DGP slams police inaction
+__label__1	Deve Gowda clan tops the moneybags list of contestants
+__label__0	3 youth held for stabbing two bizmen
+__label__0	2 arrested with narcotics in Jammu
+__label__0	1.29 lakh FIRs lodged online in 3 months
+__label__1	Clash over display of â€˜Ram Templeâ€™ model in Fathepur
+__label__0	Hit-and-run claims life of journalist
+__label__0	Five booked for duping dairy owner
+__label__0	GRP to lodge FIR against 3 rly personnel
+__label__1	Third farmer ends life in Mansa in January
+__label__1	Corporations' pleas don't cut ice with govt
+__label__0	Gang busted
+__label__1	NDA will grow more powerful in the assembly elections: Pon
+__label__0	Spurned lover jailed over knife attack
+__label__0	Two Hyd policemen mistaken for kidnappers in Har; beaten up
+__label__0	Law breaking rickshaw drivers booked by cops
+__label__0	Raid to detect power theft in Moradabad
+__label__1	Lalit Mohan: What Arvind Kejriwal could teach Narendra Modi
+__label__0	One arrested with liquor worth 4.7 lakh near Bamanbore
+__label__1	Deve Gowda slams Sharief for grandson's poll ticket
+__label__0	Woman's body found stuffed inside bag
+__label__0	Jilted lover throws acid on Mehsana girl
+__label__0	Trader shot at in Malad
+__label__0	Heir crisis haunts Kuwait
+__label__0	Constable hangs himself in Pitampura
+__label__1	BJP says no alliance with 'weak' TRS
+__label__1	Bandh in AMU to press 'minority status' demand
+__label__1	No need to speak much about me: Sonia
+__label__1	Delhi assembly wants own TV channel
+__label__0	Scribe assault accused held
+__label__0	3 burglars held under PASA
+__label__0	Central agency intensifies hunt for accused in terror cases
+__label__1	Voting on for second phase of Himachal panchayat polls
+__label__0	4 injured in acid attack
+__label__1	Jayasudha joins TDP
+__label__1	Lawyers not necessary as Compensation Commissioner: MPs' panel
+__label__0	Alurkar tortured before death 
+__label__1	Notice to LS Speaker on MP's expulsion
+__label__1	IAAF accepts "gravity" of report's findings
+__label__0	Girl goes missing under suspicious circumstances in Faridabad
+__label__0	The man who cried robbers
+__label__1	Take action against 'big fish': HC to MCD
+__label__1	Act to strengthen and unite nation: RSS chief
+__label__0	Rural populace now seem to be target of e-fraudsters
+__label__0	Family refuses to claim murder suspect's body
+__label__1	Worried children meet Nitish
+__label__1	Odd-even scheme: First offender tells police he had 'no option'
+__label__1	Congress compares Presidentâ€™s rule in Arunachal to Emergency
+__label__0	Why do women still have to fight for #RightToPray?
+__label__0	Kannur tense after CPM worker killed
+__label__0	Fighting crime with technology
+__label__0	Victim's family condemns police
+__label__1	Harish Rawat seeks peopleâ€™s help to stop land grab
+__label__1	Seven fight for pradhan post in village with Vajpayee link
+__label__0	BDRCL employees threaten agitation over termination
+__label__0	Students pray for kidnapped friend's return
+__label__1	Mewat village picks BTech girl over ex-sarpanch's second wife
+__label__0	Employee flees with jewellery worth 28L
+__label__1	Prime Minister Narendra Modi: â€˜Smallâ€™ people shape history
+__label__0	Four non-resident Gujaratis killed in US
+__label__0	Man abducted by 3 friends for ransom
+__label__1	Odd-even over
+__label__0	'Shut illegal coaching centres voluntarily by Jan 31'
+__label__1	Techies to give civic polls a miss?
+__label__0	Koneru defends his grandson in Ayesha Meera murder case
+__label__1	Dharam meets State Cong chief in Karnataka
+__label__0	Main accused in '08 nun gang rape case gets bail
+__label__1	Cong panel to probe sabotage charges
+__label__1	Cong repaid debt by giving clean chit to Amar: BJP
+__label__1	BJP expresses hope that the coalition will continue
+__label__1	AAP demands agri minister's resignation
+__label__1	TMC unmoved by Left-Cong alliance talks
+__label__0	Police officer beaten up on Red Road
+__label__0	Deja-vu! Cops reminded of Le Corbusier Centre theft
+__label__0	Two commit suicide
+__label__1	Oil price hike: Ball is now in PM's court
+__label__0	Deer poachers arrested
+__label__0	Corbusier furniture stolen ahead of Hollandeâ€™s visit
+__label__1	Dalit Christians reignite demand for SC status
+__label__1	Putin ally releases video
+__label__1	Mudgal proves charges against Jaitley right: AAP
+__label__0	Kalpataru vice-presidentâ€™s murder: Chennai police nab two suspects
+__label__1	India matters most for Murli Deora
+__label__1	U-turn: CBI says it cleared defreeze
+__label__1	BJP in a tizzy over Karnataka drama
+__label__1	Opposition twisting High Court's VACB remarks: Minister
+__label__1	HP: BJP bags topmost posts at Hamirpur Zila Panchayat
+__label__1	Pakistani Qawwali party's performance cancelled after Shiv Sena's protest
+__label__1	Karnataka CM meets Governor
+__label__1	Waiting for Rahul
+__label__1	Rajnath may not be able to wish away Modi
+__label__0	Turbhe cops crack the case of womanâ€™s body dumped in Mahape nullah after 7 months
+__label__0	One gets lifer for murder
+__label__0	Two al Badr militants arrested in Delhi
+__label__1	Kalam steers clear of nuke deal controversy
+__label__1	'Mehbooba Mufti unlikely to take over in Kashmir in current situation'
+__label__1	'No Babri tragedy
+__label__1	BJP slams Rahul for politicising suicide
+__label__0	Jharkhand: 1 shot dead over old enimity
+__label__0	French consulate in Bengaluru gets threat letter
+__label__0	Chain snatchers target two women in city
+__label__1	AAP legislator's husband arrested in south Delhi
+__label__0	Woman's purse snatched
+__label__0	Brides to steal show at police station
+__label__1	Mallika Sarabhai attacks Narendra Modi for not condoling mother's death
+__label__1	CBI does U-turn: No proof against Mulayam in DA case
+__label__1	India suspects nuclear security index a ploy to reveal countryâ€™s stockpile
+__label__0	District administration launches crackdown on rioters in Fatehpur during Sankranti procession
+__label__0	Housewife robbed at knife point
+__label__0	SP and two others kidnapped 
+__label__0	Jalna man held for blackmailing dietician
+__label__1	Old City bustles as campaign begins for GHMC elections
+__label__0	Extortion case exposes female foeticide racket
+__label__1	Trade union stir threatens rail budget preparation
+__label__1	Modi dropped from BJP's apex panel
+__label__0	High court grants temporary bail to 2 convicts who had jumped parole
+__label__1	Cong questions Modiâ€™s silence on net neutrality
+__label__0	4 get bail in Sunpedh murder case
+__label__1	Govt says no to '47 refugees
+__label__0	German tourist escapes rape bid
+__label__0	Leopard skin worth Rs 3 lakhs seized in J&K
+__label__1	9 senior IAS officers shifted
+__label__0	Petrol cheaper by Rs 5
+__label__0	Court frames charges in Safdarjung rape case
+__label__1	Telangana govt not following KRMBâ€™s orders: Andhra Pradesh
+__label__1	Sonowal's remarks on state police derogatory: Gogoi
+__label__0	Theft in temple caught on camera
+__label__1	Farmersâ€™ widows to get auto permits
+__label__1	Drive to fight for â€˜unfulfilled promisesâ€™ to Muslims
+__label__0	3-month-old boy's body found near garbage bin
+__label__0	Businessman kidnapped in Bihar
+__label__1	R-Day stir at Shani Shingnapur: Stage protest
+__label__1	Senior NCP corporators lobby for mayor's post
+__label__1	Prez visit: Security beefed up
+__label__0	One more farmer kills self in Vidarbha
+__label__1	Vyapam scam: Former MP slams STF for putting Laxmikant in jail without proof
+__label__0	Apex court stays execution of two death row prisoners
+__label__0	Pak PM chairs high level meeting
+__label__0	12.6% rise in number of persons caught for graft by ACB in 2015
+__label__0	'Most wanted'criminal in police net
+__label__0	Minor girls kidnapped
+__label__1	Demographic imbalance a global concern: RSS leader
+__label__0	Indian student in stabbing case
+__label__0	Thief breaks into shop
+__label__1	Prakash Jha: Sad that student chose death over life
+__label__1	Susan Abulhawa: Trumpâ€™s lowest on moral but he can win
+__label__1	Dhumal blames Cong for jaundice outbreak
+__label__1	Rahul Gandhi to visit University of Hyderabad
+__label__1	BJP President urges Governor to invite Kumaraswamy
+__label__0	Cops nab elusive laptop thief after three attempts
+__label__0	Chandigarh sees rise in crime against women
+__label__1	NDA govt takes etail route to push LED drive
+__label__1	Stop building 'Jagannath temple': Govt tells Iskcon
+__label__0	US ex-cop gets 263 years jail for rape
+__label__0	Two labourers killed in Ujjain blast
+__label__0	Local weekly editor dies after suicide bid
+__label__0	SHO 'killer' among 10 criminals held in Purnia
+__label__1	Delay in getting LPG refills mars Pongal festivities
+__label__1	No ruling party will create Vid state: Adv General Aney
+__label__1	High alert sounded in Bihar
+__label__1	Delhi govt fixes nursery glitches
+__label__0	Plot unravelling: Pandher equal partner in crime
+__label__0	'Seasoned' Johnie dodged law since 2012
+__label__0	Gangsters open fire after extortion demand
+__label__1	Ex-Khandapada MLA quits BJD
+__label__1	â€˜Minorityâ€™ Tuki govt promoted lawlessness: Centre to SC
+__label__1	Let people get a chance to vote
+__label__1	Activist opposes elevated road along Hindon in NGT
+__label__0	8 vehicle thief held
+__label__1	RSS invites Sonia to Golwalkar commemoration
+__label__0	Brother's friend rapes minor
+__label__0	Sex racket busted in Swarn Nagari
+__label__0	Goody admits to making racist comments
+__label__0	Pahari cuisine attracts tourists at carnival
+__label__1	Congress turncoat hopes to win again
+__label__0	Drunk man
+__label__0	Eve-teasers manage to flee after assaulting journo
+__label__1	NGOs decide not to march with dead birds
+__label__0	Minor girl from Bihar raped in Gurgaon
+__label__0	Was Kuljeet a victim of loneliness?
+__label__1	Karnataka reports more hooch deaths than Bihar and Kerala
+__label__1	BJP joins strikers
+__label__1	BJP loss a wake-up call for MCD
+__label__0	'Biti's father used mobile in Jaipur'
+__label__1	Timber mafia operating in CM Shivrajâ€™s hometown
+__label__0	Ex-NMCE chief denied bail after son fails to return
+__label__1	Jug Suraiya: Getting smart: The trouble with improvements to the house is that they never stop
+__label__0	Cops freeze broker's bank accounts for duping flat buyers
+__label__0	Industrialist's son abducted
+__label__1	Rohith Vemula suicide: RPI
+__label__1	India matters most for Deora
+__label__1	Blog: Narendra Modi - the start-up guy
+__label__1	Raghuram Rajan seeks changes in work culture at RBI
+__label__1	CPM to discuss inner-party bickering
+__label__1	Thackeray turns 80
+__label__0	Phone tapping: Key accused Dhawan arrested
+__label__1	Red-corner alert for arrest of Lalu's sala
+__label__1	Shotgun shoots from lip: Like Mamata
+__label__1	Patel from Morbi claims he is seeking truce between PAAS and govt
+__label__1	Delhi CM Arvind Kejriwal supports demands of protesting MCD employees
+__label__0	Forester shoots self to death
+__label__0	Gang attacks man with chilli powder; robs him of Rs 5 lakh
+__label__0	Panchkula youth was killed by colleagues for R12K: Cops
+__label__0	'Madhapur murder was over illicit affair'
+__label__0	Chain-snatchersâ€™ gang busted
+__label__0	Bail denied to man who robbed on cop's advice
+__label__1	Mahila mandals match steps match steps for 'Laladi'
+__label__1	Disgruntlement leads to violence in party camps
+__label__1	'I am a victim of political campaign'
+__label__1	BJP should stay away from temple issue: VHP
+__label__1	Government rejects separate passing criteria plan
+__label__1	Nanje Gowda dies
+__label__0	Raids on parking lots
+__label__0	Robbers loot house in Masuri
+__label__1	Cong offers JD(S) 'Maharashtra formula' to save govt
+__label__0	Anchored boat missing off Mundra coast
+__label__0	Kathiroor Manoj murder: Court rejects Jayarajanâ€™s anticipatory bail plea
+__label__0	Rape-murder: BJP bandh affects life
+__label__0	Maj Sandeep's School pays tribute
+__label__0	Mob fury leaves 35 injured in Uttaranchal town
+__label__1	Tripura CM not happy with UPA performance
+__label__1	Maharashtra Navnirman Vidyarthi Sena activists 'beg' for CM's fund
+__label__1	Odd-even in Gurgaon? City split
+__label__0	Abducted Navodaya student released
+__label__0	Maoist arrested in Latehar
+__label__1	Sonia blames Pak-based outfits for Mumbai attacks
+__label__0	9 car music systems stolen in Pashan
+__label__0	Cops seek ATS help in sweet shop heist case
+__label__1	Rahul hits five traffic jams on Ghaziabad trip
+__label__0	Rohith Vemula death: 'Judicial commission probe initiated late'
+__label__1	Charan Singh remembered
+__label__1	Govt to review if DND flyway can be toll-free
+__label__0	Fake bail bond racket busted
+__label__1	AAP gets new party office at DDU Marg
+__label__1	Robin David: Punjab police faces yawning credibility deficit
+__label__1	IIT Guwahati gears up to welcome Modi
+__label__1	My next is a breezy comedy with Mohanlal: Lal Jose
+__label__0	2 held for stealing luxury buses from travel agency
+__label__0	10-year-old boy molested
+__label__0	3 Indian-Americans sentenced for student visa fraud
+__label__1	CM holds out olive branch to Naxals
+__label__0	Another biz family gets extortion threat
+__label__1	50% turn up to vote Rajinder Nagar
+__label__0	Serial killer 'Laden' arrested in Bihar
+__label__0	Girl's parents lodge complaint against lover 
+__label__1	1971 was a big mistake
+__label__0	Ex-officials of actors' assn face case over accounting
+__label__1	ABVP leader demands probe
+__label__0	Morphed pics lifted from FB break girl's engagement
+__label__0	Netaji cremation records released online
+__label__1	Ironic ruling for BJP's man of all seasons
+__label__0	Fake currency seized in Malda
+__label__1	â€˜Hindu Mahasabha will campaign against BJP if Modi doesnâ€™t pass Temple lawâ€™
+__label__1	Raj to tour state in Jan ahead of LS polls
+__label__0	Latest tragedy revives pain of Malta victims' kin
+__label__1	Islamic Centre seeks minority status for AMU and action against West UP radical outfit
+__label__0	Two cops arrested in fake encounter case
+__label__0	BTech student commits suicide in hostel
+__label__0	Heritage furniture underrated
+__label__0	Grad sets up fake portal
+__label__0	Big drug delivery breakthrough
+__label__0	ACB traps gram sevak taking bribe
+__label__1	Government starts debate on GM mustard launch despite opposition
+__label__1	Government rejects provision to regulate e-tailers in Rajasthan
+__label__1	Workers of 2 parties beat up each other
+__label__1	Railway Budget: Min seeks ideas at NAIR
+__label__0	Hic! Hic! Hurray
+__label__1	Joshi orders probe against 'erring' local body officials
+__label__1	I will die on my feet rather than live on my knees: Smriti Irani
+__label__0	Criminal action ordered against 67 tainted NFSA card holders
+__label__1	BJP worker claims assault by Ind MLA Rashid's supporters
+__label__1	Nitish bowls out Lalu in pitch too
+__label__0	Casino Royale: India eyes casino biz
+__label__0	Cracking Manish Shrivasâ€™s case can help police bust another don
+__label__1	Left to PM and Sonia: Our patience is running out
+__label__1	Meghalaya CM hopeful of poverty eradication in 10-15 yrs
+__label__0	SC grants bail to Sidhu in road rage case
+__label__1	Day after odd-even
+__label__0	A nuisance to declare regular results
+__label__1	Waiting for Rahul
+__label__0	Railway police nab 67 for carrying arms
+__label__1	Gorkha Janamukti Morcha to join tripartite talks
+__label__1	Writers' revamp stalled over JU-PWD conflict
+__label__1	Pakistani Qawwali party's performance cancelled after Shiv Sena's protest
+__label__0	Father booked for sexually harassing girl
+__label__1	Bangalore mess poops Congress' Hyderabad party
+__label__1	Delhi Metro asks for Rs 2.6L for this RTI query
+__label__0	Three undertrials escape from jail
+__label__1	Rahul refuses Cong post
+__label__0	Sterling deserved late penalty
+__label__1	BSP was blessing in disguise for Cong
+__label__0	Waste picker set ablaze by three men in Kasba Peth dies
+__label__1	National Conference demands clarity from Mehbooba Mufti over J&K government formation
+__label__1	Sedition case: Chargesheet filed in court against Hardik Patel
+__label__1	Gautam Adhikari: The thrill is gone: Where India stands after almost two years of Modiâ€™s leadership
+__label__1	Saffron Attack On Govt
+__label__1	Working chairman demanded for Gida
+__label__1	Minister bars youth from rally for inferior helmet
+__label__1	Game of thrones: Mehbooba Mufti must end uncertainty and give J&K a government
+__label__1	Didi beefing up gained ground
+__label__0	BSE brokers make a killing
+__label__1	Muslim headcount: BJP walks out of LS
+__label__0	Cops still clueless in missing girls' case
+__label__0	Five held for job fraud
+__label__1	J-K MLA alleges manhandling by cops; police denies charge
+__label__1	Daya Nayak's properties: Dubai hotel
+__label__0	Fraudsters mortgage two flats to six banks
+__label__1	Joshi to approach HC for counting of tender votes
+__label__1	Specific crude duty on cards
+__label__0	Encroachments razed near Champa chowk
+__label__1	Bihar MLA helps husband
+__label__0	MP who â€˜attackedâ€™ AI staffer held at Chennai airport
+__label__0	SP's district chief kills man
+__label__1	Kalam inaugurates Mahamastakabhisheka
+__label__1	AAP holds membership drive after Kejriwal poster inked
+__label__1	Use app to download voter slips: GHMC commissioner
+__label__0	IBM employee found murdered in her Bengaluru flat
+__label__1	Raj to launch new party in March
+__label__1	AAP raises 40L in 20 days for conference
+__label__1	10 things you should know about Bharat Stage VI
+__label__0	Fake cop nabbed from Park Street
+__label__0	Police step up vigil after 12 bike thefts in a day
+__label__1	Discontent grows in BJP after Raje loss
+__label__1	AAP govt spends Rs 60 cr to talk its walk
+__label__1	Terrorists' demands were rejected: Digvijay
+__label__1	Government takes on mining mafia with new rules
+__label__0	Aashiana rape survivor's dad 'threatened'
+__label__0	Eight â€˜party drugâ€™ factories busted in a year
+__label__0	Colleagues got V-P killed: Cops
+__label__1	Sule's tirade against CM upsets Cong
+__label__1	PCB mike ban to gag neta noise
+__label__1	Kejriwalâ€™s PA asked me to get off stage before ink incident: Cop
+__label__0	Drunken man's suicide bid foiled
+__label__1	Special projects launched for BPL women
+__label__1	Many US diplomatic positions to move to India
+__label__1	Concern over JD(S)losing secular credentials
+__label__0	Man booked for raping 5-year-old girl
+__label__0	Khannaâ€™s wife files complaint against Bhuru
+__label__0	IWF caught on the wrong foot again
+__label__1	Going solo in polls wonâ€™t hit govt: State BJP
+__label__1	Bihar opposition leader slams Nitish government
+__label__0	Dewas clash: Curfew imposed in Khari Bawadi after student dies
+__label__0	Crime graph eclipses Surat's sparkle
+__label__0	Schoolboy opens fire on classmate
+__label__0	4 cops get 7-yr jail for custody death
+__label__0	Brown sugar worth 1.28L seized
+__label__0	10 bicycles stolen from event site
+__label__1	Another MLA gets on Babasaheb Ambedkar Marathwada University senate
+__label__0	Crack cops roughed up by petty thieves
+__label__0	Nithari victims were drugged
+__label__1	'Agenda of alliance must be honoured': PDP
+__label__1	Why just J&K? Let 29 state flags fly with the tricolour
+__label__0	Rs 20 lakh looted from sugar mill staff
+__label__0	Neil Fonseca's 'love interest' visited him on murder day
+__label__0	Man's body found on Panchkuian Road
+__label__0	Driver booked for death due to negligence
+__label__1	Non-Bodos call bandh in BTAD against PM visit
+__label__1	Trio behind bars for removing Jaya banners
+__label__0	NRI family thrashed for protesting against alleged eve-teasing
+__label__0	Court orders fresh probe into Anara case
+__label__1	J&K DGP for alternate communication system for quick response
+__label__0	Dacoits ransack house
+__label__1	'Cong does not believe in dirty politics'
+__label__1	Kodaikanal gives BJP MLAs cold comfort
+__label__1	Nitish plans for UP unfold in recent moves
+__label__1	Will stick to fiscal consolidation roadmap in Budget: Finance ministry
+__label__0	Man stabbed to death in west Delhi
+__label__0	Five killed
+__label__1	Bihar opposed to creation of SEZs: Nitish
+__label__0	Kolkata hit-and-run case: Another arrest
+__label__1	'No reason to frame Farooqui'
+__label__1	Cidco razes Talvali bldg amidst protests
+__label__0	Doctors' panel gives Nagri staff clean chit
+__label__1	AADHAAR valid identity and residence proof: J&K Govt
+__label__1	Wary Cong pins hope on Gowda
+__label__1	Bar girls spice up Punjab polls
+__label__0	Two arrested for posing as kidnappers to get ransom money
+__label__0	BPO fraud unearthed at SlashSupport
+__label__0	Odisha police rescues 122 missing children
+__label__1	Sonia drops broad hints of elections in April
+__label__0	Increase in unnatural deaths among seamen
+__label__1	State BJP elects Raje as leader of its legislative party
+__label__1	Mamata plays development card
+__label__0	Man held for trading SIM cards purchased using fake documents
+__label__1	PIC: Shahid-Mira's candid shot
+__label__0	7 burglaries: 2 cops among victims
+__label__1	Huda to double water charges to raise funds
+__label__0	Pansare murder case: Gaikwad moves dist court seeking bail
+__label__0	Principal molests 7-year-old girl
+__label__1	BJP bars accountant from party office as Cong gloats
+__label__0	Telangana kidney racket: Two suspects nabbed from city
+__label__1	Manish Sisodia demands apology from PM
+__label__1	Cong invokes reforms with human face plank
+__label__1	With PM Modi
+__label__1	Congress dug its own grave
+__label__0	Sikh bus driver in LA assaulted
+__label__1	NE police delaying passport verification: Centre
+__label__0	POCSO court acquits man as minor says sex was consensual
+__label__0	Women chart course in crime
+__label__1	News brief: Merit got Rohith into varsity
+__label__1	Congress broke up my family: HDK
+__label__0	Police gearing up for R-Day
+__label__1	Debate and dessert lower curtain on litfest
+__label__0	Six arrested for online fraud
+__label__1	CM turns down proposal to impose UD tax on small plots
+__label__0	Commuters ditch bikes for AMTS buses
+__label__0	Railway police release CCTV grabs of elusive molester
+__label__0	Infantâ€™s body found near MY Hospital
+__label__1	BJP state spokesperson Dhananjay Kumar apologizes
+__label__0	Police nail Pawandeep in Nagaland village
+__label__1	Sheila set to chop and change cabinet
+__label__0	Chhota Rajan gang member held
+__label__1	UT has a long way to go in transgender empowerment
+__label__1	Vajpayee gets knee pain
+__label__0	Rohit says rape case only to tarnish image of family 
+__label__0	Boy kidnapped in Alwar
+__label__1	Cash-for-query: Was the House right in expelling MPs? Yes
+__label__1	Campaign ends for Choryasi bypoll
+__label__0	Eight dead
+__label__0	Five-year-old raped on JNU campus
+__label__0	Three Shakeel men in cop net for extortion
+__label__1	UP polls: Parties on a head-hunting spree
+__label__0	Twelve in fray for Ghaziabad mayor bypoll
+__label__1	Govt to review hike in charges at AIIMS
+__label__1	One attack canâ€™t stall talks: BJP
+__label__1	CM dares Maoists to contest elections
+__label__1	Dera chief justifies followersâ€™ outrage against Kiku
+__label__1	PM to take road route in city on January 22
+__label__1	History repeats for Maharashtra CM
+__label__1	Rohith Vemula suicide: 'With no response
+__label__1	CM buys Rs 1L sari for wife
+__label__1	CPI-M hits out JK govt for power crisis in Kashmir
+__label__0	Guest house owner's son robs tourists of cash
+__label__1	Modi is dashing and dynamic PM: Shatrughan Sinha
+__label__0	Two 'police informers' killed by suspected Maoists
+__label__0	Shooting in Ujjain: One killed
+__label__0	Sajni murder case reopened
+__label__1	BJP plans to complete LS ticket exercise by end-Jan
+__label__0	Six arrested for temple burglaries
+__label__1	Tendulkar may get 2nd term as party chief
+__label__0	Bizman held for abusing woman staff
+__label__0	HC asks for Todiâ€™s medical report
+__label__1	PM meets Sonia
+__label__0	Sporadic violence in Thirumangalam
+__label__1	Special booth for Bhiwani jail undertrials
+__label__0	Minor gang-raped in east Delhi
+__label__0	Jual clarifies comment on chit fund scam probe by CBI
+__label__1	Punjab goes into election mode
+__label__0	Thieves walk into food joints
+__label__1	Seniors get app-savvy to stay in touch
+__label__0	Cops made merry on Pandher's cash
+__label__0	Comic stars react to absurd arrest
+__label__1	BJP rounds off year with five assembly seats in Karnataka
+__label__0	International ornamental fish trade takes a toll on colourful species
+__label__1	US Sikh Congressional Caucus condemns attacks on community
+__label__0	Hema Upadhyay murder case: Chintan remanded to police custody
+__label__0	Minor girl found dead under mysterious conditions
+__label__0	Couple looted in Vatva
+__label__1	CPM allies peeved with reforms move
+__label__0	Hansal Mehta: CBFC a cultural police
+__label__1	Ahead of polls
+__label__1	BMC polls: Shiv Sena wins 8 seats in Thane
+__label__1	Cong backs Sonia's call to go slow on FDI
+__label__0	Tihar high on drugs
+__label__1	Speaker stands firm
+__label__1	Dalit student's suicide: Politics drowns out protests
+__label__1	Cabinet reshuffle to take place tomorrow
+__label__1	DTC staff protest at Jantar Mantar
+__label__0	BSP MLA's brother shot at
+__label__1	Dasmunsi flays Thackeray's comments on Kalam
+__label__1	'Political parties exploiting social scenario to divert attention'
+__label__0	Don't go missing: Cops to tag kids on Marina this Pongal
+__label__0	Driver killed after dozing off on Goa highway; 10 hurt
+__label__0	Two rape woman from Northeast for a year
+__label__0	Man held for stealing 22L diamonds
+__label__0	Man kills wife
+__label__1	BJP gets toehold in south via Karnataka
+__label__1	Prashant still untraced
+__label__1	Respite for Jayalalithaa in I-T case
+__label__0	Attack on Shrivas aide Iftekhar too unsolved
+__label__1	Maya in spot: CBI gives report to court
+__label__0	Hanuman tekdi robbers land in cops' net
+__label__1	Successive govts sold false dreams to Kashmiri Pandits: Rahul
+__label__0	UGC staffer gets 3-yr jail for graft
+__label__0	Now serial killings in Hyderabad
+__label__1	CPMâ€™s organizational ability needs to improve dramatically: Sitaram Yechury
+__label__0	Woman stabs husband in front of kids
+__label__1	JK BJP to consult central leadership before meeting Governor
+__label__1	PM Modi to distribute aiding equipments to 'divyaang' in Varanasi
+__label__0	Bride in path-breaking marriage solemnised by Anna dies aged 94
+__label__1	IIM-B issue: Arjun goes 'yes-no-yes'
+__label__1	Support to UPA's flagship schemes to come down
+__label__1	Torch relay of 12th SAG in Delhi today
+__label__1	Bal Thackeray praises Indira Gandhi
+__label__1	SC stops govt from offloading its shares in Hindustan Zinc Ltd
+__label__0	3 of gang arrested for stealing idols
+__label__1	Aadhaar or voter ID mandatory while applying for RTE seats
+__label__0	Uncle kills boy over enmity with his parents
+__label__1	Results were a blow to caste politics
+__label__1	Salodia's 'discrimination' charge baseless: Rathore
+__label__1	Netas' battle impedes growth
+__label__1	Stalin promises rural BPOs in every district of TN
+__label__0	Class I student 'assaulted' by school peon
+__label__1	Political hands protect encroachments
+__label__0	Top cop's blue-beaconed SUV stolen
+__label__1	Sonia involved in 'Q' case: Sushma Swaraj
+__label__1	AAP to launch stir against rising crime in Bihar
+__label__1	LGBT activists pin hopes on SC's Feb 2 hearing
+__label__0	Techie suspects honour killing as wife goes to parents
+__label__1	Ranchi bureaucrat a living goddess for Sabar tribals
+__label__1	Advani asked to raise turban issue with Chirac
+__label__0	Robbers cut shop safe
+__label__1	Congress ministers ensured our win in zila parishad: BJP
+__label__0	Ragging cases down in MP
+__label__1	Supporting Bhai Baldeep for alternative politics: Yadav
+__label__0	Bikers shot at
+__label__1	Young sarpanchs getting elected in Haryana this time
+__label__0	Jobless diamond polisher pushes wife into flesh trade
+__label__0	Kakori: Police claim breakthrough
+__label__1	Modi releases Subhash Chandra's book
+__label__0	House panel confirms lake encroachment by BDA
+__label__0	Murder suspects say ex-ZP head told them to kill 33-yr-old driver
+__label__0	Cigarette story: Smuggled
+__label__0	Man steals to fly to Ranchi
+__label__0	3 commit suicide in Berhampur
+__label__1	Manmohan gets BJP vote on Iran
+__label__0	Nithari: Top cop removed from post
+__label__0	CBI agrees to probe mystery death of 4 tiger cubs
+__label__0	Cops unravel 1cr extortion bid in firing case
+__label__0	BMW owner denies role in assault
+__label__1	CPM targets CM over High Court remarks in Titanium case
+__label__1	Deshmukh gets the stick
+__label__1	Sisodia raps traffic cops for lack of effort
+__label__0	Satyanandam arrested on charge of harassment
+__label__1	Rajnath to visit Karimganj on Sunday
+__label__0	BPO executive turned to theft to save for lavish wedding
+__label__1	Panchkula MLA bats for auto drivers
+__label__1	Tamil Nadu has 1cr more voters in 2016
+__label__0	Man who burned Indian flag held
+__label__1	Counting of votes begin for BMC polls
+__label__1	Nitish fears backlash
+__label__1	Pvt eye who tapped Amar's phone held
+__label__0	Youth held with explosives
+__label__0	Another boy abducted in Bihar
+__label__1	Congress jittery over alliance with BSP
+__label__1	Studentâ€™s suicide: Hyderabad University revokes suspension of 4 scholars
+__label__1	Mukul to go to Hills with CM
+__label__0	Vendors make a mess of railway station subway
+__label__0	'IAS trainee' arrested for cheating woman
+__label__1	Indian Govt
+__label__1	Telangana
+__label__1	Political banners make a comback in Kharghar
+__label__0	Bangladeshi arrested for forgery of documents
+__label__1	JMM workers miss Soren at convention
+__label__1	Mocktale: TV show to help Kejriwal and Modi sort out their differences
+__label__0	Student kills classmate with boulder
+__label__0	Cable man among two shot at in city
+__label__0	Merchant robbed of gold worth Rs 70 lakh
+__label__0	Tusker kills two in Keonjhar
+__label__0	Woman held for hubby's murder
+__label__0	Criminal case
+__label__0	Power theft cases on the rise in Mohali
+__label__0	Six persons arrested for chemist's murder
+__label__0	Artists allege assault by cops
+__label__1	Act to put MLAs in plan bodies
+__label__0	MBA and engineers arrested for cheating banks of Rs 5 crore
+__label__1	Dalit scholarâ€™s suicide: HRD ministry sent 5 â€˜remindersâ€™ to university
+__label__0	SHRC raids police station for detaining student
+__label__0	Minor girl rescued
+__label__0	Activists still in jail for taking down AIADMK hoardings
+__label__1	PM meets Ex-Premier of Singapore
+__label__0	State sees sharp rise in cybercrime
+__label__0	Man flees Thana jail
+__label__1	CPM blocks Babuat Tvm
+__label__1	Congress wins Manipur by-election
+__label__0	IRB jawan booked on rape charges
+__label__0	Fake home loan racket busted
+__label__1	NCC demands increase in quota for CET seats
+__label__1	Government may allow some PSBs to skip dividends amidst increased burden of sticky loans
+__label__1	Cancel open space upkeep tenders: Cong
+__label__0	Woman bootlegger's body found in gutter
+__label__1	Kejri meets Pathankot martyrs' kin
+__label__1	Cong prefers to sit in Oppn in Karnataka
+__label__1	Govt launches bill award app
+__label__0	Hacker gives pharma co bitter pill
+__label__1	Review of 254 cases against Patels
+__label__0	Missing RSS worker's body found
+__label__0	12 child labourers from Jharkhand rescued
+__label__1	Sena supports district collector Ashwini Joshi
+__label__0	Harassment not alien to girl students
+__label__0	'Technique vital in terror probes'
+__label__0	Third Audi suspect held in Kolkata
+__label__1	Amit Jogi denies voice in audio tape belongs to him or his dad
+__label__1	Protests against court order escalate
+__label__1	Arvind Kejriwal's hilarious MEMES revealed
+__label__1	CPI
+__label__0	Robbers kill contractor
+__label__1	RJD student leader kidnapped
+__label__1	Omar rules out tying up with BJP to form govt in J&K
+__label__1	Congress men seek Rodrigues ouster at party meet
+__label__0	Mathura DM accused of manhandling
+__label__1	I&B Minister clears air over smoking ban in films
+__label__0	Accused Somalian performed two contract marriages earlier
+__label__1	BJP VP clarifies remarks on BJPâ€™s talent pool
+__label__0	Boy commits suicide in Kanpur
+__label__0	J-K Engineers booked in graft case
+__label__1	Lalu to lay foundation stone of new line today
+__label__0	Constable kills self with licensed gun
+__label__1	Victory puts Cong on stronger wicket in seat-sharing talks
+__label__1	State turns to industrial houses for help
+__label__1	Jaju replaces Naqvi as BJP Headquarters incharge
+__label__1	Politics over studentâ€™s suicide: BJP hits back
+__label__0	Police jeep mows down three morning walkers
+__label__1	BJP wants Pawan Bansal to be probed by panel
+__label__1	Farooq bats for dissolution of Assembly
+__label__0	Book publisher arrested
+__label__0	Probe points towards organized turtle smuggling racket in state
+__label__1	GenNext raises 'Get Rahul' chorus
+__label__1	Thapar advises against TF2 release
+__label__0	Cops seize explosive materials
+__label__0	Asian-origin youth killed in UK
+__label__1	Uma blames NDA's 'feel good factor'
+__label__0	Powerful bomb found in Guwahati cinema hall
+__label__0	Kidnappers who fled from court still at large
+__label__1	Rohith Vemula suicide: Only forwarded two letters
+__label__0	Affair whiff in youth's suicide
+__label__1	House meet on demolition put off
+__label__0	'UK tourist died 2 days before body was found'
+__label__1	Fee reimbursement scheme: T govt to fix cap
+__label__1	Probe panel seeks details of NBFC's role in state
+__label__0	Police research bureau may take up Rohtak gang rape
+__label__1	PM felicitates unsung heroes at Amazing Indians Award
+__label__0	Judge harassment: AG says retd judge can continue probe
+__label__0	Four booked for pelting stones at police
+__label__1	Caught on cam: K'taka CM slaps bureaucrat
+__label__0	Hackers using antivirus to sneak into computers
+__label__0	IIT-M guard nabbed for sexually assaulting student on campus
+__label__1	Govt wants collegium functions under RTI
+__label__0	Poverty drives labourer to make extortion call for Rs1 crore
+__label__1	Congress fields Rajput against BJP's Jankhana
+__label__0	Nepal palace massacre survivor makes fresh start
+__label__0	'Babus guilty of violating RTI act'
+__label__0	Constable caught taking bribe
+__label__0	4 held for E Delhi double murder
+__label__0	Headmistress kills former friend on school campus
+__label__0	CIA arrests kingpin of fraudsters' gang
+__label__0	Duo tries to sell fake gold to customers
+__label__0	Manipur minister's guard shot dead
+__label__0	BHUGAON INCIDENT - Six held for murder of NCP leader
+__label__0	Dead husband gets â€˜loanâ€™
+__label__0	Mastermind behind Delhi serial blasts shot dead
+__label__0	Cops nab vehicle-lifter
+__label__1	`Kerala budget yet to reflect vox populi'
+__label__0	Couple found hanging from tree in Unnao
+__label__0	Cops look for links in travel agents' nexus
+__label__1	Bihar govt makes RTI accessible
+__label__0	Karmasad man shot in United States
+__label__1	PM Narendra Modi targets Manmohan Singh for leaving Assam in lurch
+__label__0	Teachers' stir: Clatter for pay parity grows louder in Salem dist
+__label__1	Mumbai to be Indiaâ€™s startup capital: CM
+__label__0	Cidco police bust sex racket
+__label__0	Youths go on the rampage in Bibvewadi
+__label__1	Electrification of rail lines lagging despite availability funds
+__label__1	Jayant Patil likely to get key home portfolio
+__label__0	Show me the money
+__label__1	Key Congress leader to rejoin Mamata Banerjee's Trinamool
+__label__1	No political interference in 'Q' case: PM
+__label__0	1 killed in cross firing between ultra outfits
+__label__1	Sudden school holidays unwelcome in Gurgaon
+__label__1	BJP jolted in Chhattisgarh too
+__label__0	Killer hubby had married thrice
+__label__0	Couple harassed after foetus found in toilet
+__label__0	Cops suspect realtor may have cooked up abduction story 
+__label__0	Man gets lifer for murder
+__label__1	Lobbying on to make Kakinada Alang of AP
+__label__1	'Regular Indo-Pak export of fruit possible'
+__label__0	'Scan barren islands for LeT
+__label__1	BJP's Swamy moves court seeking data on Herald
+__label__0	Verdict in 2003 Parsi murder case soon
+__label__0	CCTV catches theft of goods worth 7L
+__label__0	Bengal policeman creates ruckus on dry day
+__label__1	Rahul to meet state Cong leaders over poll strategy
+__label__0	Elementary school head master booked for forging documents
+__label__1	Premji slams Karnataka government
+__label__0	ACB restrained from arresting Daya till Jan 30
+__label__0	Bank staff siphon customers' cash
+__label__1	Aasu leaders meet PM
+__label__1	Huda turns deaf ear
+__label__0	Case against railways after lack of medical aid claims life
+__label__1	Cong scored well
+__label__1	Maneka Gandhi terrorises Bollywood
+__label__1	Why Railway minister rapped a complainant on Twitter
+__label__0	Couple caught using fake passports 
+__label__0	2-year-old girl found dead in drianage canal
+__label__0	Jessica Lall case: Heads start rolling
+__label__0	Housewife found hanging in C R Park
+__label__1	'People see Cong better than BJP'
+__label__1	CPM sees red in govt plea to revive Lavalin case
+__label__1	Sena men flex muscle at natl meet
+__label__1	Bihar is on threshold of turnaround: Desai
+__label__1	Ghaziabad mayor bypoll deferred again
+__label__1	Clashes continue in Imphal over building of temporary market
+__label__0	Youth's jump in police headquarters turns fatal
+__label__1	Two proposed reservoirs to end water woes in Hyderabad
+__label__0	Masked men open fire at police party
+__label__1	Modi declared 'Personality of 2005'
+__label__1	State govt allows mayors to use red beacons atop cars
+__label__1	Telangana stares at a dismal Rabi season
+__label__1	After vote
+__label__1	Balmuchu asks govt to reveal investment details
+__label__0	Patna businessman released by abductors
+__label__1	The Reservations Riddle
+__label__1	Governor lays foundation for Jharkhand Bhavan
+__label__0	MP sends bill
+__label__1	SuMo charges Nitish with shielding MLAs
+__label__1	Watch: Kejriwal's Rs 1cr 'offer' to martyrs' kin
+__label__0	State leaders mourn Bardhan
+__label__0	Man murdered
+__label__1	Advani hogs the limelight in international billiards circuit
+__label__1	Delhi Metro asks for Rs 2.6L for this RTI query
+__label__0	Man gets 10-yr RI for raping minor
+__label__0	Raveena Tandon is 'dogged' by ransom calls
+__label__1	Sonia lends ear to victims' families
+__label__0	Stolen vehicles can put you in a spot
+__label__1	Huda waste dumping 'uproots' trees
+__label__1	National Conference rules out alliance with BJP in Jammu and Kashmir
+__label__1	BJD slams Centre for ignoring panel plea for Modi appointment
+__label__0	Chanda new woman dacoit in Chambal badlands
+__label__1	Muslim MLA offers puja
+__label__0	Police jeep kills 3 morning walkers
+__label__0	Sex racket busted in Ratlam
+__label__0	Noida killer redefines 'normal'
+__label__1	Thane City Congress gets new leadership
+__label__1	Maya to meet party MPs
+__label__1	Bus carrying 'divyaang' to meet PM Modi hits pole
+__label__0	Women allege fraud by chit fund agency
+__label__1	Why is Ballari minister angry with Anupama?
+__label__1	Sonam Kapoor meets Maharashtra CM
+__label__1	Only 38% turnout in Choryasi bypoll
+__label__1	JK Governor reviews restoration progress of flood-damaged infrastucture'
+__label__1	No proof against Lalu in Rajdhani case: DIG
+__label__1	Madan keeps poll guessing-game on
+__label__0	Rickshaw driver held for attempt to kidnap girl
+__label__0	Housekeeping plan for civic schools
+__label__1	BJP leaders arrested on way to Gorakhpur
+__label__1	Talks delayed
+__label__1	Our Big Boss sarkarâ€™s payroll: No one â€“ including itself â€“ knows how many people the government employs
+__label__1	University of Hyderabad boils over dalit scholar's suicide
+__label__1	New rule limits babusâ€™ foreign trips to four a year
+__label__1	Traffic free left rule exists only on paper
+__label__0	Thieves strike twice
+__label__1	PC's menu: Costlier passports
+__label__0	Kaali mistreated in the orphanage
+__label__0	31-year-old man booked for rape
+__label__1	Main kal manch par aoonga: Rahul Gandhi
+__label__0	Nayak accuses top cops of framing him
+__label__1	Can Sikhs be minority in Punjab
+__label__0	Refused drug money
+__label__0	RPF action no deterrent to people crossing rly tracks
+__label__0	False rape cases give city a bad name
+__label__1	BJP buying minority voter IDs
+__label__1	BJP supporters try to assault KJP founder
+__label__1	Sanitation by-laws to be put online soon for public approval next week
+__label__0	Friendly entry in west Delhi murder
+__label__0	Five arrested for two murders in Limbayat
+__label__0	Security guard arrested for killing a monkey
+__label__0	African student held for assaulting traffic policemen
+__label__1	Mocktale: Modi govt basks in Rohit Sharmaâ€™s glory
+__label__1	BJP urges President to seek report from governor on Malda violence
+__label__1	Cong to Mamata: Quit NDA
+__label__0	Man accused of abducting woman
+__label__0	45-yr-old man murdered at Madhapur
+__label__0	Mandsaur cops hunt for abductors who kidnapped 7-year-old
+__label__1	SC to hear Sidhu's plea on Thursday
+__label__0	City police nab three in Ajay Raut kidnapping case
+__label__1	State govt to provide 50
+__label__0	Abductor tries to flee
+__label__1	Hooda slams Khattar govt for patting its back
+__label__0	Graph of liquor-related crimes shooting up
+__label__0	Three Kasba youths crushed under train
+__label__1	Chandy fractures hip bone in Davos
+__label__1	BJP calls truce in DMDK-PMK war to head alliance in state
+__label__1	Bardhan's demise irreparable loss: Andhra CM
+__label__0	Former MLA Vishnu sent in police custody in hooch case
+__label__0	Woman's body found in burial ground
+__label__1	Govt leaving no stone unturned to fulfill development aspirations of NE: PM
+__label__1	Soren takes ill after night in Jharkhand jail
+__label__1	Maha babus frustrate CMâ€™s efforts to revive PG radiotherapy course
+__label__1	CPM readies for Kerala
+__label__1	Death with dignity: Govt must empower terminally ill patients to take decisions about their own care
+__label__0	Guard found dead at Sec 78 building site
+__label__0	Peace talk at this art do
+__label__1	CPM calls for movement against Cong
+__label__0	48 in custody for flouting Ganeshotsav noise norms
+__label__0	Raigad traffic police book 5
+__label__1	BJP announces formal support to JD-S
+__label__1	Maghi Mela conferences to set the tone for polls
+__label__0	Case registered against supermarket chain for selling goods post expiry date
+__label__0	Schoolboy killed in mishap
+__label__1	Amartya Senâ€™s talk in 2013 saw protests by dalit pupils
+__label__0	Slain trader's aide missing with Rs 1 lakh
+__label__0	Abduction accused jailed
+__label__1	BJP to prick Cong's aam aadmi balloon
+__label__0	Child abuse cases in city on the rise
+__label__0	Double murder: Alleged killer drank whiskey near bodies
+__label__0	25-year-old trader shot dead in Daltonganj
+__label__0	RWAs demand boundary walls to guard from theft
+__label__1	Tomar says relief for steel-makers soon
+__label__0	515 missing kids traced
+__label__0	History-sheeter sets ablaze parents' houses
+__label__1	I am not power hungry: Raj Thackeray
+__label__0	More people committing suicide in south India: Report
+__label__0	2 more arrested in Gajapati triple murder case
+__label__1	Meghalaya CM flags off 'Run for North East'
+__label__0	Murder accused attacks police constable
+__label__0	Man held for beating 4-yr-old to death
+__label__1	Himachal Pradesh chief ministerVirbhadra rules out carving out new districts
+__label__0	'Superstitious' man kills 2 neighbours
+__label__0	Man held with medical termination of pregnancy kits
+__label__0	Engg student held for boy's murder
+__label__0	Net fraud: Police bust gang buying air tickets
+__label__0	Accused to undergo narco test 
+__label__1	Sonia to meet Gowda after conclave
+__label__1	BJP vs SAD in Khadoor bypoll?
+__label__0	Women held for snatching
+__label__0	Experts differ on retrial in Jessica case 
+__label__1	Can MIM create Dalit-Muslim magic?
+__label__1	AP CM to take part in 46th WEF annual summit in Davos
+__label__1	BJP state unit to send delegation to Centre
+__label__0	Burning deaths shock residents
+__label__1	Urdu Times stops printing over financial dispute within family
+__label__1	Why Ravish reports much before time on the set
+__label__0	20 hurt in clashes after cow-slaughter
+__label__0	Anandpal gang produced in court under security
+__label__0	Girl thrown into burning pit
+__label__1	No holiday for Gowda
+__label__0	Man killed in hit and run
+__label__1	2016-17 to be `Visit Telangana Year'
+__label__0	Cops crack Parameswari murder case in 24 hours
+__label__0	CCPCR team finds condoms in school buses
+__label__1	Appa Rao 'threw out' 12 Dalit students in 2002
+__label__1	Kejriwal declares war on babus
+__label__0	Strict action against LU teachers
+__label__0	Woman's body found in tank
+__label__1	Modi dilemma: Win some
+__label__1	After centre's go-ahead
+__label__1	'Don't treat Sidhu case on par with other netas'
+__label__1	Cong's 'young faces' remark sparks speculation on Rahul
+__label__0	Priyankaâ€™s 12 rashis! 
+__label__1	Govt all for promoting development with human face: PM
+__label__1	'Kirat bag' for retiring cops
+__label__1	Delhiâ€™s odd-even scheme: The ultimate analysis
+__label__1	TRS turns to quacks for votes!
+__label__1	No political interference in 'Q' case: PM
+__label__1	AAI union stir turns ugly
+__label__0	Woman held for killing husband with lover
+__label__1	Separatists should respect people's sentiments: Omar
+__label__0	Man attacks mother-in-law with sword in west Delhi
+__label__0	17-yr-old girl hangs self
+__label__1	3 issues must be settled before odd-even-II: Arvind Kejriwal
+__label__0	Court acquits rape accused as â€˜victimâ€™ professes her love
+__label__0	Murder convict plays name game
+__label__0	RK Gupta: FIR for fake caste certificate
+__label__1	Maneka Gandhi wants lifting of age bar for widows appearing in competitive exams
+__label__0	SI of customs dept held for robbery
+__label__1	BJP wants Pawan Bansal to be probed by panel
+__label__1	'First claim': Cong shifts gear
+__label__1	No alliance with NCP was a mistake: Cong
+__label__1	Anna Hazare gets another death threat
+__label__0	Held BSF jawan's brother also into drug smuggling
+__label__0	Two held in fake currency racket in Haryana
+__label__1	Odd-even paves way for 14 new CNG pumps in Noida
+__label__1	Voters should not bring back DMK
+__label__1	CBI abused its power in CMâ€™s secretary case: Court
+__label__1	'Hold bypolls in 3 months'
+__label__0	Bail relief for three of five rape accused
+__label__1	Poll strategist Prashant Kishor made advisor to Nitish Kumar in Bihar
+__label__1	ABVP manâ€™s injury claims false
+__label__1	Dalit scholarâ€™s suicide: Now Kejriwal heads to Hyderabad
+__label__0	Nine minor Delhi girls rescued from Vadodara
+__label__0	One stabbed in scuffle at Ravanfond
+__label__0	Three police shot dead in Mali by suspected jihadists
+__label__0	Drunk miscreant hacks policemen
+__label__1	Sonia to meet Gowda after conclave
+__label__1	Students express solidarity for Rohith Vemula
+__label__1	Pawar ends Kalmadi's 'control' over Pune
+__label__0	â€˜Malwani youth may not return after police caseâ€™
+__label__1	Mulayam asks Oppn to 'wait & watch'
+__label__0	Women ransack liquor shops
+__label__1	CPM seeks changes in master plan
+__label__0	Triple murder: Police glare on Neil's story
+__label__0	Cops find head of man murdered over money
+__label__1	Cabinet reshuffle to take place tomorrow
+__label__1	BSP MLA Shekhar Tiwari held over PWD engineer's death
+__label__1	Ruckus in Tripura House over ex-CPM MLA's arrest
+__label__0	US sets stage for strikes if Pak does not act
+__label__0	Acid thrower's jail term commuted
+__label__1	Gowda slams EC for barring son from Madhugiri
+__label__1	Bandh in AMU to press 'minority status' demand
+__label__0	Beyond call of duty
+__label__0	Cops bust gang targeting auto passengers
+__label__1	Congress seeks Bandaru Dattatreya's sacking
+__label__1	Women in Haryana village resolve to reject liquor politics
+__label__0	Five in sex ring arrested
+__label__1	Toon row: BJP demands sacking of UP Minister
+__label__0	Police initiate job fraud probe
+__label__0	Beef vigilante attack Muslim couple in MP
+__label__0	Five held for driver's murder
+__label__1	MUDRA scheme aimed at benefitting 7 cr entrepreneurs: Raja
+__label__1	'J-K Govt will not tolerate corrupt officials'
+__label__0	Two girls strangulated
+__label__1	Rebel candidates a major worry for TRS
+__label__0	Bihar minister accused of hit-and-run 
+__label__0	Man beats to death his parents over property dispute
+__label__1	Dalit student's suicide: Suicide storm gathers strength
+__label__0	Three held for railway paper leak racket
+__label__1	Acts of indiscipline in party will be met with action: Barala
+__label__0	Amreli forester shoots self to death
+__label__0	Theft in BJP office a symptom of organisational drift
+__label__0	Builder loses alimony case after boast on FB
+__label__0	Tension grips Dholpur after rape
+__label__1	Panchayat polls: Haryana turns up in droves
+__label__0	Abducted Bihar trader Prashant Jain untraced
+__label__0	U-turn: CBI says it cleared defreeze
+__label__0	Similar charge on dacoit gang leader
+__label__1	Sycophancy in Congress is exposed: BJP
+__label__1	HC credits people for odd-even success
+__label__1	Congress slams BJP as 'anti-poor' after SC raps Gujarat on food law
+__label__0	Phone tapping: Key accused Dhawan arrested
+__label__1	AAP names 16 dist chiefs
+__label__1	Health minister Nitin Patel faces Patel fury in Mehsana
+__label__0	Crime branch to probe Prafulgiri's death
+__label__0	Gym franchise owner escapes unhurt as man fires thrice at him
+__label__1	Centre threatens to slash funds
+__label__0	Woman's suicide bid foiled by Lake Police
+__label__0	Trader shot at in Malad
+__label__1	Strike called in quake-hit Imphal against women vendors' behaviour
+__label__1	Congress wins 108 of 278 local body seats in Manipur
+__label__1	India locks horns with developed world
+__label__0	Girl jumps to death from 8th floor 
+__label__0	Villagers block trains for 8 hours
+__label__0	Five persons arrested for creating ruckus
+__label__0	City engr part of UK interplanetary society
+__label__0	Major jam on Mumbai-Goa highway due to mishap
+__label__1	CPM launches yoga training programme
+__label__0	Gang stabs student in public
+__label__1	JD(U) pushes its poll agenda among Muslims
+__label__0	Kin cry foul over jail inmate's death 
+__label__0	Man sentenced to 7 years RI for raping minor
+__label__1	Adhir's Delhi visit stirs up alliance talks
+__label__1	State bags 6 electoral practices awards
+__label__1	After odd-even plan
+__label__0	20 yrs' jail in Singur rape case
+__label__0	W Delhi road rage: Victim has no idea about assailants 
+__label__1	Animal Welfare Board of India seeks report from collector over berserk elephant
+__label__1	'Coalition politics is the future of the country'
+__label__1	Rahul visits Tyagi family
+__label__1	Lion translocation: Govt prepares affidavit for SC
+__label__1	Gen next pitches in for Rahul leadership
+__label__0	Teacher couple hounded by CPM men
+__label__0	One held for murder of jeweller's wife 
+__label__1	Hazare gets another death threat
+__label__0	Bikers held for 'assaulting' traffic cop
+__label__1	Govt sets March 31 deadline for ration card distribution
+__label__0	Two Nepalese clean out old couple's house
+__label__1	Phone tapping charges: J'khand CM demands apology from Marandi
+__label__0	Youth stabbed to death in lottery centre in Mumbai
+__label__1	Cauvery: MP quits Cabinet post
+__label__1	Sushma meets ex-envoys
+__label__1	Jaipur Municipal Corporation contractors go go on strike
+__label__0	Biti likely to surrender before NHRC in Delhi
+__label__0	Detained men abuse duty doctor
+__label__1	Ethnic groups take up ST status with NaMo
+__label__1	Rajnath Singh meets RSS top brass
+__label__1	Lalu downplays Antulay's remarks on Karkare
+__label__1	Bihar chief minister at janata darbar for nine hrs; 1007 applicants turn up
+__label__1	Priyanka Gandhi in Puducherry to watch daughter play basketball
+__label__0	Farooqui says he has been framed in rape case
+__label__0	Student suicide: TMC sends MPs to Hyderabad
+__label__0	Ex-BPO employee held for stealing gadgets
+__label__1	Rajasthan govt to bring down cap on e-procurement
+__label__0	4 held for E Delhi double murder
+__label__1	Poll: Rahul key for Cong revival in Bihar and UP
+__label__1	Arunachal groups seek CM
+__label__0	17 HIV+ children break out of home
+__label__1	Cong ends year on disastrous note
+__label__0	Man alleges atrocity
+__label__1	Gowda may snap ties with Cong
+__label__0	Pota accused allege torture in ATS custody
+__label__1	GHMC polls: Over 1
+__label__0	Film school professor held for â€˜rapingâ€™ pupil
+__label__1	People-friendly budget
+__label__0	Missing kids hub
+__label__0	Fire station theft: MC set to take action
+__label__0	Voice check helps cops nab accused
+__label__1	Bhujbal says errors in Maha Sadan FIR after minister denies giving clean chit
+__label__1	Unshackle education: Rohith Vemulaâ€™s suicide exemplifies continuing politicisation of educational institutes
+__label__0	Month-old boy kidnapped
+__label__1	Subhash Sethi elected Beopar Mandal prez
+__label__1	Jyoti Basu downplays bogus voters issue
+__label__1	Sonia's mantra
+__label__1	Delegates can't wait for sonrise
+__label__0	CID rescues 15 bonded labourers
+__label__0	Evidence suggests cop gave electric shock to engineer
+__label__0	Man accused of financing Jakarta attacks arrested
+__label__1	Rahul Gandhi to govt: Agree to our terms
+__label__0	Bank employee commits suicide
+__label__1	Delhi kicks off New Year with odd-even plan
+__label__1	'Make In India' logo designed by foreign firm
+__label__0	Cops lodge case against CU faculty members
+__label__0	Bootleggers are slinging back to business
+__label__0	Estate agent unable to repay 1.5L arrested for NCP workerâ€™s killing
+__label__1	Smiles faded as cops brought down Netaji's portrait
+__label__0	Kin allege foul play in jail inmateâ€™s death
+__label__0	5 burglars arrested
+__label__0	DGP asks cops to avoid tussle with violators
+__label__0	Arab held for marrying 'minor'
+__label__1	Flood of nominations reflects unrest in BJPâ€™s state cadre Selection Of Dist Chiefs
+__label__1	Delhi Police summon Amar Singh on phone tapping
+__label__1	Yechury keeps alliance hope alive
+__label__0	Mystery shrouds girl's death
+__label__0	It's a step in the right direction
+__label__1	No ministers on panel deciding transfers of IAS
+__label__1	CPMâ€™s Nava Kerala Yatra begins with pro-development pitch
+__label__1	Human rights seminar in Gauhati University
+__label__1	New faces made MP win possible for BJP
+__label__0	Cash-for-vote: Somnath recommends probe against 3 accused
+__label__0	Street vendors attack Vadodara Municipal Corporation team
+__label__0	Drive to trace missing children begins today
+__label__0	One held for murder of senior citizen
+__label__1	State govt accepts MIA demands
+__label__0	Maoists abduct three Pune youths
+__label__1	BJP MP warns Sabnis against fresh conflict
+__label__0	Noida sand miners fined 7.5cr last year
+__label__1	Vajpayee skips rally on medical advice
+__label__0	Man â€˜jaywalkingâ€™ on S-P highway killed
+__label__1	Battle for Punjab: With Akalis facing serious anti-incumbency
+__label__1	Patel agitation: Gujarat CM Anandiben Patel gets a warning from BJP
+__label__0	ATS
+__label__0	Four held for CA's abduction
+__label__1	Kishwar & Suyyash @ BCL
+__label__1	Pollution spikes during Delhiâ€™s odd-even experiment
+__label__0	19L looted from bank
+__label__0	Gym owner booked for rape
+__label__1	Malhotra to keep Assembly seat
+__label__1	JKNPP demands dissolution of JK Assembly
+__label__1	'India will vote on Iran based on self-interest'
+__label__1	MP writes to President on Dalit student's suicide
+__label__1	Call for fresh polls if unwilling to be CM: Omar to Mehbooba
+__label__1	BJP clashes with cops on march to Lalbazar
+__label__1	Shun votebank politics to tackle terror
+__label__0	3 college students accused in double murder case arrested
+__label__1	Students drive out MHRD probe team from campus
+__label__1	Gujjar leaders again threaten agitation over reservation
+__label__1	Still in Mulayam's shadow
+__label__0	Illegal kidney market thrives in city
+__label__0	Tusker found dead near Thekkampatti jumbo camp
+__label__0	Rs 28K gold
+__label__1	Advani admits disputes within BJP
+__label__0	Naroda Patia convict assaults ex-scribe
+__label__0	Feeling groovy
+__label__0	Third businessman gets extortion call from Pujari
+__label__0	Shot at CST
+__label__0	Missing IITian calls parents
+__label__1	Uma to launch party by Feb: Patel
+__label__1	Arun Jaitley can let deficit slip
+__label__1	Mamata hits out at Buddha over Singur
+__label__0	Another accused held for Abohar dalit's murder
+__label__1	Experts divided over odd-even plan
+__label__1	Dalits protest denial of burial rights
+__label__0	Ship firm fined Rs 7crore
+__label__0	Roadblock for killer's arrest
+__label__0	3 salesmen in net for 21 lakh theft
+__label__1	Road ministry seeks 'end of life' policy for old vehicles
+__label__0	Mehsana girl grappling with life after acid attack
+__label__1	Full text: Dalit scholar Rohith Vemula's suicide note
+__label__0	Patna businessman released by abductors
+__label__1	Karnataka crisis: Gowda holds key to save Dharam govt
+__label__0	Amar Circus owner denies ill-treatment of its animals
+__label__1	Hurt Tiwari stays away from plenary
+__label__0	Bike-borne man robbed after 'lost' woman asks for a lift
+__label__0	Nithari killings: Moninder bribed cops
+__label__0	Cops to check call records of deceased
+__label__1	Quattrocchi issue: Lok Sabha adjourned
+__label__0	Builderâ€™s bail plea: 2 judges give 2 orders
+__label__1	No booze bucks for cows in state: Vij
+__label__0	Bus damaged as violence erupts in Bangalore
+__label__1	Modi boosts BPF stakes in state
+__label__0	4-year jail in road rage murder
+__label__1	It's almost official: Congress to go it alone in Assam
+__label__1	Engineers earn CMâ€™s wrath for delay in project
+__label__1	Artists to stage unique protest
+__label__0	Ayodhya attack: Remand of accused extended
+__label__0	Minor girl receives burn injuries in acid attack
+__label__0	Body in septic tank
+__label__1	Meghalaya government-supplied drinking water unfit for consumption
+__label__1	'Maulana' Mulayam dons a 'mahant' avatar
+__label__1	Govt may find it difficult to support Pathak's 'Q' views
+__label__1	Anirban Ganguly: The decline of West Bengal
+__label__1	Hyderabad University itself a case study in caste politics
+__label__0	33 cricket aspirants fall victim to online fraud
+__label__0	Cyber thieves
+__label__0	2k booked on Day 1 of helmet enforcement
+__label__1	Rajnath Singh meets RSS top brass
+__label__0	An eventful mahotsav
+__label__1	Subramanian Swamy alleges Aamir Khan collaborated with ISI to promote 'PK'
+__label__0	AU students demand Dattatreya's arrest
+__label__1	Orissa JD(S) perturbed by Karnataka crisis
+__label__0	Criminal nabbed after 6 years
+__label__0	Suspended DGP's diary reveals shady deals
+__label__0	Is underworld getting a foot hold in Gujarat?
+__label__1	Centre told to go slow on birth date circular
+__label__1	Cong banks on satire to attack BJP's poster boy
+__label__0	Boy commits suicide in Kanpur
+__label__0	CEO held for 10cr fraud
+__label__1	Cong writes to SEC to hold Cuttack mayor election soon
+__label__1	M Chandra Sekhar takes over as Mangaluru police chief
+__label__1	Sonia takes battle to UP via Noida
+__label__0	Chargesheet against two ex-Navy officers
+__label__0	Kathiroor murder - P Jayarajan approaches HC for anticipatory bail
+__label__1	Contract with local bodies no bar to become MP
+__label__0	Charges framed against Kanchi seers in murder case
+__label__0	Bangalore's climate conducive for energy-efficient commercial structures 
+__label__1	Mamata likely to be released in next two days
+__label__1	Cow slaughter: Notice to Punjab govt
+__label__0	Sitapur eye tragedy: lab reports give clean chit to RL solution
+__label__1	Congress asks its allies to follow basic discipline
+__label__0	Missing girl's father ends life
+__label__0	Gang which hid cars
+__label__1	Vimochana yatra by BJP from today
+__label__1	Fishers oppose sea cucumber ban
+__label__1	Bappaâ€™s new year gift for children of dead farmers
+__label__0	NRI trust coordinator held in self-help group fraud
+__label__0	Cops told to probe hoax call case
+__label__1	Congress broke up my family: HDK
+__label__0	Jessica case: Manu Sharma files appeal in SC
+__label__0	Beed student stops going to college after cops ignore harassment complaints
+__label__0	18 duped of Rs 16.95 lakh
+__label__1	RBI and finance ministry working on solution to NPAs held by banks: Jayant Sinha
+__label__0	Gang held for cops' murders
+__label__1	Badal calls AAP 'passing fad'
+__label__0	Kidnapped girl rescued
+__label__0	Honda school teacher claims harassment
+__label__1	Mahadayi row - Goa rejects meeting with K'taka
+__label__0	Man attempts to kill daughter over 'honour'
+__label__1	Left experts pick holes in Singur claims
+__label__1	Now it's 'freedom fighters' vs MCD
+__label__1	Pvt eye who tapped Amar's phone held
+__label__0	Neighbour held for widow's murder
+__label__0	Katie says she's not just Mrs. Cruise
+__label__0	Main accused in murder case held
+__label__1	Court rejects bribery plaint against Arvind Kejriwal
+__label__0	Friends arrested for murder
+__label__1	End of controversy as new lokayukta takes oath today
+__label__0	Abducted doctor rescued in Patan
+__label__0	Man arrested for killing wife
+__label__1	Centre blackmailing Odisha govt to get BJDâ€™s support in Parliament
+__label__0	Refugee crisis: Human traffickers 'netted up to Â£4 billion last year'
+__label__0	Two arrested for throwing acid on girl after rape
+__label__0	ACB restrained from arresting Daya till Jan 30
+__label__0	Scarlett murder: CBI to send team to UK to record statements
+__label__0	Arogya Kavach staff threaten indefinite stir over release of dues
+__label__0	Girl files cruelty case against father
+__label__0	Poor visibility leaves three dead
+__label__1	'10 MLAs
+__label__1	MIM legislator booked for vandalism at Waqf property
+__label__1	What victory means to Yeddyurappa
+__label__1	E-governance vital for good governance: Gadkari
+__label__1	Lalu-Rabri won't vacate 1
+__label__1	Rahul Gandhi sends legal notice to US-based website
+__label__1	Intervene to free Tamil fishermen: CM to Modi
+__label__1	Govt mum over Ulfa threat to ONGC
+__label__0	Lone snatcher strikes inside milling Market Yard
+__label__1	Cong to press for 50% ministerial berths in J&K
+__label__0	Cops avert gang war in court
+__label__0	Sami's father grilled by Delhi cops on Day II
+__label__1	Investigation agencies have a free hand: Nitish
+__label__0	Salman's hit-and-run case trial on Feb 2
+__label__1	Faulty selection of candidates blamed for BJP's debacle
+__label__1	EC to send 5-member team to TN
+__label__0	HC dismisses plea to quash case against contractor
+__label__1	Mufti Mohammad Sayeed still critical but stable: AIIMS
+__label__0	Noida killings: Prime accused hospitalised
+__label__0	ID parade in Red Road hit-and-run case on Thursday
+__label__1	Uddhav took a cue from Modi
+__label__1	'Waive off entire debt of farmers'
+__label__0	Cop's son commits suicide
+__label__0	Police suspect insider's hand in bank robbery
+__label__1	Sonia Gandhi meets Saudi King
+__label__0	Charges framed against Ayodhya attack accused
+__label__0	Residents block road with body of accident victim
+__label__0	Two labourers killed in Ujjain blast
+__label__0	Two killed
+__label__1	Workers to get 'lean period' assistance in Puducherry
+__label__0	Youth held for 'raping' 12-year-old in Loni
+__label__1	Cong gears up for LS polls
+__label__1	Gehlot ahead despite Jat threat
+__label__1	Cong eyes stake in J&K govt
+__label__0	Three held for making 20 lakh extortion call
+__label__0	12-year-old arrested for sexually assaulting kid
+__label__1	News brief: Rahul targets Modi's 'Startup India'
+__label__1	'Assault on democracy'
+__label__1	No truce till we're released: Hardik
+__label__0	'TMC' men attack Madhyamik girl
+__label__0	Beef vigilantes attack Muslim couple
+__label__0	Fate of three high-profile cases hangs in balance
+__label__1	Telangana Congmen mum on state issue
+__label__1	Oregon refuge occupier arrested for taking government vehicle to market
+__label__1	CM attends RSS meeting
+__label__0	Will Chintan Upadhyay remain in police custody? Court to decide today
+__label__0	Police nab five members of gang of pickpockets
+__label__0	Elderly couple away
+__label__0	'Roadshow' case filed against Chiru
+__label__1	Feuds within Mumbai Congress surface ahead of Rahul Gandhi's visit
+__label__0	5-year-old girl raped on JNU campus
+__label__0	Valuables worth over 13L stolen from flat
+__label__0	AI suspends cabin crew for stealing food
+__label__1	Bhubaneswar Municipal Corporation panel to oversee Raahgiri
+__label__0	Woman burnt to death by husband
+__label__0	Couple hurt after acid attack in Katargam
+__label__0	Civic body books 25 retailers for using plastic bags
+__label__0	Slumlord shot dead in Thane
+__label__1	Sena workerâ€™s death exposes lack of coordination among cops
+__label__0	Man wanted in 60 criminal cases held
+__label__0	Yet another liquor tragedy in Ajmer
+__label__1	Mid-day meals to cost the govt more
+__label__0	Crime branch to file chargesheet in a week
+__label__0	50 Hindu outfit activists arrested in Ayodhya
+__label__1	'Raj Thackeray is a coward'
+__label__0	Man conned by television ad commits suicide
+__label__1	Loudspeakers may make us sick
+__label__0	40-yr-old woman molested by 3 at home
+__label__0	Restaurateurs complain of harassment
+__label__1	Kanti Bajpai: Smriti Irani fiddles with language policy while education burns
+__label__1	2/3rd of funds allotted for minorities not used: Jamaat
+__label__1	JMM to expose 'failures' of central
+__label__0	Alert villagers nab fleeing 'rapist'
+__label__0	Four commit suicide
+__label__1	AAP netas to take buses
+__label__0	Cash-at-door: SC panel finds no proof
+__label__0	Traffic police fine errant bikers
+__label__1	Manipur CM visits relief camp
+__label__0	Naxalite leader held
+__label__0	Culture vultures
+__label__0	Surat textile trader booked for cheating in Dubai
+__label__0	Cops nab minor phone thieves within hours
+__label__1	Don't delink city from state: Bal Thackeray
+__label__0	Mangalore killings accused nabbed in city
+__label__1	This is why diplomats
+__label__1	Video of hate crimes against Sikhs goes viral
+__label__1	Temporary nurses accuse Raghubar govt of betrayal
+__label__1	Karunanidhi makes a case for NSG unit in Chennai
+__label__0	Students commit 'suicide'
+__label__0	SI shot dead in Rajajipuram
+__label__0	Two miscreants rob labourer at gun point
+__label__1	Syed Mushtaq Ali: Rohan Prem hits fifty as Kerala win
+__label__0	Rs 2L theft in mall
+__label__0	Bapu still at 'gunpoint'
+__label__1	CM prepares to score big in Make in India home match
+__label__0	Std X student ends life
+__label__0	CBI finds RGUHS V-C guilty
+__label__1	Congress faces crisis in Karnataka; JD(S) withdraws support
+__label__1	Pranab calls for West Asia peace talks
+__label__1	Rajeev Chandrasekhar: Keep the net neutral to prevent access providers from cannibalising it
+__label__0	Cops bust illicit liquor racket in Taloja
+__label__0	Man and daughter held for cheating depositors of Rs 14 lakh
+__label__0	Gang selling fake insurance policies busted
+__label__0	Sub-inspector axed after public fight with colleague
+__label__0	Cops guilty of killing won't be spared: Azad
+__label__0	Suitor kidnaps child to force woman's hand 
+__label__1	Passive euthanasia law: Govt awaits SC verdict
+__label__1	Ahead of PAAS rathyatra
+__label__0	7 call girls held
+__label__1	â€˜Madrassas must hoist tricolour on R-Dayâ€™
+__label__1	Cong to confront Left in assembly polls
+__label__1	President to meet Silicon Valley CEOs before â€˜Start Upâ€™ drive
+__label__1	Declare Mulford persona non grata: Left
+__label__1	Are Sikhs a minority in Punjab
+__label__0	4 arrested for illegal sale of Fortwin injections
+__label__0	Dist Transport office to crack down on autos plying illegally
+__label__1	Govt takes the Raja Ram Mohan Roy route
+__label__0	Nand Nagri protests police 'inaction'
+__label__0	Yes
+__label__1	University flouted HC order while expelling Rohith
+__label__1	Speculation rife over who will succeed Panda in BJP legislature party leader
+__label__0	Another boy abducted in Bihar
+__label__0	Cell phone theft
+__label__1	PM should resign over Bihar: Opposition
+__label__1	Jaswant to pay respects at Jinnah's mausoleum
+__label__0	Bangla crooks trafficked Rohingyas to West Asia
+__label__1	Protests intensify as police take control of villages
+__label__0	Youths thrashed by bird rescuers
+__label__1	Cong's Dalit maha-sammelan in February to target BJP
+__label__0	Malegaon case: Rahirkar remanded to police custody
+__label__0	2 killed
+__label__1	Property tax amnesty plan rakes in 4cr
+__label__1	'Supporting Uttaranchal was a mistake'
+__label__1	Congress may not contest February 13 bypoll
+__label__0	Mumbai businessman found dead in hotel
+__label__1	Advani's rath made in Lalru
+__label__1	Sonia accuses BJP of 'divisive' politics
+__label__0	Woman robbed of 16 sovereign gold chain
+__label__1	Alliance at breakpoint as BJP snubs PDP demand for â€˜written assuranceâ€™
+__label__1	B'day: Best of Mayawati cartoons on the net
+__label__1	Congress candidate Satish Sail asset declaration
+__label__1	Deshmukh feels the heat for Cong's poor show
+__label__1	Hyderabad University student Rohith Vemula felt unions failed him
+__label__1	AAP launches membership drive in Gujarat from Surat
+__label__0	Thieves beat cops in hide-n-seek
+__label__0	Chinese police offer reward for reporting firecrackers
+__label__1	MLAs to be rated on performance
+__label__0	Kidnapped Pakistan officials rescued
+__label__0	Couple booked for blackmail
+__label__1	Parties fail to honour tolerance when their own turn critics
+__label__1	Pawar aide in obscene MMS soup
+__label__0	123 missing kids reunited with kin this month
+__label__0	Himachal witnesses decline in crime against women
+__label__1	Ban on diesel autos faces hurdles from neighbourhood
+__label__1	BJP move irks JD(U)
+__label__0	Vendetta killing at Arthur Rd jail
+__label__1	I will reply to the notice by MCD: Dikshit
+__label__1	Raj Thackeray to launch new party in March
+__label__0	Driver held for abusing minor
+__label__1	AAP donation: 4 firms booked for forgery
+__label__1	Attack on expelled AIADMK MLA's house slammed
+__label__0	Pune tycoon may face Rs 1 lakh cr fine for acquiring Rs 36
+__label__1	Jallikattu protesters censure Peta
+__label__0	Schoolgirl raped in Punjab village
+__label__0	`Shut illegal coaching centres voluntarily by Jan 31'
+__label__0	Nand Nagri protests police 'inaction'
+__label__1	Cong website caught in time warp
+__label__1	Patil wants to downsize VIP security
+__label__1	Gowda appeals to MLAs' conscience
+__label__1	Maneka wants more clarity in disability bill
+__label__1	Verdict will be decisive for CPM and Pinarayi
+__label__1	Fearing opposition to affairs
+__label__0	Bihar MLA helps husband flee from police station
+__label__1	Farmers defer plan to march to village Badal
+__label__1	BJP in a tizzy over Karnataka drama
+__label__1	People must point out my mistakes: Modi
+__label__0	Gold chain snatched
+__label__0	One arrested for cloning ATM cards
+__label__0	Former NCW head slams Gymkhana for 'class bias'
+__label__1	Path for VIPs but will it benefit the aam aadmi too?
+__label__1	AAP a bubble
+__label__0	Another attack on Uber driver in city
+__label__1	Shah to participate in RSS camp in Indore today
+__label__1	What PM Modi gifted bureaucrats on New Year
+__label__0	Woman commits suicide by setting herself ablaze
+__label__1	Cong urges Pawar to 'return home'
+__label__1	Left hard on Iran
+__label__1	Record holders ready to burn course
+__label__1	There is mutual respect between Chandrasekhar Yeleti and Mohanlal
+__label__1	3-day custody for Dhawan
+__label__1	Grand alliance in UP without SP
+__label__0	Who needs a coach when you have Tiger Woods for company: Atwal
+__label__0	Nilgiris expert kills rogue tusker in Bihar
+__label__1	Fee reimbursement scheme: Telangana govt to fix cap
+__label__0	'Madhapur murder was over illicit affair'
+__label__1	Sonia endorses PM's line on Iran
+__label__1	Congress confident yet wary of 'newbie' AAP
+__label__0	Triple murder: Police team dispatched to UP
+__label__0	Sandalwood tree cut down in Kondhwa
+__label__1	Higher MSP won't solve pulses problems
+__label__0	HC stays Sadhu Yadav's arrest till Mar 9
+__label__1	State needs an all-inclusive cultural policy
+__label__1	Govt modifies gameplan for WTO talks
+__label__0	One held for throwing acid on girl
+__label__1	EC silent on UP assembly election dates
+__label__1	City students demand justice for Vemula
+__label__1	Crores change hands as cockfights continue in Andhra despite ban
+__label__1	CPM rules out alliance with Cong in West Bengal
+__label__1	BJP announces formal support to JD-S
+__label__1	Early redemption of Narmada bonds nixed
+__label__0	Saritha-starrer winds up after 10 days' shoot
+__label__1	GHMC â€” Aspirants rake up Army blockade to win over voters
+__label__1	Presence of Raj Bhavan officials sparks debate in Assembly
+__label__1	Plugging civic poll holes ensured Congress win
+__label__0	Crime rate dropped
+__label__1	Dejected BJP corporator locks himself up
+__label__1	Gowda fails to move son
+__label__1	Cong adds to kitty
+__label__1	Withdraw our security: Mufti
+__label__1	Feasibilty study before CM announces a project
+__label__0	Speeding truck mows down pedestrian
+__label__1	'CPM support crucial for separate state'
+__label__1	AAP uses Virat Kohli's interview to attack Arun Jaitley
+__label__1	Dalit atrocities surface at public hearing in city
+__label__1	Cong corporator accuses MLA Munirathna of harassment
+__label__1	Can't do book-keeping on domestic flying: DGCA
+__label__1	If Rabri could rule
+__label__0	Guest house owner booked for violating Foreigner's Act
+__label__1	West Bengal seeks settlement with TCG
+__label__1	Gowda resigns as JDS national president
+__label__1	Pondy government mired in financial cisis:Cong
+__label__0	Another businessman kidnapped in Bihar
+__label__0	Dalit youth stabbed for objecting to â€˜Beepâ€™ song being played in temple
+__label__1	Witnessâ€™ statement recorded in poll plea against Vijayvargiya
+__label__1	BJP MLA accuses Cong of bias
+__label__1	CM Raje must clear govt stand over Salodia: Dudi
+__label__1	Cong seeks quota for backwards
+__label__1	Add Smriti Iraniâ€™s name to Rohith Vemula suicide FIR: Arvind Kejriwal
+__label__0	Centre threatens to slash funds
+__label__1	Demolition notice on illegal building puts CPM in a spot
+__label__1	AAP trying to deflect graft issue
+__label__1	Sudden eclipse for Mulayam
+__label__1	SC cancels NDA petrol pump allotments
+__label__0	Schoolkid thrown out of packed auto
+__label__1	Episode makes India look like â€˜tin pot republicâ€™: Congress
+__label__1	'Cong does not believe in dirty politics'
+__label__0	Youth caught stealing mobile phones
+__label__0	'Students buying drugs with cash from donating blood'
+__label__0	Fight between brothers lands cops in trouble
+__label__0	Failed cops re-appear for policing test
+__label__0	An innocent victim of operation clean
+__label__1	Shiv Sena gears up to protest V-Day
+__label__0	BPO fraud unearthed at SlashSupport
+__label__0	Two killed
+__label__0	Consultants fake papers for visa-seekers
+__label__0	Chargesheet filed against Hardik
+__label__1	Brand Lalu missing at Pravasi Bharatiya Diwas
+__label__0	SIT to probe waste dumping in Aravalis
+__label__0	Landlord kills tenant from Haryana
+__label__0	Missing Indian traced to Pakistan
+__label__1	Dharam Singh resigns; new Karnataka govt to take oath on Feb 3
+__label__1	Delayed tsunami aid? Blame it on babus
+__label__1	PM Narendra Modi to host dinner for Team Amit Shah on Saturday
+__label__0	Two girls strangulated
+__label__0	Mystery shrouds bar girl's suicide
+__label__1	Andhra pradesh CM participates in Visakha Utsav
+__label__0	Siri Fort rape case: Closure report filed
+__label__1	Sheila may get Kiran on board
+__label__0	Auto unions to join hands with cops
+__label__0	Encroachment complaint against MIM corporator
+__label__0	Post-poll violence: Shops set ablaze in Alwar
+__label__1	NCP emphasises on political ideology
+__label__1	Global crises now occur twice a day: Arun Jaitley
+__label__0	Techies busted for cyber crime
+__label__1	New guv should be neutral: Nitish
+__label__0	Youth held for raping 3-yr-old
+__label__1	Congress-AIUDF spat puts grand alliance in back burner
+__label__1	Buoyant Oppn demands UP govt's ouster
+__label__0	Tourist dead
+__label__0	Death awaits on city roads: Fatalities shoot up by 30%
+__label__1	What Bangladesh can teach India about toilet training
+__label__0	Couple tries to end life attempts suicide after son's death
+__label__1	Rohith Vemula suicide: We will get Parliament here
+__label__1	Leaders debate coalition politics
+__label__0	State hired top lawyers to delay CBI probe in Vyapam scam: RTI activist
+__label__1	My duty to repair MGR home: Jaya
+__label__1	Pooja Bedi: Go with the flow
+__label__1	NaMo gives babus two books penned by him
+__label__1	Uma blames NDA's 'feel good factor'
+__label__0	Girl dies as brother jabs her with scissors in fight
+__label__1	'Arrest UP minister for announcing reward'
+__label__1	Farmer suicides: Compensation to kin on same day
+__label__0	Victims' kin called for blood tests
+__label__0	Hemaâ€™s friend releases latest picture of murder accused
+__label__1	Punjab Dy CM to flag off free pilgrimage train tomorrow
+__label__1	DTE demands salary
+__label__0	State rulebook revision denies furlough to rape convicts
+__label__1	â€˜Women to get important roles in CRPFâ€™
+__label__1	I'm looking forward to the audience's verdict
+__label__1	JD(U) MLA Bima Bharti's husband held
+__label__1	CPM seeks 45 Assembly seats
+__label__1	Is Netaji a forgotten hero? Ask our MPs
+__label__1	Youth sammelan: Mantle on Akhilesh
+__label__1	MIM leader joins Congress
+__label__1	Congress asks its allies to follow basic discipline
+__label__0	Court seeks police report on complaint against Salman
+__label__1	I'll expose conspirators in 3 days: Bansal
+__label__1	Karnataka Assembly Speaker meets Gowda
+__label__0	BJD attacks Dharmendra for sharing dais with criminal
+__label__1	Mob actions in Manipur court complexes cause for worry
+__label__0	Hospital staffer booked for raping colleague
+__label__1	Prahar protests at Ahirâ€™s house
+__label__1	Marimaayam to discuss Sabarimala
+__label__0	Brother-in-law booked for molesting pregnant woman
+__label__1	Kashmir governor rescinds order summoning legislature
+__label__0	Kandamal victims narrate life of struggle in city
+__label__1	Rumblings in state BJP get louder
+__label__0	NMMC to take action against encroachments by hotels
+__label__1	NGT axe on 'wedding tourism'
+__label__1	All partners enjoy right of refusal in JVs
+__label__1	Nitish bowls out Lalu in pitch too
+__label__0	Jails to become weekend retreats?
+__label__1	State BJP chief pooh-poohs rift with JD(U)
+__label__0	Legal body rapped for RTI delay
+__label__0	Mystery shrouds girl's death
+__label__1	Live Blog: Outrage over dalit scholar Rohith Vemula suicide
+__label__0	Three held with jewellery
+__label__1	Gehlot gets Gandhi pictures in his office
+__label__1	NGO suggests ways to make out-of-school children survey effective
+__label__0	Cop arrested for assaulting inspector
+__label__1	J&K government by January-end; BJP to opt for woman leader
+__label__0	Five Karbi rebels arrested
+__label__1	Dharamlal Kaushik gets second term as state BJP president
+__label__1	Rahul Gandhiâ€™s task in Mumbai: End strife in city Congress unit
+__label__0	Daya Nayak
+__label__1	J&K Governor summons PDP
+__label__1	Overwhelmed by 'success' of odd-even scheme: Kejriwal
+__label__0	Worker buried at railway construction site
+__label__0	Watch: Brawl inside Bengaluru pub caught on CCTV
+__label__0	Court objects to trial by media in Pratibha case
+__label__0	Man shot; three held
+__label__1	CM dares Maoists to contest elections
+__label__0	Rs 4.6L theft cracked
+__label__1	Odd-even: Pass
+__label__1	Rahul has no expertise on terror issues: Smriti Irani
+__label__0	Cops fiddle as bits of Noida evidence vanish
+__label__1	Nano boosts Narendra Modi's image in Gujarat
+__label__0	Biker snatches womanâ€™s 50K gold chain
+__label__1	CBI may back Bihar's plea against Lalu
+__label__1	Sudden fog disrupts flights out of Delhi
+__label__1	TDP MPs go all out to wrest control of National Games
+__label__0	Man escapes from jumbo
+__label__1	Gen next pitches in for Rahul leadership
+__label__0	Thieves smash 7 cars' windows
+__label__1	CPMâ€™s Kerala dilemma: A 90-year-old who wonâ€™t retire
+__label__0	588 custodial deaths since 2005
+__label__0	Narcotics cell cracks down on drug peddlers
+__label__0	Man held with fake currency
+__label__0	Worker electrocution triggers mob attack
+__label__1	Odd-even scheme: AAP govt thanks Delhi for choosing health over comfort
+__label__1	Cong sticks to 'aam aadmi' tune in poll manifesto
+__label__0	Air France engineer shot at 
+__label__0	Protest rally against presence of Pak actors in Mumbai tomorrow
+__label__1	'No question of severing ties with NDA'
+__label__0	Sanjay Nishad released on bail
+__label__0	Students gherao teachers after slur' on girls
+__label__0	Kolkata hit-and-run case: Sambia Sohrab arrested after 4 days on the run
+__label__0	Punjab sinking in Pak drugs worth Rs 7
+__label__1	JPW eyeing winning start to HIL 2016
+__label__0	Let militant killed
+__label__1	Sycophancy in Congress is exposed: BJP
+__label__0	Man tries to break open unguarded ATM in city
+__label__1	Election observers crossing limits: CPI (M)
+__label__1	JD(U) may skip Punjab polls to aid AAP win
+__label__1	Ties with Pak will benefit Punjab: Sonia
+__label__1	PM meets Sonia
+__label__0	Gujarat native arrested for rash driving
+__label__0	Karnataka Police find arms links in rationalists' murder
+__label__1	Bangalore mess poops Congress' Hyderabad party
+__label__0	21-yr-old Bokaro woman hangs self
+__label__1	Manpreet Badal joins Congress
+__label__0	Chhattisgarh: Abducted Pune students released by Maoists
+__label__0	CFSL didnâ€™t find blood on vest: Cops
+__label__0	Five arrested for torching houses in Bhubaneswar slum
+__label__1	Congress revels in BJP-PDP war of wits
+__label__0	Two arrested for hand in bullfight
+__label__0	Police geared up to deal with threat
+__label__0	Cop planned murder 2 weeks ago
+__label__0	Man shot near Dwarka school
+__label__0	Dangerous Minds
+__label__1	MLA to lay siege to Rlys office over petha sale ban at stations
+__label__0	Two killed in Gumla village
+__label__0	Hippest hangout unfolds in W Delhi
+__label__1	State and Centre lock horns over AMU centre development
+__label__0	Banks to reduce rates
+__label__0	Sheena murder case: CBI seeks to quiz Indrani
+__label__0	'Criminal' brothers in police net; cars
+__label__1	BJD infighting intensifies
+__label__1	Ticket-seekers jam road to AIADMK office on day two
+__label__1	Phoolka set to make pre-poll comeback in Punjab
+__label__1	For Amit Shah
+__label__0	Police are looking for Biti's friend
+__label__0	Man killed by wife's family
+__label__1	Students stir over Rohith's suicide in city
+__label__0	J&K: 4 arrested in connection with killing of youth
+__label__0	CCTV cams to monitor sand transport in Dakshina Kannada
+__label__0	Youth killed
+__label__0	Man booked for selling nylon tether
+__label__0	Woman cop caught taking bribe
+__label__1	MCH banks on NURM for its mega projects
+__label__1	Kalam's behaviour not keeping with his position: Thackeray
+__label__1	Tamilisai to continue as TN BJP chief
+__label__1	House tax surcharge from next year
+__label__1	Oscar in Bangkok for Naga talks
+__label__1	Somnath Temple to invest in Gold Monetisation Scheme
+__label__0	Cops bust fake 'fake note' racket
+__label__0	4 liquor smugglers nabbed
+__label__1	'No question of severing ties with NDA'
+__label__1	Party meltdown: New year bookings dip
+__label__1	'J-K Govt will not tolerate corrupt officials'
+__label__1	BRT corridor to be phased out from today
+__label__0	Mehrangarh tragedy: Judge says cause of death cannot be ascertained
+__label__0	MLA accused in engineer's murder wields clout on cops
+__label__0	Robbers cut shop safe
+__label__0	Criminals active in jails through cellphones
+__label__1	Mukul confident of TMC victory
+__label__1	JD(U) leader arrested in Nalanda
+__label__1	NCP may go for Jadhav as civic panel chief
+__label__0	Patil dials 100 to nab bargirls
+__label__0	2 undertrials booked for smuggling drugs into jail
+__label__1	BJP creating melodrama on Netaji files: Singhvi
+__label__0	Fake loan racket busted in Gzb
+__label__1	Stars predict HDK will be new CM
+__label__1	NSCN likely to mount pressure for Naga unification
+__label__1	DMK's efforts to split MDMK failed: Vaiko
+__label__1	More cases against Auraiya MLA
+__label__1	Naidu to discuss BJP plan for Assembly polls with leaders
+__label__1	BJP may let RLSP contest Harlakhi bypoll
+__label__0	Juveniles held for killing 18-year-old
+__label__0	Police bust prostitution racket at Baina bar
+__label__0	'Drunk driver' rams Merc into 2 cars on MG Road
+__label__1	Minister claims 11 deaths in Nandigram
+__label__0	6 lakh looted from 'locked' motorbike showroom
+__label__0	World tennis has been ripe for match-fixing: Experts
+__label__1	Kalyan supports 33% reservation of women
+__label__0	Sanjit's mother seeks CBI probe into killing
+__label__0	One held for bank robbery in Dankaur
+__label__0	Two cops arrested in fake encounter case
+__label__1	Dance teachers' dharna tomorrow
+__label__0	Man held for sending obscene photographs
+__label__1	Aamir Khan damaged Indiaâ€™s brand identity: DIPP secretary
+__label__0	Baby found dead beside Ultadanga canal identified
+__label__1	DMRC to ink interim consultancy deal with KRTC
+__label__1	India the most tolerant country in the world
+__label__0	Anand builder gets extortion calls from gangster Ravi Pujari
+__label__1	'Toy planes' may target VIPs during polls
+__label__0	Police suspect network of power thieves in state
+__label__0	Cop as criminal
+__label__0	Robbery bid foiled
+__label__0	NRI robbed in Maurya Lok complex
+__label__1	Rohith Vemula's suicide: Rahul Gandhi should stop politicizing death
+__label__1	President's rule in Arunachal Pradesh: Shatrughan Sinha takes a dig at PM's 'advisers'
+__label__1	'CPM support crucial for separate state'
+__label__0	Special squad to remove encroachments
+__label__0	85-yr-old falls prey to lone operator
+__label__0	London HC will seek reasons to reopen case
+__label__1	Ghaziabad mayor bypoll deferred again
+__label__1	Badal brushes AAP aside
+__label__0	Stalked girl student ends life
+__label__1	'Coalition politics is the future of the country'
+__label__0	Nepalese driver hangs self
+__label__1	Congress bags 40 out of 98 seats in SMC
+__label__0	Gurgaon temple heist trail leads to Ghaziabad
+__label__0	Noida killing: A guide to maniac's mind
+__label__1	RJD berates govt move on council oppn
+__label__1	HRS chief may be charged on January 27
+__label__1	Left to take its 'anger' against govt to House
+__label__1	Yechury seeks Navratna status for mini-Navratna SCI
+__label__0	Pak-Hindu family in police custody for visa violation
+__label__1	BJP MLAs divided over MOI
+__label__1	Govt mishandled post-flood situation: RJD
+__label__1	Zayed Khan is happy to be alive!
+__label__1	TDP demands classical language status to Telegu
+__label__0	RPF rescues 5-yr-old kidnapped from Wanowrie
+__label__1	VS demands minister's resignation
+__label__1	Omar to head NC-Congress govt in J&K
+__label__0	Akola hospital swaps dead infant with a live one
+__label__1	When did Carson develop political ambitions?
+__label__0	16-yr-old held for cell theft on train
+__label__0	2 arrested in Mumbai with explosives
+__label__1	Kiran takes on Speaker
+__label__0	Burglars make away with Rs 7
+__label__0	NCR: Businessman's son kidnapped
+__label__1	Confusion rife in parties over ward reservations
+__label__0	WhatsApp route to TET paper leak
+__label__1	Tripura CPM
+__label__1	Government formation: Mehbooba to take call when BJP 'convinces' her
+__label__1	Temporary Imphal market construction sets off protests
+__label__1	'Odd-even' scheme rolls out in Delhi
+__label__1	Madan Lal Khurana joins Uma Bharti's BJS
+__label__0	Abohar murder: Doda's bail plea to be heard tomorrow
+__label__1	Govt has no satisfactory reply:AAI union leader
+__label__1	Manuu to invite PM Modi for convocation
+__label__1	BJP poster campaign to pin govt on NFSA irregularities
+__label__0	Bike lifting gang busted
+__label__1	CPM betters performance
+__label__0	Despite duo's arrest
+__label__1	Son joins food and civil supplies minister Bapat on Japan official visit
+__label__1	PM Modi's day in eastern Uttar Pradesh
+__label__0	Licence to Kill
+__label__1	Congress has 'adapted well' to coalition politics
+__label__1	Women with autorickshaw permits ready for road show
+__label__0	Stats reveal spike in murders within Kovai rural police limits
+__label__1	Dharam meets State Cong chief in Karnataka
+__label__0	Woman gang-raped in Mainpuri
+__label__1	Rohith Vemula suicide: Students drive out MHRD team from campus
+__label__1	Evidence given to court likely to nail Mayawati
+__label__0	4 held for kidnap
+__label__0	Attackers of home secy's driver held
+__label__0	Allahabad High Court orders probe for missing boy
+__label__0	Constable was murdered in dock
+__label__0	Minor criminals held while fleeing with Alto
+__label__0	Drunk driving accused Janhavi Gadkar loses licence
+__label__1	Waqf takes Kranti Chowk property ownership title
+__label__0	Youth has sex with GF before bludgeoning her to death
+__label__0	CM's panel under fire on appointments
+__label__1	Rahu
+__label__0	6-year-old raped for over two months in playschool
+__label__0	3-decade-old fraud case ends
+__label__1	Vedanta 'funded' politicians
+__label__1	Modi lauds two women from Raj in Mann Ki Baat
+__label__0	Student kills elder brother
+__label__1	Jharkhand govt fails to deliver: Cong
+__label__1	UPA allies may stir up trouble
+__label__0	145 women rescued by AHTC in 2015
+__label__1	Kejriwal ink attack: Accused Bhawna Arora sent to one-day police custody
+__label__1	CM asks JD(U) workers to mobilise support for NDA candidates
+__label__1	PM to lead all-star speaker list at ETâ€™s Global Business Summit
+__label__0	Students beaten up
+__label__0	Two Rajasthani teenagers rescued from Katpadi railway station in Tamil Nadu
+__label__0	4-yr-old tribal girl allegedly raped
+__label__0	Girl kidnapped
+__label__0	Air Odisha director arrested for 'issuing threat' to wife
+__label__1	Studentâ€™s suicide: BJPâ€™s ally Paswan seeks probe into role of Bandaru Dattatreya
+__label__0	Nabard identifies 65 FPOs in Jharkhand
+__label__0	Expelled Dalit student of University of Hyderabad kills himself
+__label__0	Foresters suspect human hand behind jumbo deaths
+__label__1	Sanskriti School not for top officials alone
+__label__0	Watch: ATM robbery case cracked by Delhi Police
+__label__1	Dharam simply refuses to quit
+__label__1	Reserved seats set to decline in UP
+__label__0	Dumbbell buy points at murder plan: Cops
+__label__1	J&K govt. formation: Mehbooba calls legislature party meeting
+__label__1	Memes & messages to make polls popular
+__label__1	BJP leaders on a see-saw
+__label__0	Lover boy
+__label__0	Village school teachers turn rapists
+__label__1	Centre's stand on hospital issue irks HC
+__label__0	Muslim headcount sought in Jharkhand police
+__label__1	PDP-BJP govt did 'absolutely nothing' for 10 months: Omar
+__label__0	Woman deserts five-day-old baby in hospital
+__label__0	122 kids rescued in leg one of Operation Smile II
+__label__0	Customs dept to procure 22 vessels
+__label__0	Jewellery missing from locker: Trader
+__label__1	Qureshi to participate in Kashmir talks
+__label__0	1 dead
+__label__1	'10 MLAs
+__label__1	TRS bets on `migrant' candidates
+__label__0	CM refuses CBI probe into madarsa rape
+__label__0	3 hospital staff held for rape
+__label__0	Rampaging tusker runs through banana plantations
+__label__0	Three missing teens traced to Mumbai
+__label__1	BSP MLAs case: Congress studying SC order
+__label__0	Copper coil worth Rs 10 lakh stolen
+__label__1	Punjab strike subjects Modiâ€™s Pak policy to political pressure test
+__label__0	ID-cards of 87 Army officers go missing
+__label__0	Manipur in ferment over killing of unarmed ex-militant
+__label__0	Actor Nawazuddin booked after parking row with woman
+__label__1	I'm victimised due to friendship with Gandhis: Quattrocchi
+__label__0	Two held in Mumbai with foreign made weapons
+__label__0	Jimmy Savile raped kids as young as 9: Report
+__label__0	Youth-Adult deaths high in Melghat
+__label__0	Raped minor kills self in Dhenkanal
+__label__1	Raja Patel's daughter is BJP candidate from Choryasi
+__label__0	Woman loses Rs 4 lakh jewellery on CR local
+__label__0	Two arrested for cheating trader
+__label__1	Reduce rates by 100 bps: Kamath
+__label__1	'D S Brothers enjoyed political patronage'
+__label__0	Police stns to have list of â€˜Top 20â€™ criminals
+__label__0	Motorcyclist killed in mishap
+__label__0	Boy tortured by madarsa teacher in New Delhi
+__label__0	Four bodies in Pallikaranai yet to be identified
+__label__1	Jagruti Pandya to head child rights panel
+__label__1	Tamil Nadu floats Amma Call Centre to hear complaints against govt
+__label__0	Will raze illegal cop chowkies if traffic is affected
+__label__0	Mining accused's death won't affect case: ACB
+__label__0	RPF men accused of extortion from passengers
+__label__1	Gehlot talks tough on probe
+__label__1	Dalit student's suicide: Case filed against Union minister Bandaru Dattatreya
+__label__0	Cops assaulted by IPS officer's brother
+__label__0	Civic survey of industrial workshops without licence
+__label__1	Govt challenges HC order on `tainted' PP
+__label__0	Man hacked to death in Amraiwadi
+__label__1	Hyderabad univ VC 'threw out' 12 Dalit students in 2002
+__label__0	Anti-IS group says it hacked BBC website to test ability
+__label__1	Congress questions AAP's mode of payment to Pathankot attack martyrs' kin
+__label__0	Law student robbed in Fergusson College
+__label__1	Modi declared 'Personality of 2005'
+__label__1	BJP
+__label__1	Naturalisation of all expats in GCC not possible: Official
+__label__1	I'm looking for the crazy ones: CNR Rao
+__label__1	Solution to Patidar issue soon
+__label__1	BJP attacks Govt on Quattrocchi issue
+__label__0	Charges framed against Bathe carnage accused
+__label__1	Denied TRS ticket
+__label__1	PM to visit Assam on January 16
+__label__1	Studentâ€™s suicide: â€˜Motherâ€™ Smriti Irani leads Centreâ€™s fightback
+__label__1	Cong
+__label__0	Accused sent to jail
+__label__1	CPI veteran AB Bardhan dead
+__label__0	Arrest drunks
+__label__0	Abducted girl killed
+__label__1	Ink thrown at Arvind Kejriwal
+__label__1	Brahma Ratham conducted at Srirangam temple amidst protest
+__label__1	Raj arrested
+__label__0	Puri priest arrested for snatching gold chain
+__label__1	TDP silent on suicide
+__label__0	'Dr Death' infamous even back home in AP
+__label__0	Crime branch sleuths nab absconding gangster
+__label__0	One arrested in Muktsar killings case
+__label__0	Video shows MLA thrashing activists
+__label__0	Senior citizen ends life in Yamunanagar
+__label__1	Mocktale: Indian cricketers tweet to Sushma Swaraj to get them out of Australia
+__label__0	BPO employee cheated of Rs 1.66 lakh
+__label__1	Another platform for guv mooted
+__label__1	PM releases book written by Subhash Chandra
+__label__0	Idols and valuables stolen from temple
+__label__0	No women power for cops on liquor raids
+__label__1	Take NY vow not to stall House: PM Modi
+__label__0	Armyman robbed of 1Lac in bus
+__label__0	Nephew stabs woman
+__label__1	Himachal governor
+__label__1	Shri Madho Parsad Chaurasia
+__label__0	Duo's arrest helps in boy's rescue
+__label__0	Aashiana rape victim father writes to CM 
+__label__0	Dancer kills friend over release of video album
+__label__0	15-year-old gang-raped in Bikaner
+__label__1	Bajwa asks NRIs not to be misled by AAP
+__label__1	Don't allow foreign univs to set up campuses: CPM
+__label__0	Woman killed for 'practising sorcery'
+__label__0	Girl dies after taking poison with lover
+__label__0	Realtor shot at by drunk friend
+__label__0	Lorry thief held
+__label__1	BJP to field Varun in LS bypoll
+__label__0	Why Kota is so killing
+__label__1	EPFO forms sub-committee for organization
+__label__0	Encounter victim's family seeks probe
+__label__0	Three held for theft; police recover 11 bikes worth 4.95 lakh
+__label__1	Yeddyurappa files criminal suit against Kumaraswamy
+__label__1	'I am a victim of political campaign'
+__label__1	1.14 cr more passport holders in two years but verification still the bane
+__label__1	Hyderabad suicide: Ram Vilas Paswan demands impartial probe
+__label__1	BJP minister Eknath Khadse files Rs 5 crore defamation suit against Shiv Sena MLA
+__label__1	Govt to drop case against all accused in Velim church attack case
+__label__1	Social crusader Anna Hazare gets another threat letter
+__label__1	Congress props up 5-point plan to corner BJP
+__label__0	CB-CID takes overcase of Villupuramcollege girl deaths
+__label__0	Nun attacked Sister Abhaya
+__label__1	KG Layout not on lakebed: BDA chief
+__label__1	Eeswaran Sakshiyayi to be aired again
+__label__1	Sonia can't save Karnataka coalition: BJP
+__label__1	A dramatic day: Karnataka Assembly adjourned sine die
+__label__1	Work dedicately for development of your area:CM to PRI members
+__label__0	'I was raped by ASP'
+__label__0	AAP MLA brother robbed in Greno
+__label__0	Manipur scribes launch sit-in protest against shooting
+__label__0	Surat whistle-blower's killers get life term
+__label__1	Hyderabad on boil: CM K Chandrasekhar Rao goes shopping
+__label__0	'Most wanted'criminal in police net
+__label__0	Another schoolboy kidnapped in Patna
+__label__1	Complaint against Vijayakanth should be probed
+__label__1	Modi for regular payment of old-age pension
+__label__0	Undertrial murdered in Arthur Rd jail
+__label__1	SVC restores land worth crores to J&K govt
+__label__0	Jobless diamond polisher pushes wife into flesh trade
+__label__0	Killers were known to murdered woman
+__label__0	Custody death: 7 cops suspended
+__label__1	Assembly polls: BJP
+__label__1	Chennai joins protests over Dalit student ending life in Hyd
+__label__1	Prabhu comes to ailing childâ€™s aid after receiving train passengerâ€™s tweet
+__label__1	New cow cess shocker in power bill sparks debate
+__label__0	MEA had flagged human trafficking issue in 2014 report
+__label__0	IMA to aid cops tie up sex-abuse cases
+__label__1	Stage set for first-ever elections to Champua
+__label__0	Arrested for poll violence
+__label__0	Toddler rescued within 24 hours of abduction
+__label__1	Two DMK men questioned in bomb hurling case
+__label__1	SSP gets away with 'penalty'
+__label__1	Not a clean bill of health
+__label__0	Teen held for mishap that killed 5
+__label__0	Major encounter in Jamui
+__label__1	Pradhan Mantri Fasal Bima Yojana is 'farmer-friendly': PM Modi
+__label__0	MCA student ends life in Hyderabad's Dundigal area
+__label__0	Illegal kidney market thrives in city
+__label__1	Political angle gets highlighted again
+__label__0	Coin melting unit unearthed in Gurgaon
+__label__1	GenNext raises 'Get Rahul' chorus
+__label__1	Ex-Army officials decry Muslim headcount
+__label__1	Rajnath likely to attend KU convocation
+__label__0	Vision loss case: Eye surgeon sacked
+__label__1	Bihar withdraws case against Lalu Prasad
+__label__1	Aahar scheme makes people dependent on government
+__label__1	Prez's special allowance for Raghuvansh
+__label__0	Illegal salt-making units proliferate in Sambhar
+__label__1	NH-24 will be a highway of development: PM Modi
+__label__0	Five held for duping people of crores with 'magic glass'
+__label__1	Rohith Vemula suicide: Appa Rao
+__label__1	State seeks 2345cr drought aid from Centre
+__label__0	Cabbie follows woman after argument over route
+__label__0	Kidnapped boy gives gang the slip
+__label__0	IPO Scam: CBI conducts raids in Delhi
+__label__0	Gang of auto-lifters busted
+__label__0	Man behind bomb hoax calls held
+__label__0	Bangla minor rescued from prostitution
+__label__1	Govt of
+__label__0	Murder(s) most foul; another body found
+__label__1	Ghosts play politics in Bihar
+__label__0	Chargesheet filed against Javed Hero in rape case
+__label__0	Girl abducted outside JNU
+__label__0	Two women among three naxals killed in Chhattisgarh
+__label__1	Police say no lapse in Kejriwal security
+__label__1	Opposition BJP demands Okram's resignation
+__label__1	CPM's Congress overtures irk Left partner
+__label__0	Two sex workers held for robbing man 
+__label__1	Mehbooba keeps suspense on
+__label__1	Kumaraswamy recognised as JD (S) leader
+__label__1	Cong doesn't take kindly to failure
+__label__1	End links with Nepal rebels: Royal govt
+__label__1	Arun Sood to be BJP's candidate for mayor
+__label__0	Kochi police to step up anti-drug combing ops
+__label__0	CM's panel under fire on appointments
+__label__0	Man killed by neighbour over petty issue in Haryana
+__label__0	Nephew stabs woman
+__label__0	Police start looking for missing minors
+__label__1	RTE Act still a far cry in Telangana
+__label__0	Rs 10L stolen from Bhojpur bank
+__label__0	Businessmen held for dowry harassment
+__label__1	State BJP yet to come to terms with poll loss
+__label__1	BJP blames it on faulty ticket allocation
+__label__1	â€˜Girls Firstâ€™ scheme in Bihar bears fruits
+__label__1	JKLF dismissive of holding talks on Kashmir issue
+__label__0	Hummer case: Bidi baron held guilty
+__label__0	Four held for snatching cases
+__label__1	The politics of defection
+__label__0	Cops â€˜illegallyâ€™ withdrawing hundreds of accident cases?
+__label__0	Man killed in hit and run
+__label__0	Afghan boxer steals MP's arms licences
+__label__0	Sarthana murder: Cops collect scientific evidence
+__label__0	3 youths arrested
+__label__0	Report says Vipul Vijoy had confined cops in garage
+__label__0	Pernem cops register FIR in River Tiracol dredging issue
+__label__0	Bangladeshi youth detained for forging voter ID card
+__label__1	Let there be an all party parliamentary delegation to probe Rohit's death
+__label__1	CPM slams 'neglect' of Muslims by CM
+__label__0	Two killed over land acquisition in Bengal
+__label__1	Congress should see reason
+__label__1	Gehlot returns without deciding on ministers
+__label__0	Red Fort fracas over CISF 'harassment'
+__label__1	Don't give credence to group letter: Gowda
+__label__1	Govt mum over Ulfa threat to ONGC
+__label__1	Presence of Raj Bhavan officials sparks debate in Assembly
+__label__1	Gujarat BJP plans plush HQ
+__label__0	LU teachers caught stealing power
+__label__0	MNC bank deducts money from account
+__label__1	BJP candidate suffers heart attack
+__label__0	5-yr-old cries for murdered mom
+__label__0	45-yr-old man murdered at Madhapur
+__label__0	Kidnapping case accused denied bail
+__label__1	PDP leader says party wants 'assurances' from Centre on Agenda
+__label__1	BJP calls truce in DMDK-PMK battle
+__label__0	Jessica's kin alleges harassment by hubby
+__label__0	Maoists kill four `police informers'
+__label__0	Swedish couple attacked
+__label__1	Modi only BJP leader to campaign in BMC polls
+__label__1	Assembly polls: BJP
+__label__1	Cong has AAP as its 'B team'
+__label__1	'Decision on highways after consultating MLAs'
+__label__0	Sena workerâ€™s death exposes lack of coordination among cops
+__label__0	LG tells Delhi govt to abide by MHA order
+__label__0	Cops explore family tiff angle in bldr death
+__label__1	Rohith Vemula suicide: Police probe Rohith's SC status
+__label__1	TMC logo registered after 26 years
+__label__1	PMK leader Anbumani to commence Chennai campaign on January 22
+__label__0	Indian-origin 'Dr death' arrested after killing 36 patients in US
+__label__1	JD(U) to decide its future on Jan 18
+__label__0	Indian student indicted for stabbing professor
+__label__1	Chidambaram discusses coastal security with Navy chief
+__label__0	Man's torso found wrapped in saree
+__label__0	Cop's suicide bid adds new twist to tribal killings
+__label__0	Jilted lover planned Bokaro banker's murder: Police
+__label__0	Chain-snatchers beat cops with helmet
+__label__1	Realtors bet on 7th pay commission
+__label__0	Sexual abuse: Silence lets offenders get away
+__label__0	Woman found murdered in Sarthana apartment
+__label__0	BOMB PLANTING CASE - Ex-HC security officer acquitted
+__label__0	Nurses exploited
+__label__0	Criminal from UP arrested in Mumbai
+__label__1	IIMs are not companies floated by anyone: Arjun Singh
+__label__0	Container truck driver steals tyres worth 11.4l
+__label__0	Three held for killing property dealer
+__label__0	Liquor shop owner shot dead in Howrah
+__label__1	Mauritian envoy praises Nitish Kumar
+__label__1	Sonia woos minorities in Assam
+__label__1	Modi releases Subhash Chandra's book
+__label__1	MLA Amit Jogi says voices are doctored
+__label__1	Verdict a blow to Mulayam
+__label__0	Police suspect inter-state gangs' hand in thefts
+__label__0	Wanted: An efficient coastal patrol
+__label__0	13 'illegal' Myanmar nationals arrested
+__label__1	Western Railway Mazdoor Sangh holds rally over pay commission
+__label__0	Two held for gang-rape
+__label__1	Sheila Dikshit has 'forged' property documents
+__label__0	Notice to forest official for recording court proceedings
+__label__0	Toddler injured as teacher 'beats her with iron rod'
+__label__1	Despite Sena protests
+__label__0	Daya Nayak case questions intelligence functioning
+__label__1	Jairam Ramesh on a three-day state visit
+__label__0	Delhi school Principal quizzed over boyâ€™s death
+__label__0	4 RPF men face murder charge
+__label__1	State yet to issue rape test guidelines
+__label__1	'Let's tread the rural disha'
+__label__1	Mulayam Singh wins vote of confidence
+__label__0	Brides to steal show at police station
+__label__1	Prez's special allowance for Raghuvansh
+__label__1	CM's son had direct role in scam
+__label__1	Thapar
+__label__0	BJP MP's son arrested for post-Godhra riots
+__label__0	Did maid skip work? Helpi can help you
+__label__1	Parliamentary team in Chatra
+__label__0	Ahmedabad girl studying in Rajkot reported missing
+__label__1	Raj to launch new party in March
+__label__1	Mulayam surrenders bungalow
+__label__1	Malda violence: BJP delegation to meet President Pranab today
+__label__0	Other banks caught in phishing net too
+__label__1	Jairam
+__label__1	'It takes six years for any change
+__label__1	Odd-even plan for vehicles takes root
+__label__1	Gowda resigns as JDS national president
+__label__0	Naked body found on riverbank
+__label__1	Govt to create tribunal for nationality disputes
+__label__1	BJP hints at split with Shiv Sena
+__label__1	SC notice to political parties
+__label__0	Trader found killed in Sealdah shop
+__label__0	Surge in cybercrimes
+__label__1	NCP should call off Pune Pattern: Kalmadi
+__label__1	Bodoland People's Front to back BJP in seats outside BTAD
+__label__1	Actors told not to endorse pan masala
+__label__1	CPI opposes SC judgement on Ninth Schedule
+__label__0	Scuffle over ladder leaves two dead
+__label__1	SC verdict on 13 BSP MLAs jolts Mulayam
+__label__1	Parliamentary panel set to visit Pench and Nagpur
+__label__0	MSY defends crime situation
+__label__0	Exploitation of juvenile fish rampant despite regulation
+__label__1	BJP wants PM to call all-party meet on SEZs
+__label__1	Angry Patels force Gujarat CM to inaugurate bridge by remote control
+__label__0	Police geared up to deal with threat
+__label__0	Man beaten to death in Gajapati
+__label__1	Modi govt mishandled Pathankot terror attack: Rahul Gandhi
+__label__0	5 held for stealing phones from cargo
+__label__0	Third agent held in boat capsize case
+__label__0	One stabbed to death
+__label__0	Danish woman rape: Accused seek time
+__label__0	Police raids net 109 persons in WB district
+__label__1	I was told Iâ€™d lose my job if SC didnâ€™t uphold 2005 Bihar Presidentâ€™s rule: H R Bhardwaj
+__label__1	J&K Governor rescinds order for Assembly session
+__label__1	Congress
+__label__0	BSc student ends her life
+__label__1	BJP bid to bag maximum seats in panchayat polls
+__label__0	Three held with charas worth Rs 4 crore in international market
+__label__0	Cops suspect gang of gays behind serial killings
+__label__1	Majithia in AAP crosshairs
+__label__1	ITALIAN MARINES - Chief minister seeks Modi's intervention
+__label__1	Activist opposes elevated road along Hindon in NGT
+__label__1	State clocks 85.5% voting
+__label__1	Thackeray says politics muscled out Dinoâ€™s gyms
+__label__1	Mukul confident of TMC victory
+__label__0	Man bears brunt of brother's act
+__label__1	It's a scam at Centre
+__label__1	Dalits and politics: Warning signals for BJP as it fails to respond fittingly to Rohith Vemulaâ€™s suicide
+__label__0	Poverty-stricken labourer's family commits suicide
+__label__1	Sonia involved in 'Q' case: Sushma Swaraj
+__label__1	Congress holds protest against Bihar governor
+__label__0	Trader alleges Rs 11L heist by bikers
+__label__0	Man held for 'rape' of deaf-mute girl
+__label__0	Double murder: Sons took freedom fighter's life
+__label__0	Sheena murder: Court hears Peterâ€™s bail plea
+__label__1	Run-ins with mediamen hurt politicians
+__label__0	Jilted lover stabs teen
+__label__1	Jan 15 deadline for National Food Security Act card name recall
+__label__0	Morning assault after a freezing night
+__label__0	Offence registered against RTO official
+__label__1	Jayalalithaa to unveil portraits of legendary artists
+__label__1	BJP MP embarrasses party and govt again
+__label__1	J&K Governor
+__label__1	Bangla prez scraps poll date
+__label__0	Abducted girl killed
+__label__1	Odd-even rule: Delhi tourism minister leads the way
+__label__1	Suspense on: Mehbooba to call PDP meet to decide on next govt
+__label__0	Thief held
+__label__1	Cong is misusing Raj Bhawans: Naidu
+__label__0	Constable drugged in train
+__label__0	A month of trial for CM
+__label__1	Arrest BJP MLA: Activists
+__label__1	'Lalu stalling works'
+__label__0	False promise of marriage prime ruse in 2 rape cases
+__label__0	Businessman kidnapped in Bihar
+__label__0	Mayor refuses to take the blame
+__label__0	CCTV clips no help in nurse gang-rape case
+__label__1	Rahul Gandhi: Startups and intolerance can't go together
+__label__1	Union agriculture minister claims he has to pay for irrigation water
+__label__0	College students clash: six injured
+__label__1	Govt to sell 5% stake in PFC
+__label__0	Wanted woman contract killer held
+__label__1	Maval farmers set to block expressway
+__label__1	Bangladesh PM to visit India in March
+__label__1	Rohith Vemula suicide: Pressure builds up on global scale after dalit's suicide
+__label__1	BJP President urges Governor to invite Kumaraswamy
+__label__1	'Can't work under Uddhav'
+__label__0	Woman booked for duping banks of Rs19.86 lakh
+__label__0	Prostitution
+__label__1	Raj supporter Shishir Shinde quits Sena
+__label__0	US pilot throws out Sikh
+__label__0	Bus passenger loses bag with 40 sovereigns gold
+__label__0	CISF kills 3 Assam traders
+__label__1	DC submits report on dalits' families' rehab
+__label__1	Leave statehood decision to people of Vidarbha: Pawar
+__label__0	Woman tells Godhra riot SIT she was not raped 
+__label__1	Cash-for-query: Was the House right in expelling MPs? No
+__label__0	2 held for murder of man in Morbi
+__label__0	Two charged with misappropriation
+__label__0	Kin of dead infuriated as hospital seeks money to release body
+__label__1	500 grass-roots workers join state Congress
+__label__0	Thieves take valuables from car
+__label__0	Three women charred to death
+__label__0	Man fatally stabs wife
+__label__0	Gang of wheat lifters busted
+__label__1	Woman leader prevented from immolating herself
+__label__1	Gehlot Declares War On Corruption
+__label__1	ABVP vandalises KMC principal's office
+__label__1	Bant's ballad: Father's fight behind birth of dalit icon
+__label__0	Youth assaults cop with broken beer
+__label__1	CPM rules out alliance with Cong in West Bengal
+__label__1	Poll panel asks DMs to be impartial
+__label__1	No more PAN woes for foreign cos?
+__label__1	Congress
+__label__0	Kin: Not enough proof to arrest Maulana Qasmi
+__label__0	Guy scared of Madge over kids custody
+__label__0	Village girls to help check trafficking
+__label__1	Cong's Dalit maha-sammelan in February to target BJP
+__label__1	Jat lobby turns up the heat on Gehlot
+__label__0	Lesa SDO attacked during checking drive
+__label__0	Baglihar dam verdict Monday
+__label__1	Reform move: Govt aims to halve pending tax disputes
+__label__1	All about the odd-even rule in Delhi
+__label__0	Woman dies
+__label__1	Saryu Rai complains to health minister about hospitals
+__label__0	Boy's skeleton found by pals
+__label__0	Spammers find 'small' way to beat email filters
+__label__0	Cash crunch drives man to kill daughter
+__label__0	Skeletal remains of abducted boy 'found'
+__label__0	LeT man held in Bangalore
+__label__0	News brief: 60 dalit students threaten suicide
+__label__1	DMK chief Karunanidhi appears in court in connection with defamation case filed by TN govt
+__label__1	BBMP gets back Mayo Hall after govt repays Rs 435 crore
+__label__1	â€˜Delay in Rohith Vemulaâ€™s fellowship due to lack of clarityâ€™
+__label__1	'Congress should explore alliance with GFP'
+__label__0	MCD targets farmhouses
+__label__1	Ajit Jogi in troubled waters
+__label__1	By George! Make it a happy year for Bengaluru
+__label__0	Teacher `kidnaps' Class 12 girl
+__label__1	India is far behind developed nations in tax collection: I-T chief commissioner
+__label__0	Blackmailing case: Duo held
+__label__1	Govt ad draws BJP
+__label__1	Conference on Kashmir
+__label__0	Three held for stealing baggage at airports
+__label__0	13 policemen killed by Maoists in Chhattisgarh
+__label__0	Cops nab vehicle-lifter
+__label__0	Gang involved in adulteration of milk busted on NH
+__label__0	Complications galore in Kakori case
+__label__1	Raj will have to prove credentials: Bhujbal
+__label__0	2 held for beating man to death
+__label__0	Scribes thrashed at Trinamul rally
+__label__0	AIIMSâ€™ final opinion: Sunandaâ€™s death was caused by poisoning
+__label__1	114 unanimously elected panchayats to get 10 lakh each
+__label__0	Dacoits gang nabbed in Bangalore
+__label__1	Student unions and parties protest govt handling of Hyd student suicide issue
+__label__0	Dalit student death: Protests continue
+__label__1	Doc abducted to fund elections
+__label__0	Another Rosy dies in Bibiâ€™s village
+__label__1	Political vendetta behind quick shifting of Jaripatka police incharge?
+__label__1	Odd-even over
+__label__0	Daya Nayak suspended by Mumbai Police
+__label__1	36.48L to cast votes in 2nd phase
+__label__0	Robbers loot family on city outskirts
+__label__0	Class IX student raped by tutor
+__label__0	Woman found hanging from Metro stairs
+__label__0	Youth tries to greet GF with torch; in hospital
+__label__1	Anti-Polavaram stir by BJD on Jan 7
+__label__1	Plea to release stamp in memory of Swaminatha Iyer
+__label__1	Ministers
+__label__0	Banned mineral exported by gang earlier too
+__label__1	BJP to back NIA Bill
+__label__1	Save BJP: Uma to show strength in Delhi
+__label__1	Congress climate change rally in boats on Brahmaputra
+__label__0	'Abducted boy had recognised driver'
+__label__0	Chowk double murder remains unsolved
+__label__0	Goods worth Rs 13L stolen
+__label__1	Rohithâ€™s caste made unjust punishment easy â€“ we hold Dattatreya
+__label__1	Steel minister visits BSL amid protest
+__label__0	RTI activist's kin shot dead in Morbi village
+__label__1	Sena men block traffic
+__label__1	Ink attack: AAP alleges conspiracy to 'assassinate' Arvind Kejriwal
+__label__0	Fake encounters: 5 policemen suspended
+__label__1	Girl electrocuted in Dabhoi
+__label__1	Deve Gowda quits
+__label__0	City sex ratio up
+__label__0	Plumber held for major burglary in bizmen's house
+__label__1	Cong
+__label__0	Eight persons booked for rioting
+__label__1	Rohith Vemula suicide: Malicious attempt to stoke passions
+__label__0	US woman creates ruckus in Gwalior
+__label__0	Five killed
+__label__0	Watch| Sunanda Pushkar was poisoned: AIIMS report
+__label__0	Man found dead below friendâ€™s building was pushed off terrace
+__label__0	Man's torso found wrapped in saree
+__label__1	Slow work on Pak side delays Thar Exp launch
+__label__0	Missing girl's body fished out of Sabarmati 
+__label__1	Drive to fight for â€˜unfulfilled promisesâ€™ to Muslims
+__label__1	City to be cleaned up for Modi
+__label__1	Congress Hebbal campaign from today
+__label__1	Tripura tribal party demands for separate tribal state
+__label__0	Man arrested for extortion attempt
+__label__1	Pandya's six appeal flattens Vidarbha
+__label__0	Cop's suicide bid adds new twist to tribal killings
+__label__1	I am not power hungry: Raj Thackeray
+__label__1	Pranab's visit may not fetch breakthrough
+__label__0	CBI charges Lt General in defence school scam
+__label__0	Cop suspended for partying with scamster
+__label__1	NAC poll: Baliguda has 22 women contestants
+__label__1	Untouchability scourge: Dalit boy denied haircut
+__label__0	Widow accuses commissioner of inaction during riots
+__label__1	Cong wants Maharashtra model in Karnataka
+__label__0	Thieves beat cops in hide-n-seek
+__label__0	Gang hacks rowdy to death in Nagapattinam
+__label__0	Deaf-mute rape accused seeks bail
+__label__1	New LPG dealerships for poll-bound states?
+__label__0	â€˜No harassment on guarded ladies coachesâ€™
+__label__0	Cops yet to make breakthrough in firing incident
+__label__1	BSP to keep out of mayor byelection
+__label__1	Karnataka govt enforces luxury tax on ICUs
+__label__1	Rebels a problem for all parties in BMC poll
+__label__1	Trinamool workers storm Tata site at Singur
+__label__0	Crack cops roughed up by petty thieves
+__label__0	SC rejects 'godman' plea
+__label__0	HIV+ woman kills herself after illness aggravates
+__label__0	Concrete death for bird haven?
+__label__1	BJP demands implementation of panel's recommendations
+__label__0	Watch: Woman thrashed by lady bouncer
+__label__0	Debit card fraud foxes senior citizen
+__label__0	Sedition chargesheet may be submitted today
+__label__1	'I am all for strengthening Congress'
+__label__0	Carpenter beaten to death in south Delhi
+__label__1	Mumbai police withdraw Congress corporatorâ€™s security cover
+__label__0	Mystrey shrouds techie's death
+__label__1	Congress neta Kripaâ€™s bodyguard booked for Rs 26 lakh theft
+__label__1	Idea of self-rule is alarming: Panun Kashmir
+__label__0	Man killed by wife's family
+__label__1	Activists call for Swachh Bharat in Hindu temples
+__label__1	CMIA hails CM move on land acquisition for Aurangabad airport
+__label__0	Senior citizen living alone found murdered at home in Howrah
+__label__0	Bismarque case: Police ask Guj lab for lie-detector test
+__label__0	Moneylender cop faces another case
+__label__1	Four BJP MLAs loyal to Uma expelled
+__label__0	Lalbazar may look into involvement of cops
+__label__0	W Delhi road rage: Victim has no idea about assailants 
+__label__1	Pawar takes dig at Parrikar
+__label__0	Non-resident Gujarati shot in US struggling for life
+__label__0	Hospital staffer attempts suicide
+__label__1	Omar laments no progress in bringing back Kashmiri Pandits
+__label__1	Farmers stall work on pipeline project; Kolhapur Municipal Corporation fears more delay
+__label__0	1-cr gutka seized in Ganjam
+__label__0	Charminar Bank accounts go missing
+__label__0	Two persons sentenced to life for murdering watchman
+__label__1	Ben meets Amit Shah
+__label__0	CBI arrests businessman for helping Nayak
+__label__0	Cops still clueless in missing girls' case
+__label__0	Assault case against Sukhbir: Hearing resumes on Monday
+__label__1	BJP ready for pre-poll pacts with AGP and BPF
+__label__1	Sonia's letter a gimmick: BJP
+__label__1	BJP: Rahul Gandhi a startup who got easy entry but can't find exit route
+__label__0	Chain snatching in LIC colony
+__label__0	Alcoholic tells friend about girl's murder
+__label__1	JD(S) retains stronghold in Vokkaliga
+__label__1	60% winners in dist panchayat chiefs elections are women
+__label__0	'Shahabuddin involved in 51 criminal cases'
+__label__0	`Mentally unstable' woman kills kids
+__label__0	Decapitated body of youth recovered in Haryana
+__label__0	Kunda officials under HC scanner
+__label__1	Govt puts Rs 50cr-plus public offers under the lens
+__label__0	Cops nab four of `Khajuriya gang'
+__label__0	Mumbai carnage castes shadow over city
+__label__1	â€˜CR steps to curb deaths not practicalâ€™
+__label__0	Forum to hold rally against death penalty
+__label__0	FIR against additional municipal commissioner and NCP legislator
+__label__1	PU enforces Right to Information Act
+__label__1	Rajnath Singh meets intelligence
+__label__1	Centre sacks top cop Ansari for 5-year absence
+__label__1	Good ifrastructure can bring double digit growth: Akhilesh
+__label__1	CM sets deadlines for BMP
+__label__0	Constable hangs himself in Pitampura
+__label__0	Congress candidate stabbed
+__label__0	Police arrest 3 men on suspicion of links to Jakarta attack
+__label__1	Kumaraswamy recognised as JD (S) leader
+__label__1	Haryana minister opposes â€˜cow cessâ€™ on liquor
+__label__1	No significant increase in PF coverage despite wage limit hike
+__label__1	Govt confident of getting real estate bill passed in budget session
+__label__1	Bonda couple to raise developement issues with Modi
+__label__1	Mewat village rejects outgoing sarpanchâ€™s 2nd wife
+__label__1	Sayeed still critical
+__label__1	Govt initiates dept probe against two officials for clean chit to Bhujbal in scam case
+__label__0	Mumbai suspected killer accepts involvement
+__label__0	'Sister gang-raped by stepmom's kin'
+__label__1	25 per cent voting in Karnataka bypoll till noon
+__label__0	Suspended cop held for thrashing probe officer
+__label__0	14-year-old raped in Faridabad
+__label__1	Delhi's odd-even blues: R-Day security
+__label__0	Bizman kills self after being blackmailed
+__label__1	'Manmohan turned a blind eye to the problems of his adopted home'
+__label__0	Nine-year-old foils rape attempt
+__label__1	Violence breaks out after Narayan Rane's son also quits Congress
+__label__1	Maya in spot: CBI gives report to court
+__label__1	Urban body poll: BJP loses seats and face
+__label__1	Shiv Sena to help farm widows
+__label__0	Accused Cops Get Clean Chits As Footage Fails To Record Evidence
+__label__0	I will give up NSG cover if Advani also does: Lalu
+__label__0	Tests point to Neil Fonseca as murderer: Police
+__label__1	Raids against Sisodia
+__label__1	BJP gets toehold in south via Karnataka
+__label__1	SAD gears up to win back its bastion from Cong
+__label__0	Sentence needed to curb crime: SC
+__label__0	Crime branch gets transfer warrant against Afridi
+__label__0	Showbiz grime: 4 held for kidnapping two
+__label__0	Jessica case: Manu Sharma files appeal in SC
+__label__1	BJP poll debacle may work in BSY's favour
+__label__0	UT police in soup over beating up of 9-yr-old
+__label__0	LeT militant escapes from police custody in UP
+__label__0	Car used in UP engineer's murder found
+__label__0	Juvenile home inmates held for theft
+__label__1	BJP-led NMC has degraded city: Thakre
+__label__1	Political banners make a comback in Kharghar
+__label__1	Subramaniam to perform Indian premiere of Freedom Symphony
+__label__1	Rahul Gandhi undertakes padyatra over power tariff hike in Mumbai
+__label__0	Deshmukh asked to go; decision on new CM tomorrow
+__label__1	Congress to agitate for dalit rights in each assembly segment
+__label__1	Cong to TDP: Spell out stand on projects
+__label__1	Suhaib Ilyasi: Donâ€™t want to create controversy with â€˜Ghar Wapsiâ€™
+__label__1	The strange silence of TRS leadership
+__label__1	New officer bearers for BJP
+__label__1	PDP sheds tough posturing
+__label__1	Farooq says NC ready to consider tie-up with BJP for govt
+__label__0	'Which PA told cop to move?'
+__label__1	`We will take this fight outside UoH campus'
+__label__1	Manipur Cong MLA proposes law to combat anti-state activities
+__label__1	Rohith's suicide note to be sent to FSL for analysis
+__label__0	Fake CBI officer' nabbed at Chorao
+__label__1	CM head of task force to curb tobacco
+__label__1	Sheila parks the blame in cop corridor
+__label__0	Rs five lakh looted from bank cashier
+__label__0	Youth stabbed to death
+__label__0	Rapists prone to mental illness: Study
+__label__0	Couple found hanging from tree in Unnao
+__label__1	HC may give airport bid verdict today
+__label__0	Stalked girl student ends life
+__label__1	MLA Kohale is city BJP head
+__label__0	Couple clobbered to death by robbers
+__label__0	Abducted girl rescued in Azamgarh
+__label__1	BJP MP's son held for role in riot killing
+__label__0	Sonowal attacks Gogoi over unkept promises
+__label__1	Letters just to seek ground update: HRD ministry
+__label__1	How did Nayak get Rajyothsava Award?
+__label__0	Had ordered ruthless crackdown on crime: Fadnavis
+__label__0	Techie accuses cops of sloppy probe
+__label__1	'No anti-Lalu front with JD (U) in Bihar'
+__label__0	Acid attack victim dies in Hyderabad
+__label__1	Studentâ€™s suicide: Letter to Hyderabad University to seek updates
+__label__1	Congress dug its own grave
+__label__1	BJP activists seek action against prof
+__label__1	Sonia draws huge crowd in Gujarat
+__label__0	Dredging firm's top boss held
+__label__0	More cell phones recovered from jail
+__label__0	Jiah Khan suicide: Women's court pulls up prosecution
+__label__1	Motorist rams into CM's convoy
+__label__0	Dalit youth murder: Doda moves HC for anticipatory bail
+__label__0	Brothers booked for abetting man's suicide
+__label__1	Make-or-break LS polls for Bihar top 3
+__label__0	Six attempt to end life
+__label__0	Top cop's blue-beaconed SUV stolen
+__label__1	Bandh cripples commercial activities in Imphal
+__label__0	4 security personnel killed in Egypt attacks
+__label__0	Women prefer men with deep voices
+__label__1	Cong doesn't rule out post-poll NCP alliance
+__label__1	JAC Delhi chapter to strengthen fight
+__label__1	Political class has managed to manipulate sentiments: De
+__label__0	Charges framed against Salman in another case
+__label__1	SC gives 3 weeks to Centre for Assam boundary panel
+__label__0	Strong deterrent answer to drunk driving
+__label__1	JD(U) MLA's act belies sushasan claim: SuMo
+__label__1	Abhishek Bachchan keen to become brand ambassador for govt programmes
+__label__1	Cong offers JD(S) 'Maharashtra formula' to save govt
+__label__0	Mother kills children in Kashmir to 'teach husband a lesson'
+__label__0	'Accused too sent son to US through same route'
+__label__0	SOG seizes 20 tonnes of banned mineral
+__label__1	JD(U) MLA passes away
+__label__0	21 found guilty in Narath case
+__label__0	Dalit leader gets life term for murder
+__label__0	Three men arrested for cheating call taxi firm of smartphones
+__label__1	Plantation drives' issues put ex-MCG head in trouble
+__label__1	Mocktale: Top trio of Indian politics share their New Year resolutions
+__label__0	Youth who eloped with minor booked for rape 
+__label__0	Land feud gets bloody
+__label__0	Sex-starved teen ended up being kidnapped
+__label__1	Cong achieves 50% of membership goal
+__label__1	MSEDCL staffers hopeful of pension
+__label__1	Teachers try to gherao Naveen Niwas
+__label__1	Bikaner MP to be state BJP election observer
+__label__0	Visitors barred from entering airport over security fears
+__label__0	Nine student suicides in 10 years
+__label__1	Judges divided over Pappu's bail plea
+__label__0	To study farm suicides too
+__label__1	UP BJP chief detained on way to Gorakhpur
+__label__1	'Can't work under Uddhav'
+__label__0	Kapurai violence: Panigate police arrests three more
+__label__0	Dispute over flying kite leads to murder
+__label__1	Syed Modi: Srikanth cruises into final
+__label__0	Biker killed in hit-and-run at Sector 89
+__label__0	Residents shocked by child's killing
+__label__1	Maya plays politics over engineer's murder
+__label__1	Differences erupt in JMM over Soren successor
+__label__0	Nine cows found dead at Market Yard
+__label__0	Duo in society as plumbers for serial burglaries
+__label__0	IIT-B profâ€™s adopted son stabs self over social media post
+__label__0	30-year-old arrested for kidnap
+__label__1	Court only can resolve BJP-JD(U) row over hall
+__label__1	BJP stages protest
+__label__1	Future course of India-Pakistan talks hinges on whether security cooperation is possible
+__label__1	Dharam Singh braces for crucial test in Assembly
+__label__1	Raje names five MLAs as parliamentary secretaries
+__label__0	Computers looted from shop
+__label__0	CID to help trace black money links
+__label__0	3 booked after raid at cricket betting den
+__label__1	'Govt should abstain if no consensus on Iran'
+__label__1	BJP slammed for playing dirty politics at poor patients' cost
+__label__0	Kin cry foul as second Audi suspect held
+__label__0	Spurned lover jailed over knife attack
+__label__0	Nithari: Top cop removed from post
+__label__0	Thieves strike 4 homes
+__label__1	India studies UK offer for FTA with EU
+__label__0	The debate rages online
+__label__1	Kashmiri Pandit forum demands release of names of youths selected for job
+__label__1	Fresh ship on 'invalid' papers?
+__label__1	News brief: 19K grads applied for UP sweeper jobs
+__label__1	Parrikar talks tough
+__label__0	Pilot faces action for reporting drunk
+__label__0	Jessica Lal murder case: All 9 accused acquitted
+__label__1	Rohith Vemula suicide: Owaisi slams Irani over UoH suicide
+__label__0	Cops hurt in mob violence at Kaliachak
+__label__0	Juvenile Justice Act comes into force
+__label__0	Self-serving officials spewing venom at us
+__label__0	Woman raped at gunpoint in moving SUV
+__label__0	Lone chain snatcher back to business
+__label__0	Techie arrested for harassing lady colleague
+__label__1	Dhal brothers had political links
+__label__1	Modi's demand for foreign tour reports puts babus in a spot
+__label__0	Beawar: Two doctors suspended
+__label__0	German minor rape: Rohit had never gone absconding
+__label__1	'Clarify provisions for women quota in polls'
+__label__1	Rights forum urges PM to rescue BTAD from Hagramaâ€™s â€˜misdeedsâ€™
+__label__1	Sao addresses media in Hazaribag
+__label__0	Haldia cop's body found
+__label__1	Probe outcome will prove my innocence: Natwar
+__label__0	Six men arrested for â€˜manhandlingâ€™ female constable at Mandava jetty
+__label__1	CPM yet to come out of Karat shadow
+__label__0	SC declines to intervene in Noida killings
+__label__0	Murder suspect remanded to custody
+__label__0	With 93 deaths in a year
+__label__0	Cops blame girl for receiving obscene calls
+__label__0	â€˜162-329m drug abusers across globeâ€™
+__label__1	Watch: Rahul's 'padyatra' from Bandra to Dharavi
+__label__1	GO issued on property tax relief; Rs 5 lakh home owners to benefit
+__label__1	MCD notices to 'big fish': CM on list
+__label__0	Traffic cop beats up truck driver who jumped signal
+__label__1	YSR Congress MP arrested for assaulting Air India official
+__label__1	Karnataka CM defends Naik
+__label__0	FIR against 6 over Rs 10L extortion demand
+__label__0	Manipur minister's guard shot dead
+__label__0	Sarpanchs: Women dislodge men
+__label__0	2 pick-pockets nabbed in Ghaziabad
+__label__1	Union minister Bandaru Dattatreya
+__label__0	Tutor makes kids walk on broken glass to boost confidence
+__label__0	Minor found in sex racket: Mother
+__label__1	Wakeup call for Bhaiyalal as BJP losses face in Korea
+__label__1	I'll expose conspirators in 3 days: Bansal
+__label__1	'Congress criticism of PM's visit to Lahore is unfortunate'
+__label__1	Gumla MLA spends festival with special kids
+__label__0	Fraud detected in Gaya Municipal Corporation
+__label__1	BJP needles UPA
+__label__0	Traces of blood on Ganesha statue prove Gokul killed wife
+__label__1	Jual: Pact with BJD 'historic blunder'
+__label__1	Shiv Sena targets PM Modi
+__label__0	Mumbai No. 1 hub for missing kids
+__label__1	Nepal: A hot bed of anti-India elements
+__label__1	Nithari killings was the last straw: Congress
+__label__0	Tension over Trinamul activist's murder
+__label__1	News brief: Outrage over dalit student's suicide
+__label__0	Ranchi tops crime list in Jharkhand
+__label__0	Surgeries conducted on 15 who lost eyesight at Nagri hospital
+__label__0	Roadside Juliets 'harass' control room male cops
+__label__1	Centre insensitive to the Ulfa problem: SP
+__label__0	CMH Road traders allege blatant violation
+__label__1	BJP MLA to resign from Goa Assembly
+__label__0	Tihar inmate who got killed instigated brawl
+__label__1	Congâ€™s negative mindset blocking GST: BJP
+__label__1	Mamata gives Buddhadeb
+__label__0	Rioters take advantage of police error
+__label__1	Historic win for NCP in PCMC
+__label__0	Cops clueless in double murder case
+__label__1	Plenum shows CPM yet to emerge from Karat shadow
+__label__1	Alert administration on poll booths without infrastructure
+__label__0	Minor raped by tenant
+__label__0	Man stoned to death
+__label__1	Rajasthan scores low on scholors wishlist
+__label__1	Govt plans to bring down cap on e-procurement to Rs 1 lakh
+__label__1	It's Goa's beaches for JD(S) rebels
+__label__1	Maharashtra government makes conversion of agriculture land for industrial use simpler
+__label__0	Tribal couple held for trafficking in Giridih
+__label__0	Notorious gangster held in E Champaran
+__label__1	Flood-hit TN small traders to get Rs 5K interest-free loan from state
+__label__1	Expelled Uma to launch new party
+__label__1	Congress questions Modiâ€™s Pak policy
+__label__0	Tihar high on drugs
+__label__1	BJP's Ambala unit chief elected amid controversy
+__label__1	Health minister faces Patidar fury in Mehsana
+__label__0	MK appears in court with entourage
+__label__0	Cop's son held for Metro hoax call
+__label__1	The status of rural schools in India
+__label__1	Gehlot looks forward to a clean & transparent government
+__label__1	BJP is undergoing 'ideological crisis': Uma
+__label__1	Cong to allies: Don't harass us
+__label__0	CBI quizzes R.Infocomm & BSNL chief techie
+__label__0	AIADMK
+__label__1	BJP demands all-party meet on Iran vote
+__label__1	RSS to launch `Samajik Sadbhav' drive
+__label__0	Charminar Bank accounts go missing
+__label__1	Manipur's border hospitals bring succour even to poor Myanmarese
+__label__1	Save BJP: Uma to show strength in Delhi
+__label__1	Pro-Vidarbha groups to mount pressure on BJP
+__label__1	BKU protest blocks NH-58 in Modinagar
+__label__0	Gunshots echo twice in city
+__label__0	Noida cops try to suppress facts
+__label__0	Woman kills self
+__label__1	Jayalalithaa confident of massive victory
+__label__0	I-T searches at offices of builder
+__label__1	Aamir Khan's film 'Dangal' deserves 'treatment': BJP leader
+__label__1	Mayor Kaur brings SAD news for Cong
+__label__0	CISF constable shoots himself dead with licensed weapon
+__label__0	Rangpar villagers fear for life after murder
+__label__0	Rabodi man kills dog with paver block
+__label__1	Dismiss Law Minister
+__label__0	Teacher held for abetting girl's suicide
+__label__1	Does Congress want a Congress-mukt Bharat too?
+__label__1	Kamrup (Metro) makes hoardings in Assamese compulsory
+__label__0	Chemist's son hunts for thalassemia drug
+__label__0	Cops bust illicit liquor racket in Taloja
+__label__1	CPM minister in puja row; probe ordered
+__label__0	Crime Tabloid
+__label__1	When will Mehbooba take oath? The suspense continues
+__label__0	Tilamol resident arrested in case of cow slaughter
+__label__0	Tribal woman's death: Axe falls on inspector
+__label__0	Debt-ridden man kidnaps 6-yr-old
+__label__1	Cong is trying to exploit Rohith Vemula issue: Venkaiah
+__label__0	Cop booked for sexual assault made DIG
+__label__0	Govt staffer in Bargarh held for 'kidney theft'
+__label__0	Bus driver â€˜draggedâ€™ to police for fleecing
+__label__0	Woman officer suspended for custody torture
+__label__1	Decoding Quattrocchi's bank accounts
+__label__0	Why Daware kidnapped 8-yr-old Yug
+__label__0	Phone tapping: Anurag's bail plea rejected
+__label__0	Sub inspector suspended following fight with colleague
+__label__1	No trafficking charge
+__label__0	Real danger to tigers not from road traffic
+__label__0	Nick Carter released from prison
+__label__0	Man enters lover's house in disguise
+__label__0	750-kg RDX smuggled into India?
+__label__0	Woman alleges sexual abuse by father
+__label__1	Kamal Nath hails Tata-Corus deal
+__label__1	Real test of odd-even rule will be next week: BJP
+__label__0	Family seeks justice
+__label__1	'Cow slaughter' being used to target us
+__label__0	Kolkata hit-and-run: Victimâ€™s brother seeks justice
+__label__0	Woman commits suicide by setting herself ablaze
+__label__0	Chief secy kept in the dark
+__label__0	Police brutality caught on camera in Delhi
+__label__0	Did fraud cause loss for Mysore Paper Mills? CID to probe
+__label__0	Daughter's death puts man on Mission Helmet
+__label__1	Mr Minister
+__label__0	Nithari: Police officer's house raided
+__label__0	Duped foreign duo's email to top cop lands culprits in net
+__label__0	17-year-old Pune boy killed
+__label__1	Lok Sabha polls to be held on schedule: Pranab
+__label__1	Left front calls for opposition unity to oust TMC
+__label__0	Vehicle used in kidnapping seized
+__label__1	Congress
+__label__0	Batteries worth 2.5l stolen from mobile towers
+__label__0	Catering contractor found murdered in Pimpri
+__label__0	Khairlanji killings: Accused to be produced in court
+__label__1	Cong aware of Jogi's role in by-polls last year
+__label__0	TMC man under CBI lens for 'links with coal mafia'
+__label__0	Masked men beat up toll booth staff
+__label__1	Defaulters must not flaunt money: Raghuram Rajan
+__label__1	PM Narendra Modiâ€™s chest now said to measure 50 inches
+__label__0	False hijack alarm triggers panic at Mumbai airport
+__label__0	Accused to be quizzed in Jaipur
+__label__0	Raid on shops: Cops for quality test on products
+__label__1	'India is the world's best investment opportunity'
+__label__1	Shobhaa De: Go ahead
+__label__1	CPM MP hails `investor-friendly' Modi
+__label__0	Railway stations are sitting ducks
+__label__0	Doctor alleges cruelty after hubby doesn't return from US
+__label__0	Foreign job racket busted
+__label__0	Half-burnt body found in Panchkula
+__label__1	BJP
+__label__0	Schoolboy killed in mishap
+__label__0	Notorious gang leader nabbed by police
+__label__0	Mining accused's death won't affect case: ACB
+__label__1	Govt okays 2nd sedition chargesheet against PAAS leaders
+__label__1	Assamese hoardings must in Kamrup(M)
+__label__0	Missing kids in state: 2
+__label__1	Budget studies centre: Mani's name to remain
+__label__1	Water planning on Sena leaders' minds
+__label__0	Beyond the call of duty
+__label__1	Jogi seeks Soniaâ€™s nod to file defamation against Bhagel
+__label__1	Agitating students reject Rs 8 lakh relief for family of dalit scholar
+__label__1	BJP joins strikers
+__label__0	Two women found dead in Belpahari
+__label__0	Shopkeeper stabbed 
+__label__0	How chain snatchers scoot from the spot: Grab chain
+__label__0	Maiden win for spirited Sudha
+__label__0	Donâ€™t be lax in acting against illegal shrines
+__label__1	Govt announces new offices for 1
+__label__0	Tension in Viveknagar
+__label__1	Key defence projects on â€˜Make in Indiaâ€™ path
+__label__0	BJP: University saw 9 Dalit suicides under UPA
+__label__0	For bomb's sake! FSL confirms it is rice wine
+__label__0	Sabharwal case: Another witness turns hostile
+__label__1	Mocktale: Kejriwal gets Oscar nomination for best actor
+__label__1	Yet another chargesheet filed against Patidar Anamat Andolan Samiti convener
+__label__0	Tax sop for builders to curb violations
+__label__1	Rohith's suicide not linked to hostel expulsion: BJP leader
+__label__1	Congress woo Independents to join party
+__label__1	BJP banking on paper trail machines in Bengal
+__label__0	Gujarat tribals look to avenge 'murder' in name of custom
+__label__0	One militant killed in Manipur encounter
+__label__0	Jade admits to making racist comments
+__label__0	China police arrest 21 over $7.6 billion online financial scam
+__label__0	12-year-old arrested for sexually assaulting kid
+__label__0	Bihar MLA helps husband flee from police station
+__label__0	Erode farmer arrested for growing ganja
+__label__1	Kashmiri Pandit Martyrs Memorial to be built in the Valley
+__label__1	Cong prefers to sit in Oppn in Karnataka
+__label__0	Police help couples from parting over petty reasons
+__label__0	Studentâ€™s suicide: Malicious attempt to stoke passions
+__label__0	Minor raped by teacher in Ambala
+__label__1	Despite CMâ€™s claims
+__label__0	Handicapped woman raped
+__label__0	Kakori: Police claim breakthrough
+__label__1	National integration camp in Nagaland
+__label__1	Musical chairs in Vidhana Soudha
+__label__0	Electrician arrested for bank heist
+__label__1	Fake encounter row: BJP seeks resignation of Ibobi Singh
+__label__0	Virar woman loses Rs 20K after â€˜helpfulâ€™ man steals ATM card
+__label__0	Afghan woman accuses Major of cheating
+__label__1	Badal assures UT mayor of solution to water woes
+__label__0	Pujari calls: Builders given security
+__label__0	Carcass of leopard with missing parts found
+__label__1	Parties leave tribals scared and confused
+__label__1	Raman Singh set to become Chhattisgarh CM
+__label__0	Lone chain snatcher admits link to 3 more cases
+__label__0	Pictures of youth changing registration plate leave police in spot
+__label__1	I'll do my best in time available: CM
+__label__0	Car snuffs out biker's life
+__label__1	Soccer: Delhi held by Tripura
+__label__1	Firing at dawn shakes up RSS event
+__label__0	Crusader for Khesari dal feels vindicated
+__label__0	Hindu businessman kidnapped
+__label__0	Delhi cop in extramarital affair shoots lover
+__label__1	PDP ready to sit in opposition benches in J&K assembly
+__label__0	Rapist known to survivor in most cases
+__label__1	Sonia not at par with British Queen: BJP
+__label__0	Housewife robbed at knife point
+__label__0	Court acquits man charged with rape
+__label__1	BJP leader Sushma Swaraj admitted to AIIMS
+__label__0	Chintan Upadhyay to get bed in prison
+__label__0	Amar phone-tap legal: Reliance
+__label__0	'Maids' strike again
+__label__1	BVK state meet from tomorrow
+__label__0	Crisis in JD(S) as K'taka minister quits
+__label__1	J-K MLA alleges manhandling by cops; police denies charge
+__label__0	Rising crimes worry residents
+__label__0	AIIMS docs in dock over fake injury report
+__label__1	Swagato Ganguly: How Kejriwal made Delhi over into Singapore
+__label__0	Sporadic violence mars toon protest
+__label__1	Cong hijacks hotels
+__label__0	Girl ends life inside hostel room in Surat
+__label__0	Kingpin in kidnap of gold merchant wanted in 40 cases including murder
+__label__1	Rajghat committee denies financial irregularities
+__label__0	18-year-old student commits suicide
+__label__0	Couple guilty of bigamy sent to jail
+__label__1	Don admits to 'links' with politicians
+__label__0	Madras HC junks â€˜settlementâ€™ bid in rape case
+__label__0	Gangster brothers ran crime empire in corporate style
+__label__0	Traffic violations rise by 11% in 2015 compared to 2014
+__label__1	â€‹Chemists oppose 10-fold increase in registration fee
+__label__0	Bengal policeman creates ruckus on dry day
+__label__1	Telangana govt bodies negate free parking at Numaish
+__label__1	Nitish recalls bad old days when he was not CM
+__label__1	AP govt mulls new land acquisition Act
+__label__0	4 held for trying to smuggle sand from river bank
+__label__1	Hegde rues poor conviction rate
+__label__0	Man held with 40 kg of ganja
+__label__1	Cong sends notice for maligning Rahul
+__label__1	Expelled Uma to launch new party
+__label__0	Kota: Another coaching student kills self
+__label__0	Class XII boy ends life in Banaskantha
+__label__0	50-year-old man held for killing son in Garhwa
+__label__1	Stage set for intense group feud in Congress
+__label__0	Restaurateur succumbs to bullet injuries
+__label__0	Orphaned kids help woman beat 14-year-old mental illness
+__label__1	Kiran Bedi: Mere lip-service won't do
+__label__1	Andhra govt forms panels to appoint VCs
+__label__1	PM Modi
+__label__0	4 murders in 7 days: Cops grope in dark
+__label__1	C.H.Ravindran Nambiar
+__label__0	5 get judicial custody in desilting scam
+__label__0	Dancer kills friend
+__label__1	High drama prevails on Madras HC campus as Karunanidhi appears in court
+__label__0	Shahabu refuses to 'write' before police
+__label__1	Party rallies behind Gogoi
+__label__1	India to support Russian WTO bid
+__label__0	Chinchwad temple trust head found hanging
+__label__0	Armed man robs 29-yr-old in her home at Bhosari
+__label__1	BJP minister Eknath Khadse files Rs 5 crore defamation suit against Shiv Sena MLA
+__label__1	PIL demands action against truckers for damaging roads
+__label__1	RJD MP defends Nitish

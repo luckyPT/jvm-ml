@@ -32,8 +32,11 @@ import scala.util.Try
   */
 object FastText4J {
     def main(args: Array[String]): Unit = {
-        fastTextTrain()
-        test()
+        /*val jft = new JFastText
+        jft.loadModel("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastText/skip-gram.model.bin")
+        println(jft.getVector("中国"))*/
+        trainWord2Vec()
+        //test()
         //submission()
     }
 
@@ -43,7 +46,7 @@ object FastText4J {
             "-input", "dataset/word2vec-nlp-tutorial/unlabelTrainData",
             "-output", "dataset/word2vec-nlp-tutorial/fastText/skip-gram.model",
             "-bucket", "20",
-            "-dim", "10",
+            "-dim", "100",
             "-minn", "3",
             "-maxn", "6",
             "-wordNgrams", "5",
