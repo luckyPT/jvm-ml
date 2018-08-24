@@ -120,6 +120,12 @@
             <artifactId>deeplearning4j-ui_2.11</artifactId>
             <version>1.0.0-beta</version>
         </dependency>
+        <!--lingpipe语言处理工具-->
+        <dependency>
+            <groupId>de.julielab</groupId>
+            <artifactId>aliasi-lingpipe</artifactId>
+            <version>4.1.0</version>
+        </dependency>
     </dependencies>
 
     <build>

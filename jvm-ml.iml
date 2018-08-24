@@ -406,5 +406,6 @@
     <orderEntry type="library" name="Maven: org.mapdb:elsa:3.0.0-M5" level="project" />
     <orderEntry type="library" name="Maven: org.xerial:sqlite-jdbc:3.15.1" level="project" />
     <orderEntry type="library" name="Maven: org.deeplearning4j:deeplearning4j-ui-resources:1.0.0-beta" level="project" />
+    <orderEntry type="library" name="Maven: de.julielab:aliasi-lingpipe:4.1.0" level="project" />
   </component>
 </module>
