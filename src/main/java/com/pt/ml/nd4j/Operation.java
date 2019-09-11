@@ -40,7 +40,7 @@ public class Operation {
         INDArray multi = one.muli(two);
         System.out.println("multi:" + multi);
 
-        //Vec的加减乘除
+        //Vec的加减乘(区分mmul 和 mul)除
         INDArray vec1 = Nd4j.trueVector(new double[] {1, 2, 3});
         INDArray vec2 = Nd4j.trueVector(new double[] {4, 5, 6});
         INDArray vecAdd = vec1.add(vec2);
