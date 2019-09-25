@@ -28,7 +28,7 @@ object CnnNeuralNetworkSpark {
         val labelNum = 10
         val batchSize = 10
         val learningRate = 0.001
-        val data = File2DataSetIterator.csv("/home/panteng/IdeaProjects/jvm-ml/dataset/MINIST/train.csv",
+        val data = File2DataSetIterator.csv("dataset/MINIST/train.csv",
             featureNum, labelNum, batchSize, 30000)
         data.setPreProcessor(new MyDataSetPreProcessor)
 

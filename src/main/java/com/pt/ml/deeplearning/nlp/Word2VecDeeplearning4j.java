@@ -15,7 +15,7 @@ import java.util.List;
  */
 public class Word2VecDeeplearning4j implements IWord2Vec {
     private static final WordVectors wordVectors = WordVectorSerializer
-            .readWord2VecModel(new File("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastText/skip-gram.model.vec"));
+            .readWord2VecModel(new File("dataset/word2vec-nlp-tutorial/fastText/skip-gram.model.vec"));
     private static final int size = wordVectors.getWordVector(wordVectors.vocab().wordAtIndex(0)).length;
 
     @Override

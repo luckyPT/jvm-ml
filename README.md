@@ -28,9 +28,41 @@
 
 - [多分类评估指标计算,精确度、加权准确率召回率、F1值、各类别的准确率-召回率-F1值](/src/main/java/com/pt/ml/util/MultiClassEvaluation.scala)
 
-- [fastText for java](/src/main/java/com/pt/ml/algorithm/FastText4J.scala)
+- [Ansj分词](/src/main/java/com/pt/ml/process/AnsjSegmenterUtil.java)
+
+- [JieBa分词](/src/main/java/com/pt/ml/process/JiebaSegmenterUtil.java)
+
+- [数据标准化与归一化](/src/main/java/com/pt/ml/process/Scaler.scala)
+
+- [TF-IDF计算](/src/main/java/com/pt/ml/process/TfIdf.scala)
+
+- [生成词向量](/src/main/java/com/pt/ml/process/WordToVector.scala)
+
+- [连续特征离散化](/src/main/java/com/pt/ml/process/Discretization.scala)
+
+- [计算编辑距离](/src/main/java/com/pt/ml/example/EditDistanceDemo.java)
+
+- [PCA降维](/src/main/java/com/pt/ml/process/Pca.scala)
+
+- [TSNE降维](/src/main/java/com/pt/ml/process/TSNEStandard.java)
+
+- [fastText for java训练](/src/main/java/com/pt/ml/algorithm/FastText4J.scala)
+
+- [fastText for java 词向量模型使用](/src/main/java/com/pt/ml/deeplearning/nlp/Word2VecFastText.java)
 
 - [java 绘制点、线、柱状图](/src/main/java/com/pt/ml/visualization)
+
+- [deeplearning4j - 单机前向传播神经网络](/src/main/java/com/pt/ml/deeplearning/BpNeuralNetwork.java)
+
+- [deeplearning4j - 单机卷积神经网络](/src/main/java/com/pt/ml/deeplearning/CnnNeuralNetwork.java)
+
+- [deeplearning4j - spark版本卷积神经网络](/src/main/java/com/pt/ml/deeplearning/CnnNeuralNetworkSpark.scala)
+
+- [deeplearning4j - 单机循环神经网络](/src/main/java/com/pt/ml/deeplearning/LstmClassification.java)
+
+- [deeplearning4j - spark版本循环神经网络](/src/main/java/com/pt/ml/deeplearning/LstmClassificationSpark.scala)
+
+- [deeplearning4j - 词向量使用](/src/main/java/com/pt/ml/deeplearning/nlp/Word2VecDeeplearning4j.java)
 
 
 # 开源引用

@@ -20,7 +20,7 @@ public class BpNeuralNetwork {
         int featureNum = 4;
         int labelNum = 3;
         int layer1CellCount = 10;
-        DataSetIterator data = File2DataSetIterator.svm("/home/panteng/IdeaProjects/jvm-ml/dataset/iris.libsvm", featureNum, labelNum, 20);
+        DataSetIterator data = File2DataSetIterator.svm("dataset/iris.libsvm", featureNum, labelNum, 20);
         MultiLayerConfiguration config = new NeuralNetConfiguration.Builder()
                 .seed(123)
                 .activation(Activation.RELU)
@@ -54,7 +54,7 @@ public class BpNeuralNetwork {
             model.fit(data);
         }
 
-        data = File2DataSetIterator.svm("/home/panteng/IdeaProjects/jvm-ml/dataset/iris.libsvm", featureNum, labelNum, 20);
+        data = File2DataSetIterator.svm("dataset/iris.libsvm", featureNum, labelNum, 20);
         Evaluation eval = new Evaluation(labelNum); //create an evaluation object with 10 possible classes
         for (int i = 0; i < 100 && data.hasNext(); i++) {
             DataSet next = data.next();

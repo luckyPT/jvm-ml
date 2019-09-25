@@ -30,7 +30,7 @@ public class CnnNeuralNetwork {
         int batchSize = 10;
         double learningRate = 0.001;
         DataSetPreProcessor preProcessor = new MyDataSetPreProcessor();
-        DataSetIterator trainData = File2DataSetIterator.csv("/home/panteng/IdeaProjects/jvm-ml/dataset/MINIST/train.csv",
+        DataSetIterator trainData = File2DataSetIterator.csv("dataset/MINIST/train.csv",
                 featureNum, labelNum, batchSize, 30000);
         trainData.setPreProcessor(preProcessor);
 
@@ -70,7 +70,7 @@ public class CnnNeuralNetwork {
         MultiLayerNetwork net = new MultiLayerNetwork(config);
         net.init();
         net.setListeners(DeeplearningUI.startUI());
-        DataSetIterator testData = File2DataSetIterator.csv("/home/panteng/IdeaProjects/jvm-ml/dataset/MINIST/train.csv",
+        DataSetIterator testData = File2DataSetIterator.csv("dataset/MINIST/train.csv",
                 featureNum, labelNum, batchSize, 1);
         testData.setPreProcessor(preProcessor);
         System.out.println("start train...");

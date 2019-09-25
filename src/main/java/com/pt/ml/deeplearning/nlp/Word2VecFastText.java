@@ -9,7 +9,7 @@ public class Word2VecFastText implements IWord2Vec {
     private static final int size;
 
     static {
-        jft.loadModel("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/fastText/skip-gram.model.bin");
+        jft.loadModel("dataset/word2vec-nlp-tutorial/fastText/skip-gram.model.bin");
         size = jft.getVector("test").size();
     }
 
@@ -26,5 +26,11 @@ public class Word2VecFastText implements IWord2Vec {
     @Override
     public boolean hasWords(String word) {
         return true;
+    }
+
+    public static void main(String[] args) {
+        Word2VecFastText w2v = new Word2VecFastText();
+        System.out.println(w2v.getVec("am"));
+        System.out.println(w2v.getVec("is"));
     }
 }

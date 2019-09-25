@@ -15,7 +15,7 @@ import org.apache.spark.sql.SparkSession
   * 后者计算时输出层采用的是
   * 无论是哪种模型，目标都不是求解词向量，词向量只是模型的一个副产物;模型本身是为了预测出现的词;
   *
-  * spark基于softmax实现了skim model;并且在spark中每个词对应两个向量，一个做为上下文时使用，一个作为预测词时使用
+  * spark基于softmax实现了skip model;并且在spark中每个词对应两个向量，一个做为上下文时使用，一个作为预测词时使用
   * spark基于训练的模型，可以在字典集合内查找距离某个词最近的N个词;可以利用这个初步判断词向量训练是否适合
   * 调优：窗口大小、向量长度、迭代次数、学习率
   * 效果评价：1-降维可视化  2-看最终损失   3-看后面的使用效果（如特征加入到监督学习中的效果） 4-看看近似词
@@ -31,7 +31,7 @@ object WordToVector {
 
         val sc = spark.sparkContext
         import spark.implicits._
-        val labelReview = sc.textFile("/home/panteng/IdeaProjects/jvm-ml/dataset/word2vec-nlp-tutorial/labeledTrainData.tsv").collect {
+        val labelReview = sc.textFile("dataset/word2vec-nlp-tutorial/labeledTrainData.tsv").collect {
             case str if str.split("\t").length == 3 && !str.contains("id\tsentiment\treview") =>
                 val Array(_, label, review) = str.split("\t")
                 val sentences = review.replaceAll("\"", "")
