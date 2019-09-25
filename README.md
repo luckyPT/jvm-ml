@@ -1,6 +1,16 @@
 # 简介
 基于java，scala，spark的机器学习相关算法
+
+# DEMO 目录
+- 决策树分类(CART树)(/src/main/java/com/pt/ml/algorithm/DecisionTree.scala)<br>
+libsvm格式文件加载 -> string类型lable 转 index -> 特征处理，自动区分离散特征并进行编码 -> 决策树分类器 -> 标签反转，由index转为String类型的lable <br>
+以上流程统一到Pipeline中
+
+- spark生成tfRecord文件以及python读取的demo(/src/main/java/com/pt/ml/generate/tfrecord/GenerateTfrecordBySpark.scala)
+
+
 # 开源引用
+
 ## License
 BSD
 

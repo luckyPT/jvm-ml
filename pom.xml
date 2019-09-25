@@ -126,6 +126,12 @@
             <artifactId>aliasi-lingpipe</artifactId>
             <version>4.1.0</version>
         </dependency>
+        <!-- 生成tf-record-->
+        <dependency>
+            <groupId>org.tensorflow</groupId>
+            <artifactId>spark-tensorflow-connector_2.11</artifactId>
+            <version>1.11.0</version>
+        </dependency>
     </dependencies>
 
     <build>
