@@ -1,12 +1,36 @@
 # 简介
 基于java，scala，spark的机器学习相关算法
 
+### 相较于python的优势
+1. 大部分线上服务以java为主，因此模型服务与现有的服务结合比较方便<br>
+2. 可以利用spark处理大规模数据，spark对scala的支持优于python
+
 # DEMO 目录
-- [决策树分类(CART树)](/src/main/java/com/pt/ml/algorithm/DecisionTree.scala)<br>
-libsvm格式文件加载 -> string类型lable 转 index -> 特征处理，自动区分离散特征并进行编码 -> 决策树分类器 -> 标签反转，由index转为String类型的lable <br>
-以上流程统一到Pipeline中
+- [逻辑回归](/src/main/java/com/pt/ml/algorithm/LogisticRegression.scala)
+
+- [决策树分类及调优总结(CART树)](/src/main/java/com/pt/ml/algorithm/DecisionTree.scala)
+
+- [spark GBDT算法](/src/main/java/com/pt/ml/algorithm/GradientBoostTree.scala)
+
+- [spark 随机森林算法](/src/main/java/com/pt/ml/algorithm/RandomForest.scala)
+
+- [线性支撑向量机](/src/main/java/com/pt/ml/algorithm/SurportVectorMerchine.scala)
+
+- [xgboost for scala](/src/main/java/com/pt/ml/algorithm/Xgboost4jScala.scala)
+
+- [xgboost for spark](/src/main/java/com/pt/ml/algorithm/Xgboost4jSpark.scala)
+
+- [LDA 聚类](/src/main/java/com/pt/ml/algorithm/LdaCluster.scala)
 
 - [spark生成tfRecord文件以及python读取的demo](/src/main/java/com/pt/ml/generate/tfrecord/GenerateTfrecordBySpark.scala)
+
+- [二分类的ROC曲线、PR曲线、阈值与PR曲线、阈值F1曲线绘制](/src/main/java/com/pt/ml/util/BinaryClassEvaluation.scala)
+
+- [多分类评估指标计算,精确度、加权准确率召回率、F1值、各类别的准确率-召回率-F1值](/src/main/java/com/pt/ml/util/MultiClassEvaluation.scala)
+
+- [fastText for java](/src/main/java/com/pt/ml/algorithm/FastText4J.scala)
+
+- [java 绘制点、线、柱状图](/src/main/java/com/pt/ml/visualization)
 
 
 # 开源引用
