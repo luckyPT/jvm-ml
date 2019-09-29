@@ -52,10 +52,16 @@
         </dependency>
         <!--xgboost-->
         <dependency>
+            <groupId>ml.dmlc</groupId>
+            <artifactId>xgboost4j-spark</artifactId>
+            <version>0.82</version>
+        </dependency>
+        <!--<dependency>
             <groupId>com.github.hirofumi</groupId>
             <artifactId>xgboost4j-spark_2.11</artifactId>
             <version>0.7.0-p3</version>
-        </dependency>
+        </dependency>-->
+
         <!--分词-->
         <dependency>
             <groupId>com.huaban</groupId>
