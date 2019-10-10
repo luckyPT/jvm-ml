@@ -8,6 +8,8 @@
 # DEMO 目录
 - [逻辑回归](/src/main/java/com/pt/ml/algorithm/LogisticRegression.scala)
 
+- [最大熵模型及自定义实现](/src/main/java/com/pt/ml/algorithm/MaxEntropy.java)
+
 - [决策树分类及调优总结(CART树)](/src/main/java/com/pt/ml/algorithm/DecisionTree.scala)
 
 - [spark GBDT算法](/src/main/java/com/pt/ml/algorithm/GradientBoostTree.scala)
