@@ -44,6 +44,8 @@
 
 - [计算编辑距离](/src/main/java/com/pt/ml/example/EditDistanceDemo.java)
 
+- [SimHash算法](/src/main/java/com/pt/ml/process/SimHash.java)
+
 - [PCA降维](/src/main/java/com/pt/ml/process/Pca.scala)
 
 - [TSNE降维](/src/main/java/com/pt/ml/process/TSNEStandard.java)
