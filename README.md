@@ -34,6 +34,8 @@
 
 - [JieBa分词](/src/main/java/com/pt/ml/process/JiebaSegmenterUtil.java)
 
+- [自定义简易分词](/src/main/java/com/pt/ml/process/CustomSegmenter.java)
+
 - [数据标准化与归一化](/src/main/java/com/pt/ml/process/Scaler.scala)
 
 - [TF-IDF计算](/src/main/java/com/pt/ml/process/TfIdf.scala)
