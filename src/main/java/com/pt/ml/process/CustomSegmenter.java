@@ -1,9 +1,8 @@
 package com.pt.ml.process;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * 一般开源的分词模型比较通用，所以需要无论是在词典还是算法上都相对复杂；
@@ -12,22 +11,35 @@ import java.util.Map;
  */
 public class CustomSegmenter {
     private TrieTree tree;
+    List<RegexFeature> regexFeatures = new LinkedList<>();
 
     public CustomSegmenter(String[] words) {
         tree = new TrieTree(words);
+    }
+
+    public CustomSegmenter(String[] words, String[][] regexAndNames) {
+        tree = new TrieTree(words);
+        for (String[] regexName : regexAndNames) {
+            regexFeatures.add(new RegexFeature(Pattern.compile(regexName[0]), regexName[1]));
+            tree.addWords(regexName[1]);
+        }
     }
 
     public static void main(String[] args) {
         String[] testStrs = new String[]{
                 "已发货", "已签收", "已签单", "已经签收", "已购", "红包", "礼券", "大额"
         };
-        String s = "您已签收订单，5星好评领大额红包哦。";
-        CustomSegmenter segmenter = new CustomSegmenter(testStrs);
+        String[][] regexNames = {{"[0-9]+", "数字"}, {"[a-z]+", "小写字母"}};
+        String s = "您已签收订单，5星好评领大额红包哦。验证码abcd";
+        CustomSegmenter segmenter = new CustomSegmenter(testStrs, regexNames);
         List<String> tokens = segmenter.process(s);
         tokens.forEach(w -> System.out.print(w + "||"));
     }
 
     public List<String> process(String s) {
+        for (RegexFeature rf : regexFeatures) {
+            s = rf.findFormat(s);
+        }
         List<String> result = new ArrayList<>();
         for (int i = 0; i < s.length(); ) {
             int lastIndex = tree.maxLastIndex(s, i);
@@ -57,13 +69,17 @@ public class CustomSegmenter {
 
         TrieTree(String[] words) {
             for (String w : words) {
-                Node curNode = root;
-                for (char c : w.toCharArray()) {
-                    if (curNode.toNextNode(c) == null) {
-                        curNode.addNextNode(c);
-                    }
-                    curNode = curNode.toNextNode(c);
+                addWords(w);
+            }
+        }
+
+        void addWords(String w) {
+            Node curNode = root;
+            for (char c : w.toCharArray()) {
+                if (curNode.toNextNode(c) == null) {
+                    curNode.addNextNode(c);
                 }
+                curNode = curNode.toNextNode(c);
             }
         }
 
@@ -89,6 +105,28 @@ public class CustomSegmenter {
             boolean isEnd() {
                 return nodes == null;
             }
+        }
+    }
+
+    static class RegexFeature {
+        Pattern p;
+        String name;
+
+        RegexFeature(Pattern p, String name) {
+            this.p = p;
+            this.name = name;
+        }
+
+        String findFormat(String s) {
+            Matcher matcher = p.matcher(s);
+            List<String> targets = new LinkedList<>();
+            while (matcher.find()) {
+                targets.add(s.substring(matcher.start(), matcher.end()));
+            }
+            for (String t : targets) {
+                s = s.replace(t, name);
+            }
+            return s;
         }
     }
 }
